@@ -628,3 +628,6 @@ http://adda.aneplaymax.online/api/vstream.m3u8?id=144
 
 #EXTINF:-1 tvg-id="12" tvg-name="Zee TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",Zee TV HD
 https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeetvhd&format=.m3u8
+
+#EXTINF:-1 tvg-id="236" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg", Team RXS
+https://uttrakhan06.kabnnazma.workers.dev/0:/ottbangla.store-Vidaamuyarchi (2025) Hindi Dubbed ORG PreDvDRip 720p.mkv
