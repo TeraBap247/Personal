@@ -1,0 +1,630 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg", Team RXS
+https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
+
+#EXTINF:-1 tvg-id="229" tvg-name="Champions Trophy 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/champions-trophy-2025.png",Champions Trophy 2025
+http://server.top10bhaluka.com:100/toki/vstream.php?id=dabc1264521d&e=.m3u8
+
+#EXTINF:-1 tvg-id="228" tvg-name="Romedy Now" tvg-logo="https://otapp.store/uploads/tv_image/sm/romedy-now.png",Romedy Now
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=179
+
+#EXTINF:-1 tvg-id="227" tvg-name="Movies now" tvg-logo="https://otapp.store/uploads/tv_image/sm/movies-now.png",Movies now
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66271
+
+#EXTINF:-1 tvg-id="226" tvg-name="AXN" tvg-logo="https://otapp.store/uploads/tv_image/sm/axn.png",AXN
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=98915
+
+#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://otapp.store/uploads/tv_image/sm/hbo.png",HBO
+http://prothomalo.lol/.wp-app/stream.m3u8?id=346567
+
+#EXTINF:-1 tvg-id="222" tvg-name="Animax" tvg-logo="https://otapp.store/uploads/tv_image/sm/animax.png",Animax
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=151034
+
+#EXTINF:-1 tvg-id="221" tvg-name="T Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png",T Sports 2
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS
+
+#EXTINF:-1 tvg-id="220" tvg-name="Star Utsav Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-utsav-movies.png",Star Utsav Movies
+http://prothomalo.lol/.wp-app/stream.m3u8?id=112971
+
+#EXTINF:-1 tvg-id="219" tvg-name="T Sports 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-1.png",T Sports 1
+http://server.top10bhaluka.com:4519/tspo/video.m3u8
+
+#EXTINF:-1 tvg-id="218" tvg-name="BTV World" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv-world.png",BTV World
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png",TARA TV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-id="216" tvg-name="Willow Cricket" tvg-logo="https://otapp.store/uploads/tv_image/sm/willow-cricket.png",Willow Cricket
+http://prothomalo.lol/.wp-app/stream.m3u8?id=347333
+
+#EXTINF:-1 tvg-id="215" tvg-name="TYC Sports Argentina" tvg-logo="https://otapp.store/uploads/tv_image/sm/tyc-sports-argentina.png",TYC Sports Argentina
+http://prothomalo.lol/.wp-app/stream.m3u8?id=348162
+
+#EXTINF:-1 tvg-id="214" tvg-name="MNX" tvg-logo="https://otapp.store/uploads/tv_image/sm/mnx.png",MNX
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=191
+
+#EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",Sony Yay Bangla
+http://server.top10bhaluka.com:100/toki/vstream.php?id=edf7ba617dc5&e=.m3u8
+
+#EXTINF:-1 tvg-id="212" tvg-name="Star Movies Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies-select.png",Star Movies Select
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66315
+
+#EXTINF:-1 tvg-id="211" tvg-name="Star Gold Romance" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold-romance.png",Star Gold Romance
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66186
+
+#EXTINF:-1 tvg-id="209" tvg-name="Jagoroni TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jagoroni-tv.png",Jagoroni TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="208" tvg-name="NAN TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nan-tv.png",NAN TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="207" tvg-name="Ten Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/ten-sports.png",Ten Sports
+http://server.top10bhaluka.com:100/toki/vstream.php?id=f76c7eb00da0&e=.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-name="SSC Sport 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/ssc-sport-1.png",SSC Sport 1
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=36251
+
+#EXTINF:-1 tvg-id="205" tvg-name="Supersport Football" tvg-logo="https://otapp.store/uploads/tv_image/sm/supersport-football.png",Supersport Football
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=SUPERSPORTS-FOOTBALL
+
+#EXTINF:-1 tvg-id="204" tvg-name="SuperSport Cricket" tvg-logo="https://otapp.store/uploads/tv_image/sm/supersport-cricket.png",SuperSport Cricket
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=SUPERSPORTS-CRICKET
+
+#EXTINF:-1 tvg-id="201" tvg-name="TRAVELXP BANGLA" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-bangla.png",TRAVELXP BANGLA
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=20622
+
+#EXTINF:-1 tvg-id="200" tvg-name="DAZN LaLiga" tvg-logo="https://otapp.store/uploads/tv_image/sm/dazn-laliga.png",DAZN LaLiga
+https://bajimath.com/noyajus23-90/live.m3u8?id=70022d6a9e07dbc2e2833f4ad0be5845&vtoken=iptv_m3u
+
+#EXTINF:-1 tvg-id="199" tvg-name="DAZN" tvg-logo="https://otapp.store/uploads/tv_image/sm/dazn-1-bar-de.png",DAZN
+https://bajimath.com/noyajus23-90/live.m3u8?id=84cfcad684146d9f4f715eb2b7e47ef1&vtoken=iptv_m3u
+
+#EXTINF:-1 tvg-id="198" tvg-name="beIN Sports MENA 3" tvg-logo="https://otapp.store/uploads/tv_image/sm/bein-sports-mena-3.png",beIN Sports MENA 3
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=BEIN-SPORTS-3
+
+#EXTINF:-1 tvg-id="197" tvg-name="beIN Sports MENA 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/bein-sports-mena-2.png",beIN Sports MENA 2
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=BEIN-SPORTS-2
+
+#EXTINF:-1 tvg-id="196" tvg-name="beIN Sports MENA 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/bein-sports-mena-1.png",beIN Sports MENA 1
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=Bein-hd
+
+#EXTINF:-1 tvg-id="195" tvg-name="Astro Cricket" tvg-logo="https://otapp.store/uploads/tv_image/sm/astro-cricket.png",Astro Cricket
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=2494০
+
+#EXTINF:-1 tvg-id="194" tvg-name="Gubbare TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/gubbare-tv.png",Gubbare TV
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-id="193" tvg-name="S TV Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/s-tv-bangla.png",S TV Bangla
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="192" tvg-name="Sky Sports Football" tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports-footbal.png",Sky Sports Football
+http://tvx.newsprotalhub.xyz/sii/stream.m3u8?id=SKY-Sports-Football
+
+#EXTINF:-1 tvg-id="191" tvg-name="RAJDHANI TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png",RAJDHANI TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png",Zee Anmol Cinema 2
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-bigganga&format=.m3u8
+
+#EXTINF:-1 tvg-id="188" tvg-name="Star Gold Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold-select.png",Star Gold Select
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=9376
+
+#EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png",Star Movies
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=979
+
+#EXTINF:-1 tvg-id="186" tvg-name="Super Hungama TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png",Super Hungama TV
+http://prothomalo.lol/.wp-app/stream.m3u8?id=150480
+
+#EXTINF:-1 tvg-id="185" tvg-name="Nagorik Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",Nagorik Tv
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=NAGORIK-TV
+
+#EXTINF:-1 tvg-id="184" tvg-name="Deepto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/deepto-tv.png",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-name="Peace TV Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/peace-tv-bangla.png",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=UB81od4vM0GXCL3wEDDiNg
+
+#EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png",Disney Hindi
+http://prothomalo.lol/.wp-app/stream.m3u8?id=167551
+
+#EXTINF:-1 tvg-id="180" tvg-name="Channel S BD" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-s-bd.png",Channel S BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="179" tvg-name="Star Gold" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png",Star Gold
+http://prothomalo.lol/.wp-app/stream.m3u8?id=112982
+
+#EXTINF:-1 tvg-id="178" tvg-name="Star Bharat" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-bharat.png",Star Bharat
+https://uniflixbd.xyz/YuppTvPlus/live.m3u8?id=lifeokau
+
+#EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png",Star Plus
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66166
+
+#EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",Zee Cinema HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeecinemahd&format=.m3u8
+
+#EXTINF:-1 tvg-id="175" tvg-name="Bal Bharat" tvg-logo="https://otapp.store/uploads/tv_image/sm/bal-bharat.png",Bal Bharat
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=355286
+
+#EXTINF:-1 tvg-id="174" tvg-name="Hum TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/hum-tv.png",Hum TV
+http://server.top10bhaluka.com:100/toki/vstream.php?id=7c21a8ade135&e=.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png",RTV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=RTV
+
+#EXTINF:-1 tvg-id="172" tvg-name="Independent Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/independent-tv.png",Independent Tv
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/12
+
+#EXTINF:-1 tvg-id="171" tvg-name="Khushboo Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png",Khushboo Bangla
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=3808
+
+#EXTINF:-1 tvg-id="170" tvg-name="Movie Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/movie-bangla.png",Movie Bangla
+http://alvetv.com/mbtv/8080/index.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-name="Ekhon TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png",Ekhon TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=EKHON-TV
+
+#EXTINF:-1 tvg-id="168" tvg-name="BTV News" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv-news.png",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-name="Global TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/global-tv.png",Global TV
+http://server.top10bhaluka.com:100/tels/stream.m3u8?id=globaltelevision
+
+#EXTINF:-1 tvg-id="166" tvg-name="Ananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ananda-tv.png",Ananda TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=ANANDA-TV
+
+#EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png",Nexus TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=NEXUS-TV
+
+#EXTINF:-1 tvg-id="164" tvg-name="Bangla TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-tv.png",Bangla TV
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=3803
+
+#EXTINF:-1 tvg-id="163" tvg-name="News 24" tvg-logo="https://otapp.store/uploads/tv_image/sm/news-24.png",News 24
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=NEWS-24
+
+#EXTINF:-1 tvg-id="162" tvg-name="DBC News" tvg-logo="https://otapp.store/uploads/tv_image/sm/dbc-news.png",DBC News
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=DBC-NEWS
+
+#EXTINF:-1 tvg-id="161" tvg-name="Jamuna TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png",Jamuna TV
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/13
+
+#EXTINF:-1 tvg-id="160" tvg-name="SA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png",SA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-name="Asian TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/asian-tv.png",Asian TV
+http://server.top10bhaluka.com:100/tels2/stream.m3u8?id=asian
+
+#EXTINF:-1 tvg-id="158" tvg-name="Ekattor TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekattor-tv.png",Ekattor TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=71-TV
+
+#EXTINF:-1 tvg-id="157" tvg-name="Channel 24" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-24.png",Channel 24
+https://ch24b.ncare.live/DU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhn/channel24-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="156" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-9.png",Channel 9
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=CHANNEL-9
+
+#EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png",Gazi TV HD
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=GAZI-TV
+
+#EXTINF:-1 tvg-id="154" tvg-name="Somoy News TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/somoy-news-tv.png",Somoy News TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=SOMOY_TV
+
+#EXTINF:-1 tvg-id="153" tvg-name="Bijoy TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bijoy-tv.png",Bijoy TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=BIJOY-TV
+
+#EXTINF:-1 tvg-id="152" tvg-name="Mohona TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png",Mohona TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=MOHONA-TV
+
+#EXTINF:-1 tvg-id="151" tvg-name="ATN News" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-news.png",ATN News
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=ATN-NEWS
+
+#EXTINF:-1 tvg-id="150" tvg-name="My TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/my-tv.png",My TV
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 tvg-id="149" tvg-name="Desh TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png",Desh TV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=DESH
+
+#EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="Boishakhi TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-name="ATN Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-bangla.png",ATN Bangla
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=ATN-BANGLA
+
+#EXTINF:-1 tvg-id="145" tvg-name="NTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ntv.png",NTV
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=NTV
+
+#EXTINF:-1 tvg-id="144" tvg-name="Ekushey TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekushey-tv.png",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-name="Channel I" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-i.png",Channel I
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=CHANNAL-I
+
+#EXTINF:-1 tvg-id="142" tvg-name="Bangla Vision" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-vision.png",Bangla Vision
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/3
+
+#EXTINF:-1 tvg-id="141" tvg-name="BTV CTG" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv.png",BTV CTG
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="140" tvg-name="Dw News" tvg-logo="https://otapp.store/uploads/tv_image/sm/dw-news.png",Dw News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="139" tvg-name="BBC News" tvg-logo="https://otapp.store/uploads/tv_image/sm/bbc-news.png",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-id="138" tvg-name="News18 Bangla News" tvg-logo="https://otapp.store/uploads/tv_image/sm/news18-bangla-news.png",News18 Bangla News
+https://newhub247.store/themes/NVMe/live.m3u8?id=717
+
+#EXTINF:-1 tvg-id="137" tvg-name="AL Jazeera" tvg-logo="https://otapp.store/uploads/tv_image/sm/al-jazeera.png",AL Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="136" tvg-name="Zee 24 Ghanta" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="135" tvg-name="CNN" tvg-logo="https://otapp.store/uploads/tv_image/sm/cnn.png",CNN
+http://server.top10bhaluka.com:100/toki/vstream.php?id=2435a44a7c67&e=.m3u8
+
+#EXTINF:-1 tvg-id="134" tvg-name="Peace TV Urdu HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/peace-tv-urdu-hd.png",Peace TV Urdu HD
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-1 tvg-id="132" tvg-name="Madani Channel HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/madani-channel-hd.png",Madani Channel HD
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-id="131" tvg-name="Makkah Live Quran TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/makkah-live-quran-tv.png",Makkah Live Quran TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name="Madina Live Tv Sunnah TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/madina-live-tv-sunnah-tv.png",Madina Live Tv Sunnah TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="129" tvg-name="Investigation Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/investigation-discovery.png",Investigation Discovery
+http://server.top10bhaluka.com:100/toki/vstream.php?id=6789650f5629&e=.m3u8
+
+#EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png",Zee Zest HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-348&format=.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png",Sony BBC Earth HD
+http://server.top10bhaluka.com:100/toki/vstream.php?id=a19eef7de250&e=.m3u8
+
+#EXTINF:-1 tvg-id="125" tvg-name="TLC Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png",TLC Hindi
+http://server.top10bhaluka.com:100/toki/vstream.php?id=e12a84713a40&e=.m3u8
+
+#EXTINF:-1 tvg-id="124" tvg-name="Travelxp HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png",Travelxp HD Hindi
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=181
+
+#EXTINF:-1 tvg-id="123" tvg-name="Sony SAB" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",Sony SAB
+http://server.top10bhaluka.com:100/toki/vstream.php?id=0083604d0756&e=.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="Wild Earth" tvg-logo="https://otapp.store/uploads/tv_image/sm/wild-earth.png",Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="121" tvg-name="Discovery Channel Bengali" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png",Discovery Channel Bengali
+https://newhub247.store/themes/NVMe/live.m3u8?id=573
+
+#EXTINF:-1 tvg-id="120" tvg-name="Discovery Science" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-science.png",Discovery Science
+http://server.top10bhaluka.com:100/toki/vstream.php?id=591ea81b1aba&e=.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="Discovery Turbo" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-turbo.png",Discovery Turbo
+http://server.top10bhaluka.com:100/toki/vstream.php?id=a051de5ade20&e=.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="Animal Planet HD World" tvg-logo="https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png",Animal Planet HD World
+http://server.top10bhaluka.com:100/toki/vstream.php?id=52d1df2fdb80&e=.m3u8
+
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png",Discovery
+http://server.top10bhaluka.com:100/toki/vstream.php?id=77e72f2ba472&e=.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="History TV18 HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/history-tv18-hd-hindi.jpg",History TV18 HD Hindi
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=9392
+
+#EXTINF:-1 tvg-id="115" tvg-name="Bangla Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-plus.png",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="Mon TV Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/mon-tv-bangla.png",Mon TV Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="Aamar Digital" tvg-logo="https://otapp.store/uploads/tv_image/sm/aamar-digital.png",Aamar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="Aamar Bangla Channel" tvg-logo="https://otapp.store/uploads/tv_image/sm/aamar-bangla-channel.png",Aamar Bangla Channel
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Enterr10 Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/enterr10-bangla.png",Enterr10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png",Jalsha Movies HD
+http://prothomalo.lol/.wp-app/stream.m3u8?id=245900
+
+#EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",Star Jalsha HD
+http://server.top10bhaluka.com:4519/jalshaoi/index.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png",Colors Bangla Cinema
+https://newhub247.store/themes/NVMe/live.m3u8?id=1657
+
+#EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",Zee Bangla Cinema
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeebanglacinema&format=.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png",Sun Bangla
+http://server.top10bhaluka.com:100/tels/stream.m3u8?id=sunbangla
+
+#EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png",Rupashi Bangla
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=409
+
+#EXTINF:-1 tvg-id="104" tvg-name="Aakash Aath" tvg-logo="https://otapp.store/uploads/tv_image/sm/aakash-aath.png",Aakash Aath
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=396
+
+#EXTINF:-1 tvg-id="103" tvg-name="Sony aath" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-aath.png",Sony aath
+http://server.top10bhaluka.com:100/toki/vstream.php?id=e96cb72a3787&e=.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/66
+
+#EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png",Zee Bangla HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeebangla&format=.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Bein Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/bein-sports.png",Bein Sports
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=Bein-hd
+
+#EXTINF:-1 tvg-id="99" tvg-name="A Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/a-sports.png",A Sports
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=43444
+
+#EXTINF:-1 tvg-id="98" tvg-name="Sky Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png",Sky Sports
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=Sky-Sports-Cricket
+
+#EXTINF:-1 tvg-id="97" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp",T Sports
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/102
+
+#EXTINF:-1 tvg-id="96" tvg-name="Red Bull TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png",Red Bull TV
+https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
+
+#EXTINF:-1 tvg-id="95" tvg-name="Eurosport" tvg-logo="https://otapp.store/uploads/tv_image/sm/eurosport.png",Eurosport
+http://server.top10bhaluka.com:100/toki/vstream.php?id=258468998307&e=.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Fox Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/fox-sports-2.png",Fox Sports 2
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=3421
+
+#EXTINF:-1 tvg-id="93" tvg-name="Fox Sports 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/fox-sports-1.png",Fox Sports 1
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=130044
+
+#EXTINF:-1 tvg-id="92" tvg-name="TNT Sport 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-2.png",TNT Sport 2
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=TNT-Sports-2
+
+#EXTINF:-1 tvg-id="91" tvg-name="TNT Sport 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png",TNT Sport 1
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=TNT-Sports-1
+
+#EXTINF:-1 tvg-id="90" tvg-name="ESPN" tvg-logo="https://otapp.store/uploads/tv_image/sm/espn.png",ESPN
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=154091
+
+#EXTINF:-1 tvg-id="89" tvg-name="PTV Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/ptv-sports.png",PTV Sports
+http://tvx.newsprotalhub.xyz/sii/stream.m3u8?id=PTV
+
+#EXTINF:-1 tvg-id="88" tvg-name="Sony Sports Ten 5" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png",Sony Sports Ten 5
+http://server.top10bhaluka.com:100/toki/vstream.php?id=fd6de8bd1666&e=.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="Sony Sports Ten 3" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-3.png",Sony Sports Ten 3
+https://newhub247.store/themes/ssd/master.m3u8?id=1000009278
+
+#EXTINF:-1 tvg-id="86" tvg-name="Sony Sports Ten 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png",Sony Sports Ten 2
+http://server.top10bhaluka.com:100/toki/vstream.php?id=abc6677968ef&e=.m3u8
+
+#EXTINF:-1 tvg-id="85" tvg-name="Sony Sports Ten 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",Sony Sports Ten 1
+http://server.top10bhaluka.com:100/toki/vstream.php?id=43dcec1011e7&e=.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="Sports18 3" tvg-logo="https://otapp.store/uploads/tv_image/sm/sports18-3.png",Sports18 3
+https://newhub247.store/themes/NVMe/live.m3u8?id=2853
+
+#EXTINF:-1 tvg-id="83" tvg-name="Sports18 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/sports18-2.png",Sports18 2
+https://newhub247.store/themes/NVMe/live.m3u8?id=2852
+
+#EXTINF:-1 tvg-id="82" tvg-name="Sports 18" tvg-logo="https://otapp.store/uploads/tv_image/sm/sports-18.png",Sports 18
+https://newhub247.store/themes/NVMe/live.m3u8?id=1984
+
+#EXTINF:-1 tvg-id="81" tvg-name="Star Sports 2 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-2-hd.png",Star Sports 2 HD
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/26
+
+#EXTINF:-1 tvg-id="80" tvg-name="Star Sports 1 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png",Star Sports 1 HD
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/25
+
+#EXTINF:-1 tvg-id="79" tvg-name="Star Sport Select 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png",Star Sport Select 2
+http://prothomalo.lol/.wp-cdn/stream.m3u8?id=SPL-2
+
+#EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png",Star Sport Select 1
+http://server.top10bhaluka.com:100/tels3/stream.m3u8?id=starsportsselect1
+
+#EXTINF:-1 tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png",Duronto TV
+http://server.top10bhaluka.com:100/royar/stream.m3u8?id=bk/10
+
+#EXTINF:-1 tvg-id="75" tvg-name="Rongeen TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",Sonic Bangla
+https://newhub247.store/themes/NVMe/live.m3u8?id=1345
+
+#EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png",Nick Bangla
+http://prothomalo.lol/.wp-cdn/stream.m3u8?id=NICK
+
+#EXTINF:-1 tvg-id="72" tvg-name="Nick HD+" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hd.png",Nick HD+
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1226
+
+#EXTINF:-1 tvg-id="71" tvg-name="Sony Yay Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-hindi.png",Sony Yay Hindi
+https://adda.aneplaymax.online/wp-xyzluy/master.m3u8?id=1000001971
+
+#EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png",Cartoon Network Hindi
+http://server.top10bhaluka.com:100/toki/vstream.php?id=8be5ec5d5d7c&e=.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="Sonic Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-hindi.png",Sonic Hindi
+http://adda.aneplaymax.online/api/vstream.m3u8?id=815
+
+#EXTINF:-1 tvg-id="68" tvg-name="Pogo Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png",Pogo Hindi
+http://server.top10bhaluka.com:100/toki/vstream.php?id=38060f0d4077&e=.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="Chintu TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chintu-tv.png",Chintu TV
+https://newhub247.store/themes/NVMe/live.m3u8?id=555
+
+#EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png",Discovery Kids 2
+http://server.top10bhaluka.com:100/toki/vstream.php?id=1fe9cf550c24&e=.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="Nickelodeon" tvg-logo="https://otapp.store/uploads/tv_image/sm/nickelodeon.png",Nickelodeon
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=2261
+
+#EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png",Nick Hindi
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1227
+
+#EXTINF:-1 tvg-id="63" tvg-name="Nick Junior" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-junior.png",Nick Junior
+http://adda.aneplaymax.online/api/vstream.m3u8?id=544
+
+#EXTINF:-1 tvg-id="61" tvg-name="Dhoom Music Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png",Dhoom Music Bangla
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=404
+
+#EXTINF:-1 tvg-id="57" tvg-name="MTV Beats HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/mtv-beats-hd.png",MTV Beats HD
+http://adda.aneplaymax.online/api/vstream.m3u8?id=753
+
+#EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png",Sangeet Bangla
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=405
+
+#EXTINF:-1 tvg-id="55" tvg-name="ZOOM" tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png",ZOOM
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=9488
+
+#EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg",Zing
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zing&format=.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Mastiii" tvg-logo="https://otapp.store/uploads/tv_image/sm/mastiii.png",Mastiii
+http://prothomalo.lol/.wp-app/stream.m3u8?id=112988
+
+#EXTINF:-1 tvg-id="51" tvg-name="9X Tashan" tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png",9X Tashan
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66289
+
+#EXTINF:-1 tvg-id="50" tvg-name="9XM" tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png",9XM
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66192
+
+#EXTINF:-1 tvg-id="49" tvg-name="9x Jhakaas" tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png",9x Jhakaas
+http://prothomalo.lol/.wp-app/stream.m3u8?id=380854
+
+#EXTINF:-1 tvg-id="48" tvg-name="9X Jalwa" tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png",9X Jalwa
+http://prothomalo.lol/.wp-app/stream.m3u8?id=66226
+
+#EXTINF:-1 tvg-id="47" tvg-name="Music India" tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png",Music India
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=375342
+
+#EXTINF:-1 tvg-id="46" tvg-name="B4U Music" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png",B4U Music
+http://server.top10bhaluka.com:100/toki/vstream.php?id=6f73e4079aa2&e=.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="DANGAL 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal-2.png",DANGAL 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="Goldmines Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png",Goldmines Movies
+https://newhub247.store/samura/watch.php?id=240&format=.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Goldmines Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-bollywood.png",Goldmines Bollywood
+https://newhub247.store/samura/watch.php?id=238&format=.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Goldmines" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines.link",Goldmines
+https://newhub247.store/samura/watch.php?id=234&format=.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="MANORANJAN TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/manoranjan-tv.link",MANORANJAN TV
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=2433
+
+#EXTINF:-1 tvg-id="38" tvg-name="Sony PIX HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png",Sony PIX HD
+http://server.top10bhaluka.com:100/toki/vstream.php?id=65f4f4c8b5c9&e=.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="MTV India" tvg-logo="https://otapp.store/uploads/tv_image/sm/mtv-india.png",MTV India
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1145
+
+#EXTINF:-1 tvg-id="36" tvg-name="Sony Marathi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-marathi.png",Sony Marathi
+https://newhub247.store/themes/ssd/master.m3u8?id=1000009259
+
+#EXTINF:-1 tvg-id="35" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png",Colors Cineplex Bollywood
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1763
+
+#EXTINF:-1 tvg-id="34" tvg-name="Zee Classic" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-classic.png",Zee Classic
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-176&format=.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Colors Cineplex Superhit" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-superhit.png",Colors Cineplex Superhit
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1450
+
+#EXTINF:-1 tvg-id="32" tvg-name="And Prive HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-prive-hd.png",And Prive HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-9z5543514&format=.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="&Flix HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/flix-hd.jpg",&Flix HD
+https://new.newsprotalhub.xyz/wp-theme/stream.m3u8?id=0-9-channel_2105335046
+
+#EXTINF:-1 tvg-id="30" tvg-name="B4U Kadak" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-kadak.png",B4U Kadak
+http://prothomalo.lol/.wp-app/stream.m3u8?id=104199
+
+#EXTINF:-1 tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png",Zee Action
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeeaction&format=.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg",Zee Bollywood
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeeclassic&format=.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Sony MAX2" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png",Sony MAX2
+http://server.top10bhaluka.com:100/toki/vstream.php?id=36767e3b0bda&e=.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="Zee Anmol Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema.png",Zee Anmol Cinema
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeeanmolcinema&format=.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="And Pictures HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png",And Pictures HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-tvpictureshd&format=.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="B4U Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png",B4U Movies
+http://server.top10bhaluka.com:100/toki/vstream.php?id=4ce560bcdf91&e=.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="Zee Talkies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-talkies.png",Zee Talkies
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeetalkies&format=.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="Colors Cineplex HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png",Colors Cineplex HD
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1477
+
+#EXTINF:-1 tvg-id="19" tvg-name="Zee Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd.png",Zee Cinema
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeecinema&format=.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="Sony MAX" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png",Sony MAX
+http://server.top10bhaluka.com:100/toki/vstream.php?id=41559a92a8db&e=.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Shemaroo TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-tv.png",Shemaroo TV
+https://newhub247.store/themes/NVMe/live.m3u8?id=1961
+
+#EXTINF:-1 tvg-id="16" tvg-name="Sony Wah" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png",Sony Wah
+https://newhub247.store/themes/ssd/master.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png",Zee Cafe HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeecafehd&format=.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="Colors Infinity HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png",Colors Infinity HD
+http://prothomalo.lol/.uk-cdn/stream.m3u8?id=9390
+
+#EXTINF:-1 tvg-id="13" tvg-name="Colors Super" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-super.png",Colors Super
+http://adda.aneplaymax.online/api/vstream.m3u8?id=785
+
+#EXTINF:-1 tvg-id="11" tvg-name="Zee Anmol" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png",Zee Anmol
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeeanmol&format=.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="Rishtey" tvg-logo="https://otapp.store/uploads/tv_image/sm/rishtey.png",Rishtey
+http://adda.aneplaymax.online/api/vstream.m3u8?id=1370
+
+#EXTINF:-1 tvg-id="9" tvg-name="Zee Yuva" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-yuva.png",Zee Yuva
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeeyuva&format=.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="Shemaroo Umang" tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-umang.png",Shemaroo Umang
+https://newhub247.store/themes/NVMe/live.m3u8?id=2078
+
+#EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png",And TV HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-tvhd_0&format=.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="Sony Pal" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png",Sony Pal
+https://newhub247.store/themes/ssd/master.m3u8?id=1000009273
+
+#EXTINF:-1 tvg-id="5" tvg-name="Sony HD (SET HD)" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png",Sony HD (SET HD)
+https://newhub247.store/app/images/master.m3u8?id=1000009246
+
+#EXTINF:-1 tvg-id="4" tvg-name="Sony SAB HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png",Sony SAB HD
+https://newhub247.store/themes/ssd/master.m3u8?id=1000009248
+
+#EXTINF:-1 tvg-id="3" tvg-name="Dangal" tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal.png",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Colors HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png",Colors HD
+http://adda.aneplaymax.online/api/vstream.m3u8?id=144
+
+#EXTINF:-1 tvg-id="12" tvg-name="Zee TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",Zee TV HD
+https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeetvhd&format=.m3u8
