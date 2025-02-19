@@ -628,3 +628,6 @@ http://adda.aneplaymax.online/api/vstream.m3u8?id=144
 
 #EXTINF:-1 tvg-id="12" tvg-name="Zee TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",Zee TV HD
 https://adda.aneplaymax.online/asuka/live.php?id=0-9-zeetvhd&format=.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
