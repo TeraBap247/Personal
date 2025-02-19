@@ -45,7 +45,7 @@ http://prothomalo.lol/.wp-app/stream.m3u8?id=348162
 http://prothomalo.lol/.uk-cdn/stream.m3u8?id=191
 
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",Sony Yay Bangla
-http://server.top10bhaluka.com:100/toki/vstream.php?id=edf7ba617dc5&e=.m3u8
+http://news.otapp.store/foasu/vstream.php?id=edf7ba617dc5&e=.m3u8
 
 #EXTINF:-1 tvg-id="212" tvg-name="Star Movies Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies-select.png",Star Movies Select
 http://prothomalo.lol/.wp-app/stream.m3u8?id=66315
