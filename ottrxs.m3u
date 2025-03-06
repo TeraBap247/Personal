@@ -533,8 +533,8 @@ http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney Hindi" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)", Disney Hindi
 http://server.top10bhaluka.com:4519/ssd/video.m3u8
 
-#EXTINF:-1 tvg-id="NickPlutoTV" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/thumbnail.jpg" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-69264e88-6e11-4419-b3a0-22e81b170d9d&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https://www.samsung.com/us/appstore/app.do?appId=G15147002586&samsung_app_name=Samsung TV Plus&serverSideAds=true&appName=samsungtvplus&deviceId=1af967f6-88cd-4a99-95f5-9be5432d61f3&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY
+#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="3610",Nick Pluto TV
+https://jmp2.uk/sam-USBA3000158L.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
