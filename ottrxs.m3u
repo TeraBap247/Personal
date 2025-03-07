@@ -538,3 +538,6 @@ https://jmp2.uk/sam-USBA3000158L.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Warchief" tvg-name="Warchief" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15nwQxsWZY1W0tDXBc27_Wxkuq8uV-5luo7D3xuq9sLgEd8qGzAwZSnXb&s=10" group-title="Movie",Warchief (2024)
+https://pub-9e5f78208b704035ae8e12a1dc938d9c.r2.dev/Warchief.2024.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.is.mkv
