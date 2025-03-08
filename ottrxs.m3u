@@ -202,7 +202,7 @@ http://prothomalo.lol/.wp-app/stream.m3u8?id=112988
 http://prothomalo.lol/.wp-app/stream.m3u8?id=66289
 
 #EXTINF:-1 tvg-id="9XM" tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="Music Channel",9XM
-http://prothomalo.lol/.wp-app/stream.m3u8?id=66192
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
 #EXTINF:-1 tvg-id="9x Jhakaas" tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="Music Channel",9x Jhakaas
 http://prothomalo.lol/.wp-app/stream.m3u8?id=380854
