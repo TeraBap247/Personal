@@ -384,7 +384,7 @@ http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-1
 #EXTINF:-1 tvg-id="STARMOVIES" tvg-name="STAR MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="Movie Channel",STAR MOVIES
 https://amr44.nayeem-parvez.workers.dev/stream.m3u8?id=STAR-MOVIE&e=.m3u8
 
-#EXTINF:-1 tvg-id="MOVIENOW" tvg-name="Movie Now" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png" group-title="Movie Channel",Movie Now
+#EXTINF:-1 tvg-id="MOVIENOW" tvg-name="Movie Now" tvg-logo="https://i.ibb.co.com/wZk7dhTb/pngwing-com.png" group-title="Movie Channel",Movie Now
 https://amr44.nayeem-parvez.workers.dev/stream.m3u8?id=MOVIE-NOW&e=.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony SAB HD
