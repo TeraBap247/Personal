@@ -381,7 +381,7 @@ http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-2
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports",Star Sport Select 1
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-1
 
-#EXTINF:-1 tvg-id="1090471066" tvg-name="SonyLiv" tvg-logo="https://i.ibb.co.com/tpf5Xym1/images-1.jpg",Sony Liv
+#EXTINF:-1 tvg-id="1090471066" tvg-name="SonyLiv" tvg-logo="https://i.ibb.co.com/tpf5Xym1/images-1.jpg" group-title="Sports",Sony Liv
 https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 
 #EXTINF:-1 tvg-id="STARMOVIES" tvg-name="STAR MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="Movie Channel",STAR MOVIES
