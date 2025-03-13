@@ -217,7 +217,7 @@ https://dns.bajimath.com/candy/vstream.php?id=77e72f2ba472&e=.m3u8
 http://prothomalo.lol/.uk-cdn/stream.m3u8?id=20622
 
 #EXTINF:-1 group-title="Popular Channel-(জনপ্রিয় চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png", Star Plus
-https://dc.thenayeemparvez.xyz/digitv/master.m3u8?id=5347
+https://dc.thenayeemparvez.xyz/digitvcdn/master.m3u8?id=5347
 
 #EXTINF:-1 group-title="Popular Channel-(জনপ্রিয় চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png", Sony SAB
 https://dns.bajimath.com/candy/vstream.php?id=0083604d0756&e=.m3u8
@@ -438,7 +438,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png/revision/latest?cb=20210611104218" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)", Jalsha Movies
-https://dc.thenayeemparvez.xyz/digitv/master.m3u8?id=6540
+https://dc.thenayeemparvez.xyz/digitvcdn/master.m3u8?id=6540
 
 #EXTINF:-1 tvg-id="Disney Hindi" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)", Disney Hindi
 http://server.top10bhaluka.com:4519/ssd/video.m3u8
