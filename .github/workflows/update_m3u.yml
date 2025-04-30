@@ -2,8 +2,8 @@ name: Update M3U with Token
 
 on:
   schedule:
-    - cron: '0 * * * *'  # প্রতি ঘণ্টায় চালাবে
-  workflow_dispatch:      # ম্যানুয়ালি চালানো যাবে
+    - cron: '0 * * * *'  # প্রতি ঘণ্টায়
+  workflow_dispatch:
 
 jobs:
   update:
