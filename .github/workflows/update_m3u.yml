@@ -32,8 +32,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run update script
-        env:
-          TOKEN_SECRET: ${{ secrets.TOKEN_SECRET }}
         run: python update_m3u.py
 
       - name: Commit and push changes
@@ -42,6 +40,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add ottrxs.m3u template.m3u
+          git add template.m3u ottrxs.m3u  # Both template.m3u and ottrxs.m3u are updated
           git commit -m "Auto-update M3U with token" || echo "No changes"
           git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }} || echo "Push failed"
