@@ -75,9 +75,9 @@ if match:
                 line = re.sub(r'group-title=".*?"', 'group-title="Fancode Live"', line)
             else:
                 line = line.replace('#EXTINF:', '#EXTINF: group-title="Fancode Live",')
-            new_fancode_lines.append(line)
+            new_fancode_lines.append(line.strip())
             if i + 1 < len(lines) and lines[i + 1].startswith("http"):
-                new_fancode_lines.append(lines[i + 1])
+                new_fancode_lines.append(lines[i + 1].strip())
                 i += 1
         i += 1
 
@@ -98,7 +98,7 @@ if match:
                 existing_fancode_lines.append(template_lines[i + 1].strip())
                 i += 1
         else:
-            cleaned_template.append(line)
+            cleaned_template.append(line.rstrip())
         i += 1
 
     old_hash = hash_channel_list(existing_fancode_lines)
@@ -106,8 +106,8 @@ if match:
     if new_hash != old_hash:
         print("Fancode channels changed. Updating template.m3u...")
         with open("template.m3u", "w") as file:
-            file.writelines(cleaned_template)
-            file.write("\n" + "\n".join(new_fancode_lines) + "\n")
+            file.writelines([line + '\n' for line in cleaned_template])
+            file.write('\n'.join(new_fancode_lines).rstrip() + '\n')
     else:
         print("Fancode channels unchanged. No update needed.")
 
