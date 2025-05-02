@@ -565,7 +565,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746332760:KeyName=prod_linear:Signature=aQgtNttBVzG39oBVkpHMue1osaRtgeQ-IcabPPmqb2FPrBPiQ80RQBZpzKq9UPRXBggnnUOLdlJICnsDq0qJBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746347356:KeyName=prod_linear:Signature=8A3v9_eWuZsCS4vGF340G7TpgyJ0m5I01kumtfrLWiVKElFfsl_jJb00YrHBBsTFSzzob5UMRZGvWHeb5H4hCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png", Cartoon Network Pakistan
@@ -774,19 +774,20 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745938588287.jpg" group-title="Fancode Live", South Africa Women vs Sri Lanka Women (Womens ODI Tri-Series)
 https://tv.onlinetvbd.com/fancode/global/primary/124038_english_hls_6759ta-di/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124276_5144_BIL_JCH_fc-web.jpg" group-title="Fancode Live", Janjgir Champa vs Bilaspur (Senior Elite Group T20 Tournament)
 https://tv.onlinetvbd.com/fancode/global/primary/124276_english_hls_5557ta-di/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124274_5144_BSP_MAH_fc-web.jpg" group-title="Fancode Live", Mahasamund vs BSP (Senior Elite Group T20 Tournament)
 https://tv.onlinetvbd.com/fancode/global/primary/124274_english_hls_5895ta-no/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg" group-title="Fancode Live", MEC Study Group vs Thunder Cats - B (KCC T20 Challengers B League Edition 2, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/122485_english_hls_6001ta-di/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123125_CASACARDS_APP.png" group-title="Fancode Live", Malaysia vs Saudi Arabia (Malaysia Quadrangular T20I Series, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/123125_english_hls_5644ta-no/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg" group-title="Fancode Live", Swieqi United vs Msida Warriors (ECS Malta, Spring Series, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124186_english_hls_6892ta-di/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123526_CASACARDS_APP.png" group-title="Fancode Live", 91 Yards Club vs Gauhati Town Club (Guwahati Spring League)
 https://tv.onlinetvbd.com/fancode/global/primary/123526_english_hls_62322ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg" group-title="Fancode Live", Cyprus Women vs Czechia Women (ECN Czechia-Cyprus T20IW)
 https://tv.onlinetvbd.com/fancode/global/primary/124777_english_hls_6036ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v2.jpg" group-title="Fancode Live", Royal Strikers vs Southern Crusaders (ECS Malta, Spring Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124187_english_hls_5604ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111057_4567_CCM_BRB_fc-web_1728983129894.jpg" group-title="Fancode Live", Central Coast Mariners vs Brisbane Roar (A League 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/111057_english_hls_25967ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123125_CASACARDS_APP.png" group-title="Fancode Live", Malaysia vs Saudi Arabia (Malaysia Quadrangular T20I Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/123125_english_hls_5644ta-no/index.m3u8
