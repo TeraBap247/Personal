@@ -568,7 +568,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746217464:KeyName=prod_linear:Signature=d2dRXErM9UcdLFAd0PDHpg4TYkNqRafM25uDqsQxYIaWA2XipS8snrDpoxA7_MuPhMjDGGjvYCsojLfKe41sAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746347356:KeyName=prod_linear:Signature=8A3v9_eWuZsCS4vGF340G7TpgyJ0m5I01kumtfrLWiVKElFfsl_jJb00YrHBBsTFSzzob5UMRZGvWHeb5H4hCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png", Cartoon Network Pakistan
@@ -777,3 +777,19 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg" group-title="Fancode Live", Cyprus Women vs Czechia Women (ECN Czechia-Cyprus T20IW)
+https://tv.onlinetvbd.com/fancode/global/primary/124778_english_hls_5795ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_01.jpg" group-title="Fancode Live", Renegades CC vs Karavali United (KCC T20 Challengers B League Edition 2, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/122487_english_hls_6205ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-1.png" group-title="Fancode Live", Clarion Eagles vs Houston Stars (Houston Open)
+https://tv.onlinetvbd.com/fancode/global/primary/124155_english_hls_9708ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v2.jpg" group-title="Fancode Live", Swieqi United vs Southern Crusaders (ECS Malta, Spring Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124189_english_hls_4591ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124322_english_hls_6238ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124325_english_hls_9232ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124324_english_hls_3334ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124323_english_hls_5898ta-no/index.m3u8
