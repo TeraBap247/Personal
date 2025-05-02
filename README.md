@@ -3,7 +3,7 @@
 ```
 https://rb.gy/8nelpm
 ```
-## Ns Player 
+## Ns Player OFF NOW⚠️
 ```
 https://rb.gy/e39vs7
 ```
