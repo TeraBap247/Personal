@@ -313,7 +313,7 @@ http://tv.bdiptv.store:80/live/restream/restream25/21.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15325.m3u8
 
 #EXTINF:-1 tvg-id="232" tvg-name="TATA IPL T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-t-sports.png" group-title="Event Channel ",TATA IPL T Sports
-http://tv.bdiptv.store:80/live/restream/restream25/15262	.m3u8
+http://103.179.25.147:8181/IPLT20/index.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-name="TATA IPL 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-2025-qnlhzwrrt5e6.png" group-title="Event Channel ",TATA IPL 2025
 http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
@@ -322,7 +322,7 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/87.m3u8
 
 #EXTINF:-1 tvg-id="229" tvg-name="TATA IPL 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-2025.png" group-title="Event Channel ",TATA IPL 2025
-https://news.bajimath.com/Candy_Live/vstream.m3u8?id=e666b0d2a3ec&e=.m3u8
+https://newsprotalhub.xyz/candy/vstream.php?id=e666b0d2a3ec&e=.m3u8
 
 #EXTINF:-1 tvg-id="222" tvg-name="Animax" tvg-logo="https://otapp.store/uploads/tv_image/sm/animax.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Animax
 http://starshare.org:8080/live/muzmil786/muzmil5152/151034.m3u8
@@ -487,7 +487,7 @@ https://hand.top10wifibhaluka.com/in24/watch.php?id=93c7e57d-e666-488a-aec9-a339
 https://hand.top10wifibhaluka.com/in24/watch.php?id=e263cd7f-45e9-4bc6-a350-bf968eb51b14&format=.m3u8
 
 #EXTINF:-1 tvg-id="89" tvg-name="PTV Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/ptv-sports.png" group-title="Sports",PTV Sports
-https://hand.top10wifibhaluka.com/in24/watch.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348&format=.m3u8
+https://bdcast-free.b-cdn.net/live/ssports.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="Star Sports 2 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-2-hd.png" group-title="Sports",Star Sports 2 HD
 http://tv.bdiptv.store:80/live/restream/restream25/90.m3u8
@@ -565,7 +565,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746303802:KeyName=prod_linear:Signature=-2rnkw7GcddZpLQPfmg-f02fny5_xTLfiTABXzAoySxxH-oS3Hmc209DbINWztY6Nk6fLr8jqHOJN38z_FVhCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746332760:KeyName=prod_linear:Signature=aQgtNttBVzG39oBVkpHMue1osaRtgeQ-IcabPPmqb2FPrBPiQ80RQBZpzKq9UPRXBggnnUOLdlJICnsDq0qJBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png", Cartoon Network Pakistan
