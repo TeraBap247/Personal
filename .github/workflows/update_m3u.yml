@@ -2,7 +2,7 @@ name: Update M3U with Token
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # প্রতি ১৫ মিনিটে
+    - cron: '0,12,24,36,48 * * * *'  # প্রতি ১২ মিনিটে (বাংলাদেশ সময় অনুযায়ী UTC-তে সমন্বয় করা)
   workflow_dispatch:
 
 jobs:
