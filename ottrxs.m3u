@@ -775,6 +775,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745938588287.jpg" group-title="Fancode Live", South Africa Women vs Sri Lanka Women (Womens ODI Tri-Series)
 https://tv.onlinetvbd.com/fancode/global/primary/124038_english_hls_6759ta-di/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124276_5144_BIL_JCH_fc-web.jpg" group-title="Fancode Live", Janjgir Champa vs Bilaspur (Senior Elite Group T20 Tournament)
@@ -787,7 +788,7 @@ https://tv.onlinetvbd.com/fancode/global/primary/123526_english_hls_62322ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124777_english_hls_6036ta-no/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v2.jpg" group-title="Fancode Live", Royal Strikers vs Southern Crusaders (ECS Malta, Spring Series, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124187_english_hls_5604ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg" group-title="Fancode Live", Team TGS vs Global Champs (KCC T20 Challengers B League Edition 2, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/122486_english_hls_6235ta-di/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111057_4567_CCM_BRB_fc-web_1728983129894.jpg" group-title="Fancode Live", Central Coast Mariners vs Brisbane Roar (A League 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/111057_english_hls_25967ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123125_CASACARDS_APP.png" group-title="Fancode Live", Malaysia vs Saudi Arabia (Malaysia Quadrangular T20I Series, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/123125_english_hls_5644ta-no/index.m3u8
