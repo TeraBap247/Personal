@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs", Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -779,5 +779,15 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg" group-title="Fancode Live", Team TGS vs Global Champs (KCC T20 Challengers B League Edition 2, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/122486_english_hls_6235ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg" group-title="Fancode Live", Cyprus Women vs Czechia Women (ECN Czechia-Cyprus T20IW)
+https://tv.onlinetvbd.com/fancode/global/primary/124778_english_hls_5795ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg" group-title="Fancode Live", Swieqi United vs Royal Strikers (ECS Malta, Spring Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124188_english_hls_6339ta-no/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124322_english_hls_6238ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124325_english_hls_9232ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124324_english_hls_3334ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124323_english_hls_5898ta-no/index.m3u8
