@@ -136,7 +136,7 @@ try:
         "Sony Sports Ten 4 HD", "Sony Sports Ten 5 HD"
     ]
 
-    with open("template.m3u", "r") as f:
+    with open("template.m3u", "r", encoding="utf-8") as f:
         template_lines = f.read().splitlines()
 
     new_template_lines = []
@@ -159,9 +159,11 @@ try:
             replaced = False
             for i in range(len(new_template_lines)):
                 if new_template_lines[i].startswith("#EXTINF:") and f",{name}" in new_template_lines[i]:
-                    if i + 1 < len(new_template_lines) and stream != new_template_lines[i + 1].strip():
-                        new_template_lines[i + 1] = stream
-                        updated = True
+                    if i + 1 < len(new_template_lines):
+                        current_stream = new_template_lines[i + 1].strip()
+                        if current_stream.strip() != stream.strip():
+                            new_template_lines[i + 1] = stream
+                            updated = True
                     replaced = True
                     break
             if not replaced and name not in existing_names:
@@ -171,7 +173,7 @@ try:
                 updated = True
 
     if updated:
-        with open("template.m3u", "w") as f:
+        with open("template.m3u", "w", encoding="utf-8") as f:
             f.write("\n".join(new_template_lines) + "\n")
         print("OT API থেকে template আপডেট হয়েছে।")
     else:
