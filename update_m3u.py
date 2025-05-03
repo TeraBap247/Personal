@@ -6,57 +6,54 @@ import hashlib
 import json
 
 # --- ধাপ ১: বাইরের সোর্স থেকে .m3u ফাইল ডাউনলোড ---
-try:
-    source_url = "https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u"
-    response = requests.get(source_url)
-    source_data = response.text
-    print("Source M3U ডাউনলোড সফল।")
-except Exception as e:
-    print(f"Source ডাউনলোড করতে সমস্যা হয়েছে: {e}")
-    source_data = ""
+source_url = "https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u"
+response = requests.get(source_url)
+source_data = response.text
 
-# --- ধাপ ২: নির্দিষ্ট চ্যানেল block খুঁজে বের করে template.m3u আপডেট ---
+# --- Step 2: Extract the specific channel block ---
+
 channel_name = "Cartoon Network HD"
-try:
-    pattern = re.compile(
-        rf'#EXTINF:-1.?,\s{re.escape(channel_name)}\s*\n(#EXTVLCOPT:.\n)?(#EXTHTTP:.\n)?(https?://.*)',
-        re.MULTILINE
-    )
-    match = pattern.search(source_data)
 
-    if match:
-        new_vlcopt = match.group(1) or ''
-        new_exthttp = match.group(2) or ''
+pattern = re.compile(
+    rf'#EXTINF:-1.*?,\s*{re.escape(channel_name)}\s*\n(#EXTVLCOPT:.*\n)?(#EXTHTTP:.*\n)?(https?://.*)',
+    re.MULTILINE
+)
+match = pattern.search(source_data)
 
-        with open("template.m3u", "r") as file:
-            lines = file.readlines()
+if match:
+    new_vlcopt = match.group(1) or ''
+    new_exthttp = match.group(2) or ''
 
-        updated_lines = []
-        i = 0
-        while i < len(lines):
-            line = lines[i]
-            if channel_name in line:
-                updated_lines.append(line)
+    # --- Step 3: Read template.m3u and update only user-agent and cookie for that channel ---
+
+    with open("template.m3u", "r") as file:
+        lines = file.readlines()
+
+    updated_lines = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if channel_name in line:
+            updated_lines.append(line)  # #EXTINF
+            i += 1
+
+            # Remove old EXT lines if they exist
+            if i < len(lines) and lines[i].startswith("#EXTVLCOPT:"):
                 i += 1
-                if i < len(lines) and lines[i].startswith("#EXTVLCOPT:"):
-                    i += 1
-                if i < len(lines) and lines[i].startswith("#EXTHTTP:"):
-                    i += 1
-                if new_vlcopt:
-                    updated_lines.append(new_vlcopt)
-                if new_exthttp:
-                    updated_lines.append(new_exthttp)
-            else:
-                updated_lines.append(line)
+            if i < len(lines) and lines[i].startswith("#EXTHTTP:"):
                 i += 1
 
-        with open("template.m3u", "w") as file:
-            file.writelines(updated_lines)
-        print("Cartoon Network HD আপডেট হয়েছে।")
-    else:
-        print("Cartoon Network HD পাওয়া যায়নি বা পরিবর্তন হয়নি।")
-except Exception as e:
-    print(f"Cartoon Network আপডেটে সমস্যা হয়েছে: {e}")
+            # Always write new lines from source
+            if new_vlcopt:
+                updated_lines.append(new_vlcopt)
+            if new_exthttp:
+                updated_lines.append(new_exthttp)
+        else:
+            updated_lines.append(line)
+            i += 1
+
+    with open("template.m3u", "w") as file:
+        file.writelines(updated_lines)
 
 # --- ধাপ ৩: Fancode Live চ্যানেল শর্তসাপেক্ষে আপডেট ---
 try:
