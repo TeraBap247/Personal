@@ -307,7 +307,7 @@ http://tv.bdiptv.store/live/restream/restream25/15252.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/232.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="Sony SAB HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony SAB HD
-http://tv.bdiptv.store:80/live/restream/restream25/21.m3u8
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1 tvg-id="236" tvg-name="PSL" tvg-logo="https://otapp.store/uploads/tv_image/sm/psl.png" group-title="Event Channel ",PSL
 http://tv.bdiptv.store:80/live/restream/restream25/15325.m3u8
@@ -504,10 +504,7 @@ http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
 
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Pal
+#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Pal HD
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX HD
@@ -568,7 +565,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746409439:KeyName=prod_linear:Signature=nOk0i5Z6KEt2H9KBDIsa_j65ro9lJoV96f_3z-X3ZIqkJGDlNlEQrHtFv0lFH6YNLoAIQKajaLNbMZlVbayBAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746217464:KeyName=prod_linear:Signature=d2dRXErM9UcdLFAd0PDHpg4TYkNqRafM25uDqsQxYIaWA2XipS8snrDpoxA7_MuPhMjDGGjvYCsojLfKe41sAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png", Cartoon Network Pakistan
@@ -777,13 +774,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg" group-title="Fancode Live", Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124843_english_hls_24757ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg" group-title="Fancode Live", Czechia Women vs Cyprus Women (ECN Czechia-Cyprus T20IW)
 https://tv.onlinetvbd.com/fancode/global/primary/124779_english_hls_20402ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111058_4567_MLC_SYD_fc-web_1728983130172.jpg" group-title="Fancode Live", Melbourne City vs Sydney FC (A League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/111058_english_hls_96146ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124850_CASACARDS_APP.png" group-title="Fancode Live", Estonia vs Malta (ECI Malta-Estonia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124850_english_hls_2735ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111059_4567_WST_AFC_fc-web_1728983130440.jpg" group-title="Fancode Live", Western United vs Auckland (A League 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/111059_english_hls_85955ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111060_4567_MAC_SYW_fc-web_1728983130625.jpg" group-title="Fancode Live", Macarthur vs Western Sydney Wanderers (A League 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/111060_english_hls_36279ta-di_h264/index.m3u8
