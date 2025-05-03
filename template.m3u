@@ -329,23 +329,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png" group-title="Fancode Live", Sprint vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)
-https://d2lf1ywh9o6e8j.cloudfront.net/out/v1/4e1fca2c313b421395edb784d9e28557/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg" group-title="Fancode Live", Zimbabwe Women vs USA Women (Zimbabwe Women tour of USA, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124080_english_hls_37194adfreeta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Windward Islands Women vs Guyana Women (CWI T20 Blaze Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124480_english_hls_54916ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg" group-title="Fancode Live", Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124672_CASACARDS_APP.png" group-title="Fancode Live", Huddersfield Town vs Leyton Orient (League One 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/124672_english_hls_14843ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124552_english_hls_96776ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124554_english_hls_78122ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Group - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124551_english_hls_15855ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124553_english_hls_93263ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restream25/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -630,3 +613,22 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png" group-title="Fancode Live", Sprint vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)
+https://d2lf1ywh9o6e8j.cloudfront.net/out/v1/4e1fca2c313b421395edb784d9e28557/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg" group-title="Fancode Live", Zimbabwe Women vs USA Women (Zimbabwe Women tour of USA, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124080_english_hls_37194adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Windward Islands Women vs Guyana Women (CWI T20 Blaze Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124480_english_hls_54916ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg" group-title="Fancode Live", Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124672_CASACARDS_APP.png" group-title="Fancode Live", Huddersfield Town vs Leyton Orient (League One 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/124672_english_hls_14843ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124552_english_hls_96776ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124554_english_hls_78122ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Group - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124551_english_hls_15855ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
+https://tv.onlinetvbd.com/fancode/global/primary/124553_english_hls_93263ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Triple-Crown--Kentucky-Derby-old-match-card.png" group-title="Fancode Live", Triple Crown - Kentucky Derby vs Louisville, Kentucky (Triple Crown - Kentucky Derby)
+https://tv.onlinetvbd.com/fancode/global/primary/124692_english_hls_29811ta-di_h264/index.m3u8
