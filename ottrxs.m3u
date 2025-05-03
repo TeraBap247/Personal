@@ -776,8 +776,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124850_CASACARDS_APP.png" group-title="Fancode Live", Estonia vs Malta (ECI Malta-Estonia, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124850_english_hls_2735ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111059_4567_WST_AFC_fc-web_1728983130440.jpg" group-title="Fancode Live", Western United vs Auckland (A League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/111059_english_hls_85955ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111060_4567_MAC_SYW_fc-web_1728983130625.jpg" group-title="Fancode Live", Macarthur vs Western Sydney Wanderers (A League 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/111060_english_hls_36279ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121954_4795_KYS_OSA_fc-web_1745965582914.jpg" group-title="Fancode Live", Kyoto Sanga vs Cerezo Osaka (J League 2025)
