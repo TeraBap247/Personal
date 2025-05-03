@@ -122,7 +122,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746448868:KeyName=prod_linear:Signature=RN0xu6xTh3qcCzi7otbVWGGKgdHecvgn0AOlz5YOcV5Y3R0YtjVOR2_PnzdQo5D38OGuEWp9oZRYoh4qdFYPDw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746461793:KeyName=prod_linear:Signature=RBzAk5Nw7HEgzVlrTXRNEn9iQZtyj2paln8s5RPzHmjNVGkiMuTRlkxyH0uR6DgvJyN03fBA42WLxmhRevjcCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 
@@ -615,13 +615,15 @@ http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png" group-title="Fancode Live", Sprint vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)
 https://d2lf1ywh9o6e8j.cloudfront.net/out/v1/4e1fca2c313b421395edb784d9e28557/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-Final-old.jpg" group-title="Fancode Live", Al-Ahli vs Kawasaki Frontale (AFC Champions League Elite 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/124550_english_hls_71716ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg" group-title="Fancode Live", Zimbabwe Women vs USA Women (Zimbabwe Women tour of USA, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124080_english_hls_37194adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Windward Islands Women vs Guyana Women (CWI T20 Blaze Tournament, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124480_english_hls_54916ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg" group-title="Fancode Live", Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124672_CASACARDS_APP.png" group-title="Fancode Live", Huddersfield Town vs Leyton Orient (League One 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/124672_english_hls_14843ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode Live", Salmiya Strikers vs Winning FKP (KCC T10 Challengers League, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/123581_english_hls_45836ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124552_english_hls_96776ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
