@@ -6,50 +6,60 @@ import hashlib
 import json
 
 # --- ধাপ ১: বাইরের সোর্স থেকে .m3u ফাইল ডাউনলোড ---
-source_url = "https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u"
-response = requests.get(source_url)
-source_data = response.text
+try:
+    source_url = "https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u"
+    response = requests.get(source_url)
+    source_data = response.text
+    print("Source M3U ডাউনলোড সফল।")
+except Exception as e:
+    print(f"Source ডাউনলোড করতে সমস্যা হয়েছে: {e}")
+    source_data = ""
 
-# --- ধাপ ২: নির্দিষ্ট চ্যানেলের block খুঁজে বের করা ---
+# --- ধাপ ২: নির্দিষ্ট চ্যানেল block খুঁজে বের করে template.m3u আপডেট ---
 channel_name = "Cartoon Network HD"
+try:
+    pattern = re.compile(
+        rf'#EXTINF:-1.?,\s{re.escape(channel_name)}\s*\n(#EXTVLCOPT:.\n)?(#EXTHTTP:.\n)?(https?://.*)',
+        re.MULTILINE
+    )
+    match = pattern.search(source_data)
 
-pattern = re.compile(
-    rf'#EXTINF:-1.?,\s{re.escape(channel_name)}\s*\n(#EXTVLCOPT:.\n)?(#EXTHTTP:.\n)?(https?://.*)',
-    re.MULTILINE
-)
-match = pattern.search(source_data)
+    if match:
+        new_vlcopt = match.group(1) or ''
+        new_exthttp = match.group(2) or ''
 
-if match:
-    new_vlcopt = match.group(1) or ''
-    new_exthttp = match.group(2) or ''
+        with open("template.m3u", "r") as file:
+            lines = file.readlines()
 
-    # --- ধাপ ৩: template.m3u ফাইল থেকে user-agent এবং cookie আপডেট ---
-    with open("template.m3u", "r") as file:
-        lines = file.readlines()
-
-    updated_lines = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        if channel_name in line:
-            updated_lines.append(line)
-            i += 1
-            if i < len(lines) and lines[i].startswith("#EXTVLCOPT:"):
+        updated_lines = []
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if channel_name in line:
+                updated_lines.append(line)
                 i += 1
-            if i < len(lines) and lines[i].startswith("#EXTHTTP:"):
+                if i < len(lines) and lines[i].startswith("#EXTVLCOPT:"):
+                    i += 1
+                if i < len(lines) and lines[i].startswith("#EXTHTTP:"):
+                    i += 1
+                if new_vlcopt:
+                    updated_lines.append(new_vlcopt)
+                if new_exthttp:
+                    updated_lines.append(new_exthttp)
+            else:
+                updated_lines.append(line)
                 i += 1
-            if new_vlcopt:
-                updated_lines.append(new_vlcopt)
-            if new_exthttp:
-                updated_lines.append(new_exthttp)
-        else:
-            updated_lines.append(line)
-            i += 1
 
-    with open("template.m3u", "w") as file:
-        file.writelines(updated_lines)
+        with open("template.m3u", "w") as file:
+            file.writelines(updated_lines)
+        print("Cartoon Network HD আপডেট হয়েছে।")
+    else:
+        print("Cartoon Network HD পাওয়া যায়নি বা পরিবর্তন হয়নি।")
+except Exception as e:
+    print(f"Cartoon Network আপডেটে সমস্যা হয়েছে: {e}")
 
-    # --- ধাপ ৪: Fancode Live চ্যানেল গুলো শর্তসাপেক্ষে আপডেট ---
+# --- ধাপ ৩: Fancode Live চ্যানেল শর্তসাপেক্ষে আপডেট ---
+try:
     def hash_channel_list(lines):
         return hashlib.md5("\n".join(lines).encode()).hexdigest()
 
@@ -95,14 +105,17 @@ if match:
     old_hash = hash_channel_list(existing_fancode_lines)
 
     if new_hash != old_hash:
-        print("Fancode চ্যানেল পরিবর্তিত হয়েছে, আপডেট হচ্ছে...")
         with open("template.m3u", "w") as file:
             file.writelines([line + '\n' for line in cleaned_template])
             file.write('\n'.join(new_fancode_lines).rstrip() + '\n')
+        print("Fancode চ্যানেল আপডেট হয়েছে।")
     else:
-        print("Fancode চ্যানেল অপরিবর্তিত, কিছু করা হয়নি।")
+        print("Fancode চ্যানেল অপরিবর্তিত।")
+except Exception as e:
+    print(f"Fancode আপডেটে সমস্যা হয়েছে: {e}")
 
-    # --- ধাপ ৫: API থেকে চ্যানেল এনে মিলিয়ে template আপডেট ---
+# --- ধাপ ৪: API থেকে চ্যানেল এনে template আপডেট ---
+try:
     url = "https://otapp.store/rest-api//v130/all_tv_channel_by_category"
     headers = {
         "API-KEY": "ottbangla@android",
@@ -113,7 +126,7 @@ if match:
         "User-Agent": "okhttp/4.9.0"
     }
     res = requests.get(url, headers=headers)
-    data = res.json()  # now a list, not a dict
+    data = res.json()
 
     ignore_channels = [
         "Sony Pal HD", "Sony PIX HD", "SSC Sport 1", "Sony SAB HD", "Nick Hindi",
@@ -144,9 +157,7 @@ if match:
         for channel in category.get("tv_list", []):
             name = channel.get("tv_name", "").strip()
             stream = channel.get("tv_stream_url", "").strip()
-            if not name or not stream:
-                continue
-            if name in ignore_channels:
+            if not name or not stream or name in ignore_channels:
                 continue
             replaced = False
             for i in range(len(new_template_lines)):
@@ -165,8 +176,14 @@ if match:
     if updated:
         with open("template.m3u", "w") as f:
             f.write("\n".join(new_template_lines) + "\n")
+        print("OT API থেকে template আপডেট হয়েছে।")
+    else:
+        print("OT API থেকে নতুন কিছু পাওয়া যায়নি।")
+except Exception as e:
+    print(f"OT API আপডেটে সমস্যা হয়েছে: {e}")
 
-    # --- ধাপ ৬: ottrxs.m3u তৈরি করা শুভেচ্ছা বার্তাসহ ---
+# --- ধাপ ৫: ottrxs.m3u তৈরি শুভেচ্ছা বার্তাসহ ---
+try:
     input_file = 'template.m3u'
     output_file = 'ottrxs.m3u'
 
@@ -190,5 +207,6 @@ if match:
                 outfile.write(line.strip() + "\n")
             else:
                 outfile.write(line)
-else:
-    print("Channel not found in source.")
+    print("ottrxs.m3u ফাইল সফলভাবে তৈরি হয়েছে।")
+except Exception as e:
+    print(f"ottrxs.m3u তৈরি করতে সমস্যা হয়েছে: {e}")
