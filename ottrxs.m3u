@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌤️ Good Afternoon - Vip Ip Tv By Reyad Hossain 🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs", Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -780,11 +780,13 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123527_CASACARDS_APP.png" group-title="Fancode Live", Guwahati Giants vs 91 Yards Club (Guwahati Spring League)
 https://tv.onlinetvbd.com/fancode/global/primary/123527_english_hls_66030ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121955_4795_HIR_FKK_fc-web_1745964803904.jpg" group-title="Fancode Live", Sanfrecce Hiroshima vs Avispa Fukuoka (J League 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/121955_english_hls_52446ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg" group-title="Fancode Live", Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124843_english_hls_24757ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121953_4795_URW_VER_fc-web_1745964860558.jpg" group-title="Fancode Live", Urawa Red Diamonds vs Tokyo Verdy (J League 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/121953_english_hls_59912ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121952_4795_ANL_MZ_fc-web_1745965221557.jpg" group-title="Fancode Live", Kashima Antlers vs Machida Zelvia (J League 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/121952_english_hls_56102ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111058_4567_MLC_SYD_fc-web_1728983130172.jpg" group-title="Fancode Live", Melbourne City vs Sydney FC (A League 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/111058_english_hls_96146ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 2 vs Korea (LIV Golf Korea)
 https://tv.onlinetvbd.com/fancode/global/primary/124303_english_hls_67680adfreeta-di_h264/index.m3u8
