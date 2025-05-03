@@ -140,37 +140,45 @@ try:
         template_lines = f.read().splitlines()
 
     new_template_lines = []
-    existing_names = set()
-    for i in range(len(template_lines)):
-        line = template_lines[i]
-        if line.startswith("#EXTINF:"):
-            name_match = re.search(r",\s*(.+)$", line)
-            if name_match:
-                existing_names.add(name_match.group(1).strip())
-        new_template_lines.append(line)
-
     updated = False
+    channel_stream_map = {}
+
+    # API থেকে channel stream map তৈরি করি
     for category in data:
         for channel in category.get("tv_list", []):
             name = channel.get("tv_name", "").strip()
             stream = channel.get("tv_stream_url", "").strip()
             if not name or not stream or name in ignore_channels:
                 continue
-            replaced = False
-            for i in range(len(new_template_lines)):
-                if new_template_lines[i].startswith("#EXTINF:") and f",{name}" in new_template_lines[i]:
-                    if i + 1 < len(new_template_lines):
-                        current_stream = new_template_lines[i + 1].strip()
-                        if current_stream.strip() != stream.strip():
-                            new_template_lines[i + 1] = stream
-                            updated = True
-                    replaced = True
-                    break
-            if not replaced and name not in existing_names:
-                extinf_line = f'#EXTINF:-1 tvg-id="{channel.get("tv_id", "")}" tvg-logo="{channel.get("tv_logo", "")}" group-title="{category.get("category_name", "")}",{name}'
-                new_template_lines.append(extinf_line)
-                new_template_lines.append(stream)
-                updated = True
+            channel_stream_map[name] = {
+                "stream": stream,
+                "info_line": f'#EXTINF:-1 tvg-id="{channel.get("tv_id", "")}" tvg-logo="{channel.get("tv_logo", "")}" group-title="{category.get("category_name", "")}",{name}'
+            }
+
+    i = 0
+    while i < len(template_lines):
+        line = template_lines[i]
+        if line.startswith("#EXTINF:"):
+            name_match = re.search(r",\s*(.+)$", line)
+            if name_match:
+                name = name_match.group(1).strip()
+                if name in channel_stream_map:
+                    # EXTINF লাইন এবং পরবর্তী স্ট্রীম লাইন আপডেট করি
+                    new_template_lines.append(channel_stream_map[name]["info_line"])
+                    new_template_lines.append(channel_stream_map[name]["stream"])
+                    updated = True
+                    i += 2  # skip next line since we added the new stream
+                    continue
+        new_template_lines.append(line)
+        i += 1
+
+    # নতুন চ্যানেল যোগ করি যেগুলা আগের টেমপ্লেটে ছিল না
+    existing_names = set(re.search(r",\s*(.+)$", line).group(1).strip() for line in new_template_lines if line.startswith("#EXTINF:"))
+    for name, info in channel_stream_map.items():
+        if name not in existing_names:
+            new_template_lines.append(info["info_line"])
+            new_template_lines.append(info["stream"])
+            updated = True
 
     if updated:
         with open("template.m3u", "w", encoding="utf-8") as f:
