@@ -778,10 +778,6 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 https://tv.onlinetvbd.com/fancode/global/primary/124780_english_hls_35294ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124851_CASACARDS_APP.png" group-title="Fancode Live", Malta vs Estonia (ECI Malta-Estonia, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124851_english_hls_20043ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coventry-vs-Middlesbrough_fc-web.jpg" group-title="Fancode Live", Coventry City vs Middlesbrough (EFL Championship 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/124670_english_hls_654adfreeta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124910_4352_PLY_LU_fc-web.jpg" group-title="Fancode Live", Plymouth Argyle vs Leeds United (EFL Championship 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/124910_english_hls_63813adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124552_english_hls_96776ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
@@ -792,5 +788,9 @@ https://tv.onlinetvbd.com/fancode/global/primary/124551_english_hls_15855ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124553_english_hls_93263ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Bromwich-vs-Luton-Town_fc-web.jpg" group-title="Fancode Live", West Bromwich Albion vs Luton Town (EFL Championship 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/124671_english_hls_94491adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coventry-vs-Middlesbrough_fc-web.jpg" group-title="Fancode Live", Coventry City vs Middlesbrough (EFL Championship 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/124670_english_hls_654adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124910_4352_PLY_LU_fc-web.jpg" group-title="Fancode Live", Plymouth Argyle vs Leeds United (EFL Championship 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/124910_english_hls_63813adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124909_4352_BUR_MLW_fc-web.jpg" group-title="Fancode Live", Burnley vs Millwall (EFL Championship 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/124909_english_hls_6587adfreeta-di_h264/index.m3u8
