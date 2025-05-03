@@ -110,7 +110,7 @@ try:
         print("Fancode চ্যানেল অপরিবর্তিত।")
 except Exception as e:
     print(f"Fancode আপডেটে সমস্যা হয়েছে: {e}")
-
+    
 # --- ধাপ ৪: API থেকে চ্যানেল এনে template আপডেট ---
 try:
     url = "https://otapp.store/rest-api//v130/all_tv_channel_by_category"
@@ -139,22 +139,26 @@ try:
     with open("template.m3u", "r", encoding="utf-8") as f:
         template_lines = f.read().splitlines()
 
-    new_template_lines = []
-    updated = False
+    # Step 1: API থেকে চ্যানেলের তথ্য ম্যাপ বানাই
     channel_stream_map = {}
-
-    # API থেকে channel stream map তৈরি করি
     for category in data:
         for channel in category.get("tv_list", []):
             name = channel.get("tv_name", "").strip()
-            stream = channel.get("tv_stream_url", "").strip()
-            if not name or not stream or name in ignore_channels:
+            if not name or name in ignore_channels:
                 continue
+            stream = channel.get("tv_stream_url", "").strip()
+            tv_id = channel.get("tv_id", "")
+            tv_logo = channel.get("tv_logo", "")
+            group = category.get("category_name", "")
+            info_line = f'#EXTINF:-1 tvg-id="{tv_id}" tvg-logo="{tv_logo}" group-title="{group}",{name}'
             channel_stream_map[name] = {
-                "stream": stream,
-                "info_line": f'#EXTINF:-1 tvg-id="{channel.get("tv_id", "")}" tvg-logo="{channel.get("tv_logo", "")}" group-title="{category.get("category_name", "")}",{name}'
+                "info_line": info_line,
+                "stream": stream
             }
 
+    # Step 2: পুরাতন লাইন থেকে নতুন টেমপ্লেট বানাই
+    new_template_lines = []
+    existing_names = set()
     i = 0
     while i < len(template_lines):
         line = template_lines[i]
@@ -162,30 +166,35 @@ try:
             name_match = re.search(r",\s*(.+)$", line)
             if name_match:
                 name = name_match.group(1).strip()
-                if name in channel_stream_map:
-                    # EXTINF লাইন এবং পরবর্তী স্ট্রীম লাইন আপডেট করি
+                existing_names.add(name)
+
+                if name in ignore_channels or name not in channel_stream_map:
+                    # অপরিবর্তিত রাখি
+                    new_template_lines.append(line)
+                    if i + 1 < len(template_lines) and template_lines[i+1].startswith("http"):
+                        new_template_lines.append(template_lines[i+1])
+                        i += 2
+                        continue
+                else:
+                    # API থেকে আপডেট করি
                     new_template_lines.append(channel_stream_map[name]["info_line"])
                     new_template_lines.append(channel_stream_map[name]["stream"])
-                    updated = True
-                    i += 2  # skip next line since we added the new stream
+                    i += 2
                     continue
         new_template_lines.append(line)
         i += 1
 
-    # নতুন চ্যানেল যোগ করি যেগুলা আগের টেমপ্লেটে ছিল না
-    existing_names = set(re.search(r",\s*(.+)$", line).group(1).strip() for line in new_template_lines if line.startswith("#EXTINF:"))
+    # Step 3: নতুন চ্যানেল যোগ করি (যা আগে ফাইলে ছিল না)
     for name, info in channel_stream_map.items():
         if name not in existing_names:
             new_template_lines.append(info["info_line"])
             new_template_lines.append(info["stream"])
-            updated = True
 
-    if updated:
-        with open("template.m3u", "w", encoding="utf-8") as f:
-            f.write("\n".join(new_template_lines) + "\n")
-        print("OT API থেকে template আপডেট হয়েছে।")
-    else:
-        print("OT API থেকে নতুন কিছু পাওয়া যায়নি।")
+    # Step 4: template.m3u তে লিখি
+    with open("template.m3u", "w", encoding="utf-8") as f:
+        f.write("\n".join(new_template_lines) + "\n")
+
+    print("OT API থেকে template.m3u সফলভাবে আপডেট হয়েছে।")
 except Exception as e:
     print(f"OT API আপডেটে সমস্যা হয়েছে: {e}")
 
