@@ -14,7 +14,7 @@ source_data = response.text
 channel_name = "Cartoon Network HD"
 
 pattern = re.compile(
-    rf'#EXTINF:-1.*?,\s*{re.escape(channel_name)}\s*\n(#EXTVLCOPT:.*\n)?(#EXTHTTP:.*\n)?(https?://.*)',
+    rf'#EXTINF:-1.?,\s{re.escape(channel_name)}\s*\n(#EXTVLCOPT:.\n)?(#EXTHTTP:.\n)?(https?://.*)',
     re.MULTILINE
 )
 match = pattern.search(source_data)
@@ -57,7 +57,6 @@ if match:
     fancode_response = requests.get(fancode_url)
     fancode_data = fancode_response.text
 
-    # Extract new Fancode channels
     new_fancode_lines = []
     lines = fancode_data.strip().splitlines()
     i = 0
@@ -76,7 +75,6 @@ if match:
 
     new_hash = hash_channel_list(new_fancode_lines)
 
-    # Read current template and extract old Fancode channels
     with open("template.m3u", "r") as file:
         template_lines = file.readlines()
 
@@ -97,12 +95,12 @@ if match:
     old_hash = hash_channel_list(existing_fancode_lines)
 
     if new_hash != old_hash:
-        print("Fancode channels changed. Updating template.m3u...")
+        print("Fancode চ্যানেল পরিবর্তিত হয়েছে, আপডেট হচ্ছে...")
         with open("template.m3u", "w") as file:
             file.writelines([line + '\n' for line in cleaned_template])
             file.write('\n'.join(new_fancode_lines).rstrip() + '\n')
     else:
-        print("Fancode channels unchanged. No update needed.")
+        print("Fancode চ্যানেল অপরিবর্তিত, কিছু করা হয়নি।")
 
     # --- ধাপ ৫: API থেকে চ্যানেল এনে মিলিয়ে template আপডেট ---
     url = "https://otapp.store/rest-api//v130/all_tv_channel_by_category"
@@ -115,7 +113,7 @@ if match:
         "User-Agent": "okhttp/4.9.0"
     }
     res = requests.get(url, headers=headers)
-    data = res.json()
+    data = res.json()  # now a list, not a dict
 
     ignore_channels = [
         "Sony Pal HD", "Sony PIX HD", "SSC Sport 1", "Sony SAB HD", "Nick Hindi",
@@ -142,7 +140,7 @@ if match:
         new_template_lines.append(line)
 
     updated = False
-    for category in data.get("data", []):
+    for category in data:
         for channel in category.get("tv_list", []):
             name = channel.get("tv_name", "").strip()
             stream = channel.get("tv_stream_url", "").strip()
