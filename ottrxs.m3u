@@ -568,7 +568,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746376029:KeyName=prod_linear:Signature=IoqGH4IF3g02AMsCChTnaK3HPrKXwoAQTfGwttbDEcjHjL8scTFnEgQtOllZhGjJ9_iekOlFHkDfKVx5XhP1AA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746409439:KeyName=prod_linear:Signature=nOk0i5Z6KEt2H9KBDIsa_j65ro9lJoV96f_3z-X3ZIqkJGDlNlEQrHtFv0lFH6YNLoAIQKajaLNbMZlVbayBAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)", tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png", Cartoon Network Pakistan
@@ -777,5 +777,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123869_5128_LIT_TTL_fc-web.jpg" group-title="Fancode Live", Trinidad & Tobago Legions vs Leeward Islands Thunder (West Indies Breakout League, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/123869_english_hls_94464adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124280_5144_RB_MAH_fc-web.jpg" group-title="Fancode Live", Mahasamund vs Raipur Blue (Senior Elite Group T20 Tournament)
+https://tv.onlinetvbd.com/fancode/global/primary/124280_english_hls_68946adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124278_5144_BSP_JCH_fc-web.jpg" group-title="Fancode Live", Janjgir Champa vs BSP (Senior Elite Group T20 Tournament)
+https://tv.onlinetvbd.com/fancode/global/primary/124278_english_hls_62076adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124592_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124592_english_hls_74358adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 2 vs Korea (LIV Golf Korea)
+https://tv.onlinetvbd.com/fancode/global/primary/124303_english_hls_67680adfreeta-di_h264/index.m3u8
