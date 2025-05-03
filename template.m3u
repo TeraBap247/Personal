@@ -624,10 +624,6 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png" group-title="Fancode Live", Qualifying vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)
-https://ddpddq8j2zdbx.cloudfront.net/out/v1/691cf3177f2441ba893e0c41eeaefa09/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png" group-title="Fancode Live", Atlanta Fire vs Mustangs Cricket Academy (Houston Open)
-https://tv.onlinetvbd.com/fancode/global/primary/124156_english_hls_10969ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124552_english_hls_96776ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
@@ -640,3 +636,7 @@ https://tv.onlinetvbd.com/fancode/global/primary/124553_english_hls_93263ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124692_english_hls_29811ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", World Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124326_english_hls_83271ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png" group-title="Fancode Live", Qualifying vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)
+https://ddpddq8j2zdbx.cloudfront.net/out/v1/691cf3177f2441ba893e0c41eeaefa09/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Barbados Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124482_english_hls_79768ta-di_h264/index.m3u8
