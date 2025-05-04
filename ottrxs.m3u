@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -41,6 +41,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="151" tvg-name="ATN News" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-news.png" group-title="News Channel ",ATN News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Duronto TV
+https://hand.top10wifibhaluka.com/in24/watch.php?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c&format=.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
@@ -531,8 +534,6 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/159.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 http://tv.bdiptv.store:80/live/restream/restreamkak/71.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Duronto TV
-http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="75" tvg-name="Rongeen TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
@@ -629,13 +630,9 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg" group-title="Fancode Live", India Women vs Sri Lanka Women (Womens ODI Tri-Series)
 https://tv.onlinetvbd.com/fancode/global/primary/124039_english_hls_72632ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124282_5144_RB_BIL_fc-web.jpg" group-title="Fancode Live", Bilaspur vs Raipur Blue (Senior Elite Group T20 Tournament)
-https://tv.onlinetvbd.com/fancode/global/primary/124282_english_hls_64733ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124853_CASACARDS_APP.png" group-title="Fancode Live", Malta vs Estonia (ECI Malta-Estonia, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124853_english_hls_94036ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124493_CASACARDS_APP.png" group-title="Fancode Live", United Arab Emirates vs Scotland (ICC CWC League 2, 2023-27)
 https://tv.onlinetvbd.com/fancode/global/primary/124493_english_hls_99063ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124555_english_hls_47540ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124958_CASACARDS_APP.png" group-title="Fancode Live", Rising Star Women vs S.G.Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124958_english_hls_42056ta-di_h264/index.m3u8
