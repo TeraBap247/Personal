@@ -124,12 +124,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746496628:KeyName=prod_linear:Signature=cMIgnpK8O8RFGNRZLNPgML9QWN_vrZAxlMDmhDWUxX43znwwlpu4O5P2vC4Sw5a6NwgCJKxAOYo8d4R2OlAoAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746505188:KeyName=prod_linear:Signature=hXaZENOJwa_vqbezt4yGcvKV71pH7DIjeCRd4bfEk1K0WEuZKVQe1Ph30V0MOLJugFg4i0pMeAxHUardIPlKAQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746374228:KeyName=prod_live_mybl:Signature=j0DJlaKijGK1PFH6vlDSsl9dPCi2wgPXank-vU4O3Bsps7yOhfFUZWk3LKPg-6FbugdcUklxZofQ_2qnI-y8Dw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746383230:KeyName=prod_live_mybl:Signature=tLUhbInKYrhrji8N0cBV4KRx84R8LIGi1e5zzX5GzYWCI6MfYMFBF6Vn4MZBTM4zJVqW_MUFY5T5XQCPK6fSCg"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -627,11 +627,11 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg" group-title="Fancode Live", India Women vs Sri Lanka Women (Womens ODI Tri-Series)
+https://tv.onlinetvbd.com/fancode/global/primary/124039_english_hls_72632ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124957_CASACARDS_APP.png" group-title="Fancode Live", 91 Yards Club Women vs Gauhati Town Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124957_english_hls_17766ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124284_5144_JCH_MAH_fc-web.jpg" group-title="Fancode Live", Janjgir Champa vs Mahasamund (Senior Elite Group T20 Tournament)
 https://tv.onlinetvbd.com/fancode/global/primary/124284_english_hls_5728ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124594_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124594_english_hls_23344ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 3 vs Korea (LIV Golf Korea)
 https://tv.onlinetvbd.com/fancode/global/primary/124304_english_hls_65138ta-di_h264/index.m3u8
