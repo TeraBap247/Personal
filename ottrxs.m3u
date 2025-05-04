@@ -626,13 +626,7 @@ http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Barbados Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124482_english_hls_79768ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124552_english_hls_96776ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124554_english_hls_78122ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Group - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124551_english_hls_15855ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124553_english_hls_93263ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", World Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124326_english_hls_83271ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124594_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124594_english_hls_23344ta-di_h264/index.m3u8
