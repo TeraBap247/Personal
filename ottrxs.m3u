@@ -627,6 +627,10 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124957_CASACARDS_APP.png" group-title="Fancode Live", 91 Yards Club Women vs Gauhati Town Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124957_english_hls_17766ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124284_5144_JCH_MAH_fc-web.jpg" group-title="Fancode Live", Janjgir Champa vs Mahasamund (Senior Elite Group T20 Tournament)
+https://tv.onlinetvbd.com/fancode/global/primary/124284_english_hls_5728ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124594_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124594_english_hls_23344ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 3 vs Korea (LIV Golf Korea)
