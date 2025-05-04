@@ -124,7 +124,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746461793:KeyName=prod_linear:Signature=RBzAk5Nw7HEgzVlrTXRNEn9iQZtyj2paln8s5RPzHmjNVGkiMuTRlkxyH0uR6DgvJyN03fBA42WLxmhRevjcCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746496628:KeyName=prod_linear:Signature=cMIgnpK8O8RFGNRZLNPgML9QWN_vrZAxlMDmhDWUxX43znwwlpu4O5P2vC4Sw5a6NwgCJKxAOYo8d4R2OlAoAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
@@ -627,9 +627,7 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Barbados Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124482_english_hls_79768ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", World Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124326_english_hls_83271ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124594_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124594_english_hls_23344ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 3 vs Korea (LIV Golf Korea)
+https://tv.onlinetvbd.com/fancode/global/primary/124304_english_hls_65138ta-di_h264/index.m3u8
