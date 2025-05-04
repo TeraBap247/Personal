@@ -127,6 +127,11 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746461793:KeyName=prod_linear:Signature=RBzAk5Nw7HEgzVlrTXRNEn9iQZtyj2paln8s5RPzHmjNVGkiMuTRlkxyH0uR6DgvJyN03fBA42WLxmhRevjcCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
+#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746374228:KeyName=prod_live_mybl:Signature=j0DJlaKijGK1PFH6vlDSsl9dPCi2wgPXank-vU4O3Bsps7yOhfFUZWk3LKPg-6FbugdcUklxZofQ_2qnI-y8Dw"}
+https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
+
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
@@ -510,8 +515,6 @@ http://tv.bdiptv.store:80/live/restream/restream25/91.m3u8
 http://tv.bdiptv.store/live/restream/restream25/15252.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Sony Pal" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony Pal
 http://tv.bdiptv.store:80/live/restream/restream25/232.m3u8
-#EXTINF:-1 tvg-id="236" tvg-name="PSL" tvg-logo="https://otapp.store/uploads/tv_image/sm/psl.png" group-title="Event Channel ",PSL
-http://tv.bdiptv.store:80/live/restream/restream25/15325.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="TATA IPL T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-t-sports.png" group-title="Event Channel ",TATA IPL T Sports
 http://103.179.25.147:8181/IPLT20/index.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="TATA IPL 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-2025-qnlhzwrrt5e6.png" group-title="Event Channel ",TATA IPL 2025
