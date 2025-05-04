@@ -345,6 +345,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg" group-title="Fancode Live", India Women vs Sri Lanka Women (Womens ODI Tri-Series)
+https://tv.onlinetvbd.com/fancode/global/primary/124039_english_hls_72632ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124957_CASACARDS_APP.png" group-title="Fancode Live", 91 Yards Club Women vs Gauhati Town Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124957_english_hls_17766ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124284_5144_JCH_MAH_fc-web.jpg" group-title="Fancode Live", Mahasamund vs Janjgir Champa (Senior Elite Group T20 Tournament)
+https://tv.onlinetvbd.com/fancode/global/primary/124284_english_hls_5728ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111056_4567_WEL_PG_fc-web_1728983130165.jpg" group-title="Fancode Live", Wellington Phoenix vs Perth Glory (A League 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/111056_english_hls_30227ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 3 vs Korea (LIV Golf Korea)
+https://tv.onlinetvbd.com/fancode/global/primary/124304_english_hls_65138ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restream25/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -512,7 +522,7 @@ http://tv.bdiptv.store/live/restream/restream25/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restream/restream25/91.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
-http://tv.bdiptv.store/live/restream/restream25/15252.m3u8
+http://tv.bdiptv.store/live/restream/restream25/14.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Sony Pal" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony Pal
 http://tv.bdiptv.store:80/live/restream/restream25/232.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="TATA IPL T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-t-sports.png" group-title="Event Channel ",TATA IPL T Sports
@@ -627,13 +637,3 @@ http://tv.bdiptv.store:80/live/restream/restream25/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restream25/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restream25/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg" group-title="Fancode Live", India Women vs Sri Lanka Women (Womens ODI Tri-Series)
-https://tv.onlinetvbd.com/fancode/global/primary/124039_english_hls_72632ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124957_CASACARDS_APP.png" group-title="Fancode Live", 91 Yards Club Women vs Gauhati Town Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124957_english_hls_17766ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124284_5144_JCH_MAH_fc-web.jpg" group-title="Fancode Live", Janjgir Champa vs Mahasamund (Senior Elite Group T20 Tournament)
-https://tv.onlinetvbd.com/fancode/global/primary/124284_english_hls_5728ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111056_4567_WEL_PG_fc-web_1728983130165.jpg" group-title="Fancode Live", Wellington Phoenix vs Perth Glory (A League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/111056_english_hls_30227ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 3 vs Korea (LIV Golf Korea)
-https://tv.onlinetvbd.com/fancode/global/primary/124304_english_hls_65138ta-di_h264/index.m3u8
