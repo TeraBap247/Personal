@@ -228,7 +228,7 @@ def generate_final_file():
                 outfile.write(line)
 
 # --- Run All Tasks ---
-safe_run("Cartoon Network HD", update_cartoon_network)
+safe_run("Cartoon Network HD", lambda: update_channels(["Cartoon Network HD", "PSL"]))
 safe_run("Fancode", update_fancode)
 safe_run("API", update_api_channels)
 safe_run("Final Output", generate_final_file)
