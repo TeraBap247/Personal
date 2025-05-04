@@ -630,16 +630,8 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png" group-title="Fancode Live", Race vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)
 https://d31e12ww00ksr5.cloudfront.net/out/v1/706bad8ba6bc4524b8d868f8bc4f5999/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123870_5128_WII_TTL_fc-web.jpg" group-title="Fancode Live", Windward Islands Infernos vs Trinidad & Tobago Legions (West Indies Breakout League, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/123870_english_hls_12936ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Main Feed - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124555_english_hls_47540ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Group - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124558_english_hls_93653ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Featured Holes - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124587_english_hls_65778ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://tv.onlinetvbd.com/fancode/global/primary/124556_english_hls_86699ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", World Feed - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124557_english_hls_86455ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124596_CASACARDS_APP.png" group-title="Fancode Live", Cincinnati Reds vs Washington Nationals (Major League Baseball, 2025)
