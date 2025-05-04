@@ -353,6 +353,8 @@ https://tv.onlinetvbd.com/fancode/global/primary/124957_english_hls_17766ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124284_english_hls_5728ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111056_4567_WEL_PG_fc-web_1728983130165.jpg" group-title="Fancode Live", Wellington Phoenix vs Perth Glory (A League 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/111056_english_hls_30227ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111061_4567_MLV_NJ_fc-web_1728983130266.jpg" group-title="Fancode Live", Melbourne Victory vs Newcastle Jets (A League 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/111061_english_hls_45479ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg" group-title="Fancode Live", Day 3 vs Korea (LIV Golf Korea)
 https://tv.onlinetvbd.com/fancode/global/primary/124304_english_hls_65138ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
@@ -362,7 +364,7 @@ https://live.drmlive-02.workers.dev/zee/0-9-bigganga.m3u8
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restream/restream25/95.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="Movie Channel",Zee Cinema HD
-http://tv.bdiptv.store/live/restream/restream25/28.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/28.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restream/restream25/238.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
@@ -374,11 +376,11 @@ http://tv.bdiptv.store:80/live/restream/restream25/240.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Colors Cineplex HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" group-title="Movie Channel",Colors Cineplex HD
 http://tv.bdiptv.store:80/live/restream/restream25/239.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Zee Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd.png" group-title="Movie Channel",Zee Cinema
-http://tv.bdiptv.store/live/restream/restream25/15339.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/15339.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Sony MAX" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" group-title="Movie Channel",Sony MAX
-http://tv.bdiptv.store/live/restream/restream25/23.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/23.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Sony Wah" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png" group-title="Movie Channel",Sony Wah
-http://tv.bdiptv.store/live/restream/restream25/15282.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/15282.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Colors Infinity HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png" group-title="Movie Channel",Colors Infinity HD
 http://tv.bdiptv.store:80/live/restream/restream25/15315.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Biswa Bangla 24" tvg-logo="https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png" group-title="BD Channel-(বাংলা চ্যানেল)",Biswa Bangla 24
@@ -478,7 +480,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="239" tvg-name="Music Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/music-bangla.png" group-title="Music Channel",Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="Music Channel",Sangeet Bangla
-http://tv.bdiptv.store/live/restream/restream25/132.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/132.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="ZOOM" tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="Music Channel",ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Mastiii" tvg-logo="https://otapp.store/uploads/tv_image/sm/mastiii.png" group-title="Music Channel",Mastiii
@@ -518,11 +520,11 @@ http://tv.bdiptv.store:80/live/restream/restream25/81.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 http://tv.bdiptv.store:80/live/restream/restream25/52.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
-http://tv.bdiptv.store/live/restream/restream25/143.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restream/restream25/91.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
-http://tv.bdiptv.store/live/restream/restream25/14.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/14.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Sony Pal" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony Pal
 http://tv.bdiptv.store:80/live/restream/restream25/232.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="TATA IPL T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-t-sports.png" group-title="Event Channel ",TATA IPL T Sports
@@ -546,7 +548,7 @@ http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="75" tvg-name="Rongeen TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
-http://tv.bdiptv.store/live/restream/restream25/242.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 http://tv.bdiptv.store:80/live/restream/restream25/96.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network Hindi
@@ -598,7 +600,7 @@ https://newsprotalhub.xyz/candy/vstream.php?id=4ce560bcdf91&e=.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="Shemaroo TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-tv.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Shemaroo TV
 https://newhub247.store/app/csshd/NVMe/live.m3u8?id=1961
 #EXTINF:-1 tvg-id="10" tvg-name="Rishtey" tvg-logo="https://otapp.store/uploads/tv_image/sm/rishtey.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Rishtey
-http://tv.bdiptv.store/live/restream/restream25/15338.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/15338.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Shemaroo Umang" tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-umang.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Shemaroo Umang
 https://newhub247.store/app/csshd/live.m3u8?id=2078
 #EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
