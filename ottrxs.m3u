@@ -628,8 +628,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg" group-title="Fancode Live", Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124847_english_hls_22404ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-1.png" group-title="Fancode Live", Atlanta Fire vs Houston Stars (Houston Open)
 https://tv.onlinetvbd.com/fancode/global/primary/124159_english_hls_31114ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124493_CASACARDS_APP.png" group-title="Fancode Live", United Arab Emirates vs Scotland (ICC CWC League 2, 2023-27)
@@ -642,3 +640,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/124558_english_hls_93653ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124587_english_hls_65778ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://tv.onlinetvbd.com/fancode/global/primary/124556_english_hls_86699ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124854_CASACARDS_APP.png" group-title="Fancode Live", Estonia vs Malta (ECI Malta-Estonia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124854_english_hls_33012ta-di_h264/index.m3u8
