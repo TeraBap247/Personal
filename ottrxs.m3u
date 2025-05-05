@@ -6,11 +6,11 @@ https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp
 #EXTINF:-1 tvg-id="156" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-9.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Gazi TV HD
+http://tv.bdiptv.store:80/live/restream/restreamkak/87.m3u8
+
 #EXTINF:-1 tvg-id="146" tvg-name="ATN Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="145" tvg-name="NTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ntv.png" group-title="BD Channel-(বাংলা চ্যানেল)",NTV
-http://103.230.105.252:1935/live/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Channel I" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-i.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel I
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
@@ -34,7 +34,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="154" tvg-name="Somoy News TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/somoy-news-tv.png" group-title="News Channel ",Somoy News TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=442000.m3u8
 
 #EXTINF:-1 tvg-id="151" tvg-name="ATN News" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-news.png" group-title="News Channel ",ATN News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
@@ -330,7 +330,7 @@ https://fifabd.site/OPLLX5/play.php?id=66166&|User-Agent=RANAPK
 https://fifabd.site/OPLLX5/play.php?id=167551&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha SD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha SD
-http://38.96.178.201/live/STARJALSHA/index.m3u8
+http://kst.moonplex.net:8080/CH3/index.m3u8
 
 #EXTINF:-1 tvg-id="wbtv" tvg-name="WB Tv" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Movie Channel",WB Tv
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -345,10 +345,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Jamaica Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124483_english_hls_70219ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode Live", Tally Rangers vs Winning FKP (KCC T10 Challengers League, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/123585_english_hls_57099ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg" group-title="Fancode Live", 12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124206_english_hls_42640ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124754_5155_WT_ER_fc-web.jpg" group-title="Fancode Live", Western Towers vs Eastern Royals (ECS Jersey, Liberation Series, 2025)
@@ -429,8 +425,6 @@ https://hand.top10wifibhaluka.com/in24/watch.php?id=addb7014-1d2e-41d8-982d-7caf
 https://hand.top10wifibhaluka.com/in24/watch.m3u8?id=d07563b0-7580-4cbd-a7c9-e67535c0164a&format=.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Asian TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/asian-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Asian TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&format=.m3u8
-#EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Gazi TV HD
-http://server.top10bhaluka.com:100/royal25/stream.m3u8?id=bk/1
 #EXTINF:-1 tvg-id="153" tvg-name="Bijoy TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bijoy-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bijoy TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590&format=.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="Mohona TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Mohona TV
@@ -443,6 +437,8 @@ https://hand.top10wifibhaluka.com/in24/watch.php?id=dd8c50e9-5dad-4cb9-9df8-5763
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="Boishakhi TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Boishakhi TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a&format=.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="NTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ntv.png" group-title="BD Channel-(বাংলা চ্যানেল)",NTV
+https://hand.top10wifibhaluka.com/in24/watch.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d&format=.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Ekushey TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekushey-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="Bangla Vision" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-vision.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bangla Vision

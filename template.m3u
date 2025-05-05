@@ -124,12 +124,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746592073:KeyName=prod_linear:Signature=SKUoBOzCFP_13G3Q84ot50GuT696j1T1vMPQEpk8iQuIW9zYlYS2bnKhFXgm6BSInbxO4eH6763cSfM8l6qYAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746621454:KeyName=prod_linear:Signature=Kqd-2eOk1CJVTWkumE2koc8-65t2N7V2-GKvuzVyoLUx9J7kSp4ly3adWNjuLs3gXE5R4i6ght7PSRmPVwtuDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746469096:KeyName=prod_live_mybl:Signature=o8ntQX08GRkuIyEzXmFRpfHuIBumECV-h0iuQq6QGGtYq0US5Utaylqp9uwf8OxPPq8ze1vGZmJrsb01zUByBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746499054:KeyName=prod_live_mybl:Signature=IdzCsWAmhiQNU21V2MaQwf-ZYMRR8YRnJTCtIkVdvPUCEzGwfOHVp-PVT2VDsZUEUAMetOh_INf6cSFxYZe3CA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -345,6 +345,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg" group-title="Fancode Live", 12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124206_english_hls_42640ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124754_5155_WT_ER_fc-web.jpg" group-title="Fancode Live", Western Towers vs Eastern Royals (ECS Jersey, Liberation Series, 2025)
+https://dc1btupjb9p6n.cloudfront.net/out/v1/2e9d35a747094818a428b57eaae95e48/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -433,6 +437,8 @@ https://hand.top10wifibhaluka.com/in24/watch.php?id=dd8c50e9-5dad-4cb9-9df8-5763
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="Boishakhi TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Boishakhi TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a&format=.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="NTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ntv.png" group-title="BD Channel-(বাংলা চ্যানেল)",NTV
+https://hand.top10wifibhaluka.com/in24/watch.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d&format=.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Ekushey TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekushey-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="Bangla Vision" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-vision.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bangla Vision
@@ -625,11 +631,3 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-tour-of-Bangladesh,-2025-old-match-card-_1746428215529.png" group-title="Fancode Live", New Zealand A vs Bangladesh A (New Zealand A tour of Bangladesh, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124911_english_hls_31010ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Malta-Croatia-T20IW_old.jpg" group-title="Fancode Live", Croatia Women vs Malta Women (ECN Malta-Croatia T20IW, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124848_english_hls_58211ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/GTC-Womens-Summer-challenge-old.png" group-title="Fancode Live", Maharana AC Women vs Warriors Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124960_english_hls_87429ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124527_CASACARDS_APP.png" group-title="Fancode Live", KCA Ruby vs KCA Pearl (KCA TCM Pink T20 Challengers, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124527_english_hls_45643ta-di_h264/index.m3u8
