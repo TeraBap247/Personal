@@ -127,12 +127,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746592073:KeyName=prod_linear:Signature=SKUoBOzCFP_13G3Q84ot50GuT696j1T1vMPQEpk8iQuIW9zYlYS2bnKhFXgm6BSInbxO4eH6763cSfM8l6qYAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746621454:KeyName=prod_linear:Signature=Kqd-2eOk1CJVTWkumE2koc8-65t2N7V2-GKvuzVyoLUx9J7kSp4ly3adWNjuLs3gXE5R4i6ght7PSRmPVwtuDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746469096:KeyName=prod_live_mybl:Signature=o8ntQX08GRkuIyEzXmFRpfHuIBumECV-h0iuQq6QGGtYq0US5Utaylqp9uwf8OxPPq8ze1vGZmJrsb01zUByBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746499054:KeyName=prod_live_mybl:Signature=IdzCsWAmhiQNU21V2MaQwf-ZYMRR8YRnJTCtIkVdvPUCEzGwfOHVp-PVT2VDsZUEUAMetOh_INf6cSFxYZe3CA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -630,5 +630,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Malta-Croatia-T20IW_old.jpg" group-title="Fancode Live", Croatia Women vs Malta Women (ECN Malta-Croatia T20IW, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124849_english_hls_59224ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124751_5155_SSP_WT_fc-web.jpg" group-title="Fancode Live", Western Towers vs Southern Spitfires (ECS Jersey, Liberation Series, 2025)
-https://dxywav4j0oap2.cloudfront.net/out/v1/1d510cd54d924bf8ab691cd23ffcac39/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124752_5155_CC_YCC_fc-web.jpg" group-title="Fancode Live", Central Commanders vs Yorkshire Cricket College (ECS Jersey, Liberation Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124752_english_hls_97234ta-di_h264/index.m3u8
