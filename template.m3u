@@ -127,12 +127,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746562718:KeyName=prod_linear:Signature=UnpHcmBgO5HsDX_bnXWqHNyo4n4pDh7RmXDCePPfUM-NhIBXLcV5VCkD2IIPlsTB3Ko_1aK-OHh_WNq57IheDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746592073:KeyName=prod_linear:Signature=SKUoBOzCFP_13G3Q84ot50GuT696j1T1vMPQEpk8iQuIW9zYlYS2bnKhFXgm6BSInbxO4eH6763cSfM8l6qYAg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746440318:KeyName=prod_live_mybl:Signature=YaG8v0X7lT-RfNd3S3RAIQUw-bmmlJYFyubhyGNCdwjhWyHrfFjPMSVvezwKLbVura76Qsk-5vUgtW0OK_rCAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746469096:KeyName=prod_live_mybl:Signature=o8ntQX08GRkuIyEzXmFRpfHuIBumECV-h0iuQq6QGGtYq0US5Utaylqp9uwf8OxPPq8ze1vGZmJrsb01zUByBQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -636,3 +636,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/124286_english_hls_27596ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124911_english_hls_31010ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124959_CASACARDS_APP.png" group-title="Fancode Live", Rising Star Women vs 91 Yards Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124959_english_hls_34705ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124527_CASACARDS_APP.png" group-title="Fancode Live", KCA Ruby vs KCA Pearl (KCA TCM Pink T20 Challengers, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124527_english_hls_45643ta-di_h264/index.m3u8
