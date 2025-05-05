@@ -6,9 +6,6 @@ https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp
 #EXTINF:-1 tvg-id="156" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-9.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Gazi TV HD
-http://tv.bdiptv.store:80/live/restream/restream25/87.m3u8
-
 #EXTINF:-1 tvg-id="146" tvg-name="ATN Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
@@ -348,6 +345,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Jamaica Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124483_english_hls_70219ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode Live", Tally Rangers vs Winning FKP (KCC T10 Challengers League, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/123585_english_hls_57099ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg" group-title="Fancode Live", 12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124206_english_hls_42640ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124754_5155_WT_ER_fc-web.jpg" group-title="Fancode Live", Western Towers vs Eastern Royals (ECS Jersey, Liberation Series, 2025)
+https://dc1btupjb9p6n.cloudfront.net/out/v1/2e9d35a747094818a428b57eaae95e48/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -424,6 +429,8 @@ https://hand.top10wifibhaluka.com/in24/watch.php?id=addb7014-1d2e-41d8-982d-7caf
 https://hand.top10wifibhaluka.com/in24/watch.m3u8?id=d07563b0-7580-4cbd-a7c9-e67535c0164a&format=.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Asian TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/asian-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Asian TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&format=.m3u8
+#EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Gazi TV HD
+http://server.top10bhaluka.com:100/royal25/stream.m3u8?id=bk/1
 #EXTINF:-1 tvg-id="153" tvg-name="Bijoy TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bijoy-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bijoy TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590&format=.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="Mohona TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Mohona TV
@@ -628,11 +635,3 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Jamaica Women vs Leeward Islands Women (CWI T20 Blaze Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124483_english_hls_70219ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode Live", Tally Rangers vs Winning FKP (KCC T10 Challengers League, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/123585_english_hls_57099ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg" group-title="Fancode Live", 12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124206_english_hls_42640ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124754_5155_WT_ER_fc-web.jpg" group-title="Fancode Live", Western Towers vs Eastern Royals (ECS Jersey, Liberation Series, 2025)
-https://dc1btupjb9p6n.cloudfront.net/out/v1/2e9d35a747094818a428b57eaae95e48/index.m3u8
