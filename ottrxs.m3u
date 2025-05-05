@@ -333,7 +333,7 @@ https://fifabd.site/OPLLX5/play.php?id=66166&|User-Agent=RANAPK
 https://fifabd.site/OPLLX5/play.php?id=167551&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha SD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha SD
-http://kst.moonplex.net:8080/CH3/index.m3u8
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 tvg-id="wbtv" tvg-name="WB Tv" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Movie Channel",WB Tv
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -634,3 +634,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/124848_english_hls_58211ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124960_english_hls_87429ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124528_CASACARDS_APP.png" group-title="Fancode Live", KCA Emerald vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124528_english_hls_49370ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124750_5155_ER_CC_fc-web.jpg" group-title="Fancode Live", Central Commanders vs Eastern Royals (ECS Jersey, Liberation Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124750_english_hls_35984ta-di_h264/index.m3u8
