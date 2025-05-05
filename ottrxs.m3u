@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -628,8 +628,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124528_CASACARDS_APP.png" group-title="Fancode Live", KCA Emerald vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124528_english_hls_49370ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Malta-Croatia-T20IW_old.jpg" group-title="Fancode Live", Croatia Women vs Malta Women (ECN Malta-Croatia T20IW, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124849_english_hls_59224ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124751_5155_SSP_WT_fc-web.jpg" group-title="Fancode Live", Western Towers vs Southern Spitfires (ECS Jersey, Liberation Series, 2025)
