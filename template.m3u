@@ -628,5 +628,9 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Barbados Women vs Guyana Women (CWI T20 Blaze Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124485_english_hls_9638ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124289_CASACARDS_APP.png" group-title="Fancode Live", BSP vs Bilaspur (Senior Elite Group T20 Tournament)
+https://tv.onlinetvbd.com/fancode/global/primary/124289_english_hls_31227ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124290_CASACARDS_APP.png" group-title="Fancode Live", Plate Combined vs BCA (Senior Elite Group T20 Tournament)
+https://tv.onlinetvbd.com/fancode/global/primary/124290_english_hls_21505ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124647_CASACARDS_APP.png" group-title="Fancode Live", Arizona Diamondbacks vs New York Mets (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124647_english_hls_67561ta-di_h264/index.m3u8
