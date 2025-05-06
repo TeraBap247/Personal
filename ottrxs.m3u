@@ -628,11 +628,13 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124530_5151_AMB_RUB_fc-web.jpg" group-title="Fancode Live", KCA Amber vs KCA Ruby (KCA TCM Pink T20 Challengers, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124530_english_hls_59677ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124961_5167_SG-W_WR-W_fc-web.jpg" group-title="Fancode Live", S.G.Club Women vs Warriors Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124961_english_hls_47345ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Malta-Estonia,-May-2025-old-match-card-.png" group-title="Fancode Live", Malta vs Estonia (ECN Malta-Estonia T20I, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124840_english_hls_2326ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121956_4795_URW_OSK_fc-web_1745965582918.jpg" group-title="Fancode Live", Urawa Red Diamonds vs Gamba Osaka (J League 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/121956_english_hls_5884ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121957_4795_REY_PUL_fc-web_1745965583744.jpg" group-title="Fancode Live", Kashiwa Reysol vs Shimizu S-Pulse (J League 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/121957_english_hls_39343ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121956_4795_URW_OSK_fc-web_1745965582918.jpg" group-title="Fancode Live", Urawa Red Diamonds vs Gamba Osaka (J League 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/121956_english_hls_5884ta-di_h264/index.m3u8
