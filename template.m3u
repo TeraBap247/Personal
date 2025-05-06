@@ -10,7 +10,7 @@ http://38.96.178.201/live/Channel9/index.m3u8
 http://38.96.178.201/live/GaziTV/index.m3u8
 
 #EXTINF:-1 tvg-id="146" tvg-name="ATN Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",ATN Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+http://38.96.178.201/live/ATNBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Channel I" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-i.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel I
 http://38.96.178.201/live/ChannelI/index.m3u8
