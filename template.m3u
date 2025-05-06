@@ -630,11 +630,11 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124530_5151_AMB_RUB_fc-web.jpg" group-title="Fancode Live", KCA Amber vs KCA Ruby (KCA TCM Pink T20 Challengers, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124530_english_hls_59677ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_NED_vs_UAE_Old_match-card.jpg" group-title="Fancode Live", Netherlands vs United Arab Emirates (ICC CWC League 2, 2023-27)
+https://tv.onlinetvbd.com/fancode/global/primary/124494_english_hls_59459ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Malta-Estonia,-May-2025-old-match-card-.png" group-title="Fancode Live", Malta vs Estonia (ECN Malta-Estonia T20I, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124840_english_hls_2326ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124962_5167_GTW_MA-W_fc-web.jpg" group-title="Fancode Live", Gauhati Town Club Women vs Maharana AC Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124962_english_hls_54610ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124755_5155_SSP_YCC_fc-web.jpg" group-title="Fancode Live", Southern Spitfires vs Yorkshire Cricket College (ECS Jersey, Liberation Series, 2025)
 https://d2i6buwuqe5zoy.cloudfront.net/out/v1/d319a901e131462cacbdcd9d58b51514/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_NED_vs_UAE_Old_match-card.jpg" group-title="Fancode Live", Netherlands vs United Arab Emirates (ICC CWC League 2, 2023-27)
-https://tv.onlinetvbd.com/fancode/global/primary/124494_english_hls_59459ta-di_h264/index.m3u8
