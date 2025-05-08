@@ -631,8 +631,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124769_5155_CC_SSP_fc-web.jpg" group-title="Fancode Live", Southern Spitfires vs Central Commanders (ECS Jersey, Liberation Series, 2025)
-https://dsw02rmhq7lzl.cloudfront.net/out/v1/5bc9f05259554f0eb79d3fa733e832ad/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode Live", ACE KRM Panthers vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/123591_english_hls_39863ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124215_5140_STRC_BCC_fc-Web.jpg" group-title="Fancode Live", Beveren vs 12 Stars Hofstade (ECSN Belgium, 2025)
@@ -651,3 +649,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/124601_english_hls_89151ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/125229_english_hls_77368ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Holes - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125225_english_hls_14091ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124769_5155_CC_SSP_fc-web.jpg" group-title="Fancode Live", Southern Spitfires vs Central Commanders (ECS Jersey, Liberation Series, 2025)
+https://dsw02rmhq7lzl.cloudfront.net/out/v1/5bc9f05259554f0eb79d3fa733e832ad/index.m3u8
