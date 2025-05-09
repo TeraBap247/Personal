@@ -52,8 +52,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla SD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1746756298~acl=%2f*~data=hdntl~hmac=1b965f9711760aa5952634168da52f6e0addd0739e16636e6dd67157db95a78d
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 
 #EXTINF:-1 tvg-id="71" tvg-name="Sony Yay Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Hindi
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
