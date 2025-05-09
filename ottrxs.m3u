@@ -127,12 +127,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746951905:KeyName=prod_linear:Signature=7f7nMY7C8b6Y8cRvngkV6OZloP533ztfJXpOoaim1dIGUAi-yaCzawN3HSIK9Dpf5eNP8r9fz-BwXBDwk8PfDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746980744:KeyName=prod_linear:Signature=hBAbHQV2faXcEeqVwb5WxlNdgx_0sFZrEu6-cPeOmCOc7C2SAlqF48Xe-lEnqFic1tUaV5ecpvlTg-pxbV7tBQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746829583:KeyName=prod_live_mybl:Signature=iCWOpf_XUfES8tgHN4i487EmpmqHb91-2ict-Gw0fha1E7VkCSVF7V8vtrUh8IBeCqjrhmMaCZtek4UfVcE_CQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746858057:KeyName=prod_live_mybl:Signature=aPmffo7i3c7GV2tT5NYjzHIXkWhpzoxiUDrCn-PqC1zhBypJNQt28yuhw-fp2Xl1b2iWpHI4Rgf_3d2JtJyJCA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -639,6 +639,8 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 https://tv.onlinetvbd.com/fancode/global/primary/124489_english_hls_67799ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg" group-title="Fancode Live", Phoenix Cricketers vs Osmani CC (KCC T20 Challengers B League Edition 2, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/122489_english_hls_34514ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124216_5140_BRW_ANT_fc-Web.jpg" group-title="Fancode Live", Antwerp vs Brussels Warriors (ECSN Belgium, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124216_english_hls_52551adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Group - Day 2 vs North Carolina (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125234_english_hls_57906ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Marquee Group - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
