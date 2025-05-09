@@ -636,9 +636,7 @@ https://tv.onlinetvbd.com/fancode/global/primary/118551_english_hls_29757ta-di_h
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg" group-title="Fancode Live", Lexus vs MEC Study Group (KCC T20 Challengers B League Edition 2, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/122488_english_hls_7869ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Greece-Germany,-2025-old-match-card--(1).png" group-title="Fancode Live", Germany Women vs Greece Women (ECI-W Greece-Germany, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125372_english_hls_84033ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124756_5155_ER_SSP_fc-web.jpg" group-title="Fancode Live", Eastern Royals vs Southern Spitfires (ECS Jersey, Liberation Series, 2025)
-https://d379wnftw5dk9e.cloudfront.net/out/v1/103600bf17d1476e9f26fb8f276e20bf/index.m3u8
+https://tv.onlinetvbd.com/fancode/global/primary/125373_english_hls_83329ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg" group-title="Fancode Live", Turkish Open vs  Regnum Carya Golf and Spa Resort (Turkish Open)
 https://tv.onlinetvbd.com/fancode/global/primary/125305_english_hls_88115ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Group - Day 2 vs North Carolina (Truist Championship)
@@ -647,3 +645,7 @@ https://tv.onlinetvbd.com/fancode/global/primary/125234_english_hls_57906ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/125233_english_hls_93569ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Main Feed - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125232_english_hls_13341ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg" group-title="Fancode Live", ONEflight Myrtle Beach Classic vs Dunes Golf and Beach Club (ONEflight Myrtle Beach Classic)
+https://tv.onlinetvbd.com/fancode/global/primary/125309_english_hls_78622ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124756_5155_ER_SSP_fc-web.jpg" group-title="Fancode Live", Eastern Royals vs Southern Spitfires (ECS Jersey, Liberation Series, 2025)
+https://d379wnftw5dk9e.cloudfront.net/out/v1/103600bf17d1476e9f26fb8f276e20bf/index.m3u8
