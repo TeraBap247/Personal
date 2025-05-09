@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -641,7 +641,9 @@ https://tv.onlinetvbd.com/fancode/global/primary/125372_english_hls_84033ta-di_h
 https://d379wnftw5dk9e.cloudfront.net/out/v1/103600bf17d1476e9f26fb8f276e20bf/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg" group-title="Fancode Live", Turkish Open vs  Regnum Carya Golf and Spa Resort (Turkish Open)
 https://tv.onlinetvbd.com/fancode/global/primary/125305_english_hls_88115ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745938588287.jpg" group-title="Fancode Live", South Africa Women vs Sri Lanka Women (Womens ODI Tri-Series)
-https://tv.onlinetvbd.com/fancode/global/primary/124041_english_hls_87003ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125214_CASACARDS_APP.png" group-title="Fancode Live", Western United vs Adelaide United (A League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/125214_english_hls_38188ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Group - Day 2 vs North Carolina (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125234_english_hls_57906ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Marquee Group - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125233_english_hls_93569ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Main Feed - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125232_english_hls_13341ta-di_h264/index.m3u8
