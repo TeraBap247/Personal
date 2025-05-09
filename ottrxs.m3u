@@ -365,20 +365,16 @@ https://tv.onlinetvbd.com/fancode/global/primary/125234_english_hls_57906ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/125233_english_hls_93569ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Main Feed - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125232_english_hls_13341ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg" group-title="Fancode Live", ONEflight Myrtle Beach Classic vs Dunes Golf and Beach Club (ONEflight Myrtle Beach Classic)
-https://tv.onlinetvbd.com/fancode/global/primary/125309_english_hls_78622ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", World Feed - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125235_english_hls_12222ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Holes - Day 2 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125231_english_hls_10091ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Greece-Germany,-2025-old-match-card--(1).png" group-title="Fancode Live", Germany Women vs Greece Women (ECI-W Greece-Germany, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125373_english_hls_83329ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
 https://live.drmlive-02.workers.dev/zee/0-9-bigganga.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="Star Gold Thrills" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold-thrills.png" group-title="Movie Channel",Star Gold Thrills
-http://38.76.152.22:8000/play/a00c/index.m3u8
+http://tv.bdiptv.store:80/live/restream/restreamkak/30705.m3u8
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restream/restreamkak/95.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="Movie Channel",Zee Cinema HD
