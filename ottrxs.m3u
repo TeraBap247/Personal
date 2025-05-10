@@ -350,6 +350,17 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
 
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124537_5151_EME_SAP_fc-web.jpg" group-title="Fancode Live", KCA Emerald vs KCA Sapphire (KCA TCM Pink T20 Challengers, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124537_english_hls_204ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124509_5150_NP-W_BRNW_fc-Web_1746781110297.jpg" group-title="Fancode Live", Bahrain Women vs Nepal Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124509_english_hls_51272ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-tour-of-Bangladesh,-2025-old-match-card-_1746428215529.png" group-title="Fancode Live", Bangladesh A vs New Zealand A (New Zealand A tour of Bangladesh, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124913_english_hls_98447ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124969_5167_YCW_SG-W_fc-web.jpg" group-title="Fancode Live", S.G.Club Women vs 91 Yards Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124969_english_hls_17852ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121962_4795_YKH_FKK_fc-web_1745966247676.jpg" group-title="Fancode Live", Yokohama vs Avispa Fukuoka (J League 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/121962_english_hls_27428ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -508,6 +519,8 @@ https://newsprotalhub.xyz/candy/vstream.php?id=a051de5ade20&e=.m3u8
 https://newsprotalhub.xyz/candy/vstream.php?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 https://newsprotalhub.xyz/candy/vstream.php?id=77e72f2ba472&e=.m3u8
+#EXTINF:-1 tvg-id="210" tvg-name="OTT Bangla Live TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ott-bangla-live-tv.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",OTT Bangla Live TV
+https://cdn.top10bhaluka.com/ottbanglalive.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="TRAVELXP BANGLA" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",TRAVELXP BANGLA
 http://tv.bdiptv.store:80/live/restream/restreamkak/15283.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
@@ -638,4 +651,3 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-
