@@ -643,3 +643,7 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123876_CASACARDS_APP.png" group-title="Fancode Live", Trinidad & Tobago Legions vs Leeward Islands Thunder (West Indies Breakout League, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/123876_english_hls_20131ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124604_CASACARDS_APP.png" group-title="Fancode Live", Tampa Bay Rays vs Milwaukee Brewers (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124604_english_hls_221ta-di_h264/index.m3u8
