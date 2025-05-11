@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -646,9 +646,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg" group-title="Fancode Live", Jamaica Women vs Guyana Women (CWI T20 Blaze Tournament, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124492_english_hls_5541ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", World Feed - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
-https://tv.onlinetvbd.com/fancode/global/primary/125288_english_hls_88073ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg" group-title="Fancode Live", ONEflight Myrtle Beach Classic vs Dunes Golf and Beach Club (ONEflight Myrtle Beach Classic)
-https://tv.onlinetvbd.com/fancode/global/primary/125311_english_hls_24695ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124607_CASACARDS_APP.png" group-title="Fancode Live", Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124607_english_hls_39328ta-di_h264/index.m3u8
