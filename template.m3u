@@ -127,12 +127,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747124298:KeyName=prod_linear:Signature=EWRv0WxqzTCxCk-OqXvChqPQQ1P1es_8xzKhC0mSemQtPU2d13j50iTjaM-UszcXSJUcfLulPUAI6Wvn9ZBkDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747140076:KeyName=prod_linear:Signature=A2U6ElUllWXgPJE4BXwb9Aifgk9klV6QSNLXipx9ufLXPa37fxBrAXVXfHzx-iUC_9y3m08gxsTEFf6xdIA_CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747002417:KeyName=prod_live_mybl:Signature=OaEv4JnySv9hw400YlHqBZHmAQ8ieZU8Jjx-cJlD56TonoSazgn3sf07BapPJsWle83j9I8i3DW5mLyBJb7tDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747017676:KeyName=prod_live_mybl:Signature=oSNxpEsgQxCr2kbnPRnJi5zuDBlEVzRW46dk6-Sbv8d0kJj0RVoYMf1I1PQ3fN53zXArkLWuD82ikO1JuaoFBQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -644,3 +644,19 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/France_Moto-GP_Race_old.jpg" group-title="Fancode Live", Race Day vs Le Mans (MICHELIN® GRAND PRIX DE FRANCE)
+https://tv.onlinetvbd.com/fancode/global/primary/118556_english_hls_60357ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125362_5183_ER-W_MCC-W_fc-web.jpg" group-title="Fancode Live", MCC Women vs Eastern Royals-W (ECS-W Jersey, Liberation Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125362_english_hls_89666ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Greece-Germany-T20Iw,-2025-old-match-card-.png" group-title="Fancode Live", Greece Women vs Germany Women (ECN Greece-Germany T20IW, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125370_english_hls_84583ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125030_CASACARDS_APP.png" group-title="Fancode Live", Leganés vs Espanyol (La Liga 2024-25)
+https://d2622015fqsfjf.cloudfront.net/out/v1/c5b3d4b96bf54451813b7259e547a2ef/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg" group-title="Fancode Live", Turkish Open vs  Regnum Carya Golf and Spa Resort (Turkish Open)
+https://tv.onlinetvbd.com/fancode/global/primary/125307_english_hls_23234ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Main Feed - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125284_english_hls_21471ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125285_english_hls_99407ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Group - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125286_english_hls_1851ta-di_h264/index.m3u8
