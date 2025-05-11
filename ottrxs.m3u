@@ -644,12 +644,12 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/France_Moto-GP_Race_old.jpg" group-title="Fancode Live", Race Day vs Le Mans (MICHELIN® GRAND PRIX DE FRANCE)
-https://tv.onlinetvbd.com/fancode/global/primary/118556_english_hls_60357ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125362_5183_ER-W_MCC-W_fc-web.jpg" group-title="Fancode Live", MCC Women vs Eastern Royals-W (ECS-W Jersey, Liberation Series, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125362_english_hls_89666ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/La_Liga_Old_match-card_2.jpg" group-title="Fancode Live", Barcelona vs Real Madrid (La Liga 2024-25)
+https://d3oejlwrjvzwzt.cloudfront.net/out/v1/d4e22196c60a4abdbddbf16cfef25b60/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Greece-Germany-T20Iw,-2025-old-match-card-.png" group-title="Fancode Live", Greece Women vs Germany Women (ECN Greece-Germany T20IW, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125370_english_hls_84583ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125363_5183_WT-W_ER-W_fc-web.jpg" group-title="Fancode Live", Eastern Royals-W vs Western Towers-W (ECS-W Jersey, Liberation Series, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125363_english_hls_84350ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125030_CASACARDS_APP.png" group-title="Fancode Live", Leganés vs Espanyol (La Liga 2024-25)
 https://d2622015fqsfjf.cloudfront.net/out/v1/c5b3d4b96bf54451813b7259e547a2ef/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg" group-title="Fancode Live", Turkish Open vs  Regnum Carya Golf and Spa Resort (Turkish Open)
