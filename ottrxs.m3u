@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -647,9 +647,9 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 https://tv.onlinetvbd.com/fancode/global/primary/124042_english_hls_17436ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124539_5151_PEA_RUB_fc-web.jpg" group-title="Fancode Live", KCA Pearl vs KCA Ruby (KCA TCM Pink T20 Challengers, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124539_english_hls_99398ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124971_5167_SG-W_MA-W_fc-web.jpg" group-title="Fancode Live", S.G.Club Women vs Maharana AC Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124971_english_hls_57786ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121960_4795_ANL_KAW_fc-web_1745966247577.jpg" group-title="Fancode Live", Kashima Antlers vs Kawasaki Frontale (J League 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/121960_english_hls_40232ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121963_4795_OSA_YKFM_fc-web_1745966248445.jpg" group-title="Fancode Live", Cerezo Osaka vs Yokohama F. Marinos (J League 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/121963_english_hls_63486ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korea-championship-old.jpg" group-title="Fancode Live", Day 3 vs New Korea Country Club  (Aramco Korea Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125377_english_hls_76463ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121960_4795_ANL_KAW_fc-web_1745966247577.jpg" group-title="Fancode Live", Kashima Antlers vs Kawasaki Frontale (J League 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/121960_english_hls_40232ta-di_h264/index.m3u8
