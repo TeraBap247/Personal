@@ -644,8 +644,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124220_CASACARDS_APP.png" group-title="Fancode Live", Hasselt vs Beveren (ECSN Belgium, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124220_english_hls_82760adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125364_5183_MCC-W_WT-W_fc-web.jpg" group-title="Fancode Live", MCC Women vs Western Towers-W (ECS-W Jersey, Liberation Series, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125364_english_hls_47365ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125029_CASACARDS_APP.png" group-title="Fancode Live", Athletic Club vs Alavés (La Liga 2024-25)
@@ -657,5 +655,7 @@ https://tv.onlinetvbd.com/fancode/global/primary/125285_english_hls_99407ta-di_h
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Group - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125286_english_hls_1851ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124606_CASACARDS_APP.png" group-title="Fancode Live", New York Mets vs Chicago Cubs (Major League Baseball, 2025)
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/La_Liga_Old_match-card_2.jpg" group-title="Fancode Live", Barcelona vs Real Madrid (La Liga 2024-25)
-https://d3oejlwrjvzwzt.cloudfront.net/out/v1/d4e22196c60a4abdbddbf16cfef25b60/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", World Feed - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125288_english_hls_88073ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Holes - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
+https://tv.onlinetvbd.com/fancode/global/primary/125287_english_hls_95205ta-di_h264/index.m3u8
