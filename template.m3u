@@ -644,6 +644,8 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode Live", ACE KRM Panthers vs CECC (KCC T10 Challengers League, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/123594_english_hls_59337ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125029_CASACARDS_APP.png" group-title="Fancode Live", Athletic Club vs Alavés (La Liga 2024-25)
 https://d3db0hsow1htik.cloudfront.net/out/v1/4518db17ef134ca69b9890978fd4e123/index.m3u8
 #EXTINF:-1, tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png" group-title="Fancode Live", Wycombe Wanderers vs Charlton Athletic (League One 2024-25)
@@ -659,5 +661,3 @@ https://tv.onlinetvbd.com/fancode/global/primary/125286_english_hls_1851ta-di_h2
 https://tv.onlinetvbd.com/fancode/global/primary/125288_english_hls_88073ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Holes - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125287_english_hls_95205ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125364_5183_MCC-W_WT-W_fc-web.jpg" group-title="Fancode Live", MCC Women vs Western Towers-W (ECS-W Jersey, Liberation Series, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125364_english_hls_47365ta-di_h264/index.m3u8
