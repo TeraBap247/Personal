@@ -644,17 +644,11 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
-https://tv.onlinetvbd.com/fancode/global/primary/125285_english_hls_99407ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Group - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125286_english_hls_1851ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", World Feed - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/125288_english_hls_88073ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode Live", Featured Holes - Day 4 vs Philadelphia, Pennsylvania (Truist Championship)
-https://tv.onlinetvbd.com/fancode/global/primary/125287_english_hls_95205ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg" group-title="Fancode Live", ONEflight Myrtle Beach Classic vs Dunes Golf and Beach Club (ONEflight Myrtle Beach Classic)
 https://tv.onlinetvbd.com/fancode/global/primary/125311_english_hls_24695ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124607_CASACARDS_APP.png" group-title="Fancode Live", Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124607_english_hls_39328ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125023_CASACARDS_APP.png" group-title="Fancode Live", Real Betis vs Osasuna (La Liga 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/125023_english_hls_449ta-di_h264/index.m3u8
