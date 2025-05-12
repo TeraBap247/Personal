@@ -127,12 +127,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747187717:KeyName=prod_linear:Signature=EDBIillq14FW6Qcp8jxfaTjFvuhanCm4genVqd1u9YfVSOim17OE7-IWt1syPmPi2qgf5WS2pzns7SLFP5D2Cg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747211027:KeyName=prod_linear:Signature=-xZjTBifQBd1xi_FepRLAyytfaUMXgVm3T5Lm72asxkQLN8IZ7OZE8zfuiXUz8JJFK_ZIFYGUJJbCksohsF3BA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747065412:KeyName=prod_live_mybl:Signature=iwkWPISS5vvyV0wL0ivcpxa609metviw8T68Crt93fHu22_k7wOan-QZs1YxgqQ498D12NamfeWcHVbyZz7_DA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747088653:KeyName=prod_live_mybl:Signature=WP99JsiKNHs6-5Zp49Rc2kHoWKyOM6k0My3zAEvmXT_XYA5Qacc2pt5DSCypQFEUf6DV0IdgqFTh3TusChtsAQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -649,7 +649,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 https://tv.onlinetvbd.com/fancode/global/primary/124542_english_hls_37315ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Emerging-tour-of-Bangladesh,-2025-old-match-card-.png" group-title="Fancode Live", South Africa Emerging vs Bangladesh Emerging (South Africa Emerging tour of Bangladesh, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124916_english_hls_48197ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125326_CASACARDS_APP.png" group-title="Fancode Live", Ariana KIF vs Malmo (ECS Sweden, Landskrona, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125326_english_hls_38487ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124974_5167_RS-W_SG-W_fc-web.jpg" group-title="Fancode Live", S.G.Club Women vs Rising Star Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124974_english_hls_6542ta-di_h264/index.m3u8
