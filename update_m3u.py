@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 ignore_names = {
     name.lower() for name in [
         "sony pal hd", "sony pix hd", "ssc sport 1", "sony sab hd", "nick hindi", "atn bangla",
-        "sony aath", "jamuna tv", "independent tv", "dbc news", "ekattor tv", "somoy news tv",
+        "sony aath hd", "jamuna tv", "independent tv", "dbc news", "ekattor tv", "somoy news tv",
         "atn news", "gazi tv hd", "duronto tv", "channel 9", "btv news", "btv ctg", "channel i",
         "sony bbc earth hd", "disney hindi-2", "sony sports ten 1", "sony sports ten 2",
         "sony sports ten 3", "sony sports ten 4", "zee bangla sd", "sony sports ten 5", "sony sports ten 1 hd",
