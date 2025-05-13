@@ -648,7 +648,7 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Abu Dhabi vs Emirates Blues (Emirates D10 Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124869_english_hls_3383ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png" group-title="Fancode Live", Seaside vs Hisingens (ECS Sweden, Landskrona, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125335_english_hls_98448ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Dubai vs Emirates Red (Emirates D10 Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124870_english_hls_64901ta-di_h264/index.m3u8
