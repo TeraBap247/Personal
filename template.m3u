@@ -351,6 +351,19 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 
 
 
+
+
+
+
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124544_5151_RUB_SAP_fc-web.jpg" group-title="Fancode Live", KCA Ruby vs KCA Sapphire (KCA TCM Pink T20 Challengers, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124544_english_hls_89188ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124517_5150_UAE-W_ML-W_fc-Web_1746781110304.jpg" group-title="Fancode Live", United Arab Emirates Women vs Malaysia Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124517_english_hls_62551ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124516_5150_NP-W_HK-W_fc-Web.jpg" group-title="Fancode Live", Nepal Women vs Hong Kong, China Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124516_english_hls_62229ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png" group-title="Fancode Live", Ariana CC vs Seaside (ECS Sweden, Landskrona, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125331_english_hls_76098ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -523,6 +536,8 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/81.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/52.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
 http://tv.bdiptv.store/live/restream/restreamkak/143.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Sony aath" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-aath.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony aath
+https://newsprotalhub.xyz/candy/vstream.php?id=e96cb72a3787&e=.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restream/restreamkak/91.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
@@ -641,18 +656,3 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-
-
-
-
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124543_5151_AMB_PEA_fc-web.jpg" group-title="Fancode Live", KCA Pearl vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124543_english_hls_351ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124544_5151_RUB_SAP_fc-web.jpg" group-title="Fancode Live", KCA Ruby vs KCA Sapphire (KCA TCM Pink T20 Challengers, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124544_english_hls_89188ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124517_5150_UAE-W_ML-W_fc-Web_1746781110304.jpg" group-title="Fancode Live", United Arab Emirates Women vs Malaysia Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124517_english_hls_62551ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124516_5150_NP-W_HK-W_fc-Web.jpg" group-title="Fancode Live", Nepal Women vs Hong Kong, China Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124516_english_hls_62229ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png" group-title="Fancode Live", Ariana CC vs Seaside (ECS Sweden, Landskrona, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125331_english_hls_76098ta-di_h264/index.m3u8
