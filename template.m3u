@@ -75,21 +75,6 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 1
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 2
-https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 3
-https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports-খেলা" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Sports Ten 4
-https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 5
-https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
-
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports-খেলা" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Sports Ten 1 HD
 https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
