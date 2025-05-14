@@ -112,12 +112,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747399356:KeyName=prod_linear:Signature=3-YQ2sH6DX8nGZd9cQUeZAuWxHhuUluelCuU158BEfoq0DggnyZ0Cmoq69NVlwmsc1ceO3o5Z9RF1vp-z8eGBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747412837:KeyName=prod_linear:Signature=GZeiV2OqbEkPFLuJK9EwuyfUTox6vT43VT6lSI3CKyr48wplVioFogg-NlhtTg5TxG1dp4lfyK80uL9XcCRbDg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747276957:KeyName=prod_live_mybl:Signature=JFVwwSTbW4C0Ir3fm8QjCj_5y7k-ugdDAUFE3vcM6qgTay7FV4AoK2OqadTQ1JZ7GKLbwvFG1EPiPaXNS_nMAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747290242:KeyName=prod_live_mybl:Signature=vBZ_afostZDU_4EzFGCjZ1eNdZX-tAWYZXxOBDLPLqdmSOUEtuhHxmmfRnpY04NFCK0dL21euSZaT-2NtYdbCQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -651,9 +651,15 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125439_4399_VIL_LEG_FC-web_1747132082318.jpg" group-title="Fancode Live", Villarreal vs Leganés (LALIGA 2024-25)
+https://d3qmuul2r57zua.cloudfront.net/out/v1/5df5c7dfb7054e2d8df0be94798da000/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125430_4399_ALA_VAL_FC-web_1747132127038.jpg" group-title="Fancode Live", Alavés vs Valencia CF (LALIGA 2024-25)
+https://d363k0irwr48xx.cloudfront.net/out/v1/873ae3157c994bdaba740ee33d9e3d2e/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old.png" group-title="Fancode Live", Malmo vs Ariana CC (ECS Sweden, Landskrona, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125340_english_hls_85010ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Sharjah vs Emirates Blues (Emirates D10 Tournament, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124874_english_hls_98835ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124923_5166_BLB_CC_fc-Web.jpg" group-title="Fancode Live", Bay Leaf Blasters vs Clove Challengers (Dream11 Spice Isle T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124923_english_hls_7644ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125385_5188_SUL_COH_fc-web.jpg" group-title="Fancode Live", Cochin Hurricanes vs Super Lanka (KCC T20 Challengers A League, 3rd Edition, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125385_english_hls_58444ta-di_h264/index.m3u8
