@@ -45,6 +45,9 @@ https://hand.top10wifibhaluka.com/in24/watch.php?id=9ab9aa29-3d3b-4527-ab47-d9b6
 #EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony aath hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony aath HD
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
@@ -66,29 +69,11 @@ https://fifabd.site/OPLLX5/play.php?id=150482&|User-Agent=RANAPK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium450/mono.m3u8
 
-#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Pal HD
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 1
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 2
-https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 3
-https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports-খেলা" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Sports Ten 4
-https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
-
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports-খেলা",Sony Sports Ten 5
-https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports-খেলা" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Sports Ten 1 HD
 https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
@@ -354,6 +339,24 @@ https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Boomerang
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports-খেলা",Willow Cricket
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fashion-tv.png" group-title="Others Channel",Fashion TV
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
 
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
@@ -648,9 +651,7 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_UAE_vs_SCO_Old_match-card.jpg" group-title="Fancode Live", United Arab Emirates vs Scotland (ICC CWC League 2, 2023-27)
-https://tv.onlinetvbd.com/fancode/global/primary/124498_english_hls_82541ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Dubai vs Abu Dhabi (Emirates D10 Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124873_english_hls_10705ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png" group-title="Fancode Live", Malmo vs Hisingens (ECS Sweden, Landskrona, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125339_english_hls_29018ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old.png" group-title="Fancode Live", Malmo vs Ariana CC (ECS Sweden, Landskrona, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125340_english_hls_85010ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Sharjah vs Emirates Blues (Emirates D10 Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124874_english_hls_98835ta-di_h264/index.m3u8
