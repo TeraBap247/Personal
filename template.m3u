@@ -653,7 +653,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125437_4399_RM_MRC_FC-web_1747132170254.jpg" group-title="Fancode Live", Real Madrid vs Mallorca (LALIGA 2024-25)
 https://dy10mhvvlb3q1.cloudfront.net/out/v1/c0a384ca5cb741a4a66a993aa6f74d40/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124924_5166_NW_GG_fc-Web.jpg" group-title="Fancode Live", Ginger Generals vs Nutmeg Warriors (Dream11 Spice Isle T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124924_english_hls_3566ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png" group-title="Fancode Live", Stockport County vs Leyton Orient (League One 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/125160_english_hls_38959ta-di_h264/index.m3u8
