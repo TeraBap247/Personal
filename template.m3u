@@ -66,9 +66,6 @@ https://fifabd.site/OPLLX5/play.php?id=150482&|User-Agent=RANAPK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium450/mono.m3u8
 
-#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Pal HD
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
