@@ -355,6 +355,24 @@ https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Boomerang
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports-খেলা",Willow Cricket
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fashion-tv.png" group-title="Others Channel",Fashion TV
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
+
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
