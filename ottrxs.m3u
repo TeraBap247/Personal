@@ -359,10 +359,7 @@ https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Apple Tv" tvg-logo="https://i.ibb.co/Fb2K11nS/1747278421502.png" group-title="Sports-খেলা",Apple TV
-#EXTVLCOPT:http-referrer=https://vivosoccer.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-#EXTVLCOPT:http-origin=https://vivosoccer.xyz
-https://dig.diggewerds.site/h25/index.m3u8?
+http://origi-jw-13.milong33.store/soc2/index.m3u8
 
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
@@ -658,7 +655,4 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124518_5150_TL-W_BHU-W_fc-Web_1746781110355.jpg" group-title="Fancode Live", Thailand Women vs Bhutan Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124518_english_hls_84648ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124650_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Dodgers vs Oakland Athletics (Major League Baseball, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124650_english_hls_27851ta-di_h264/index.m3u8
+
