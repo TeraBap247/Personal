@@ -17,7 +17,7 @@ ignore_names = {
 
         "team rxs", "nick pluto tv", "disney xd marathon", "disney xd", "mr bean",
         "cartoon network english", "cartoon network hd",
-        "nick hd plus", "cn-pak", "psl", "aakaash", "nat geo bangla", "hbo", "hbo hits", "hbo family",
+        "nick hd plus", "cn-pak", "psl", "aakaash", "nat geo bangla", "hbo", "hbo hits", "apple tv", "hbo family",
         "hbo signature", "cinemax", "movies now", "ssc sport 2", "ssc sport 3", "ssc sport 4",
         "ssc sport 5", "ssc sport extra 1", "ssc sport extra 2", "ssc sport extra 3",
         "bein sports mena english 1", "bein sports mena english 2", "bein sports mena english 3",
