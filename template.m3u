@@ -112,12 +112,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747412837:KeyName=prod_linear:Signature=GZeiV2OqbEkPFLuJK9EwuyfUTox6vT43VT6lSI3CKyr48wplVioFogg-NlhtTg5TxG1dp4lfyK80uL9XcCRbDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747446650:KeyName=prod_linear:Signature=ABECD0xphkQ1V0A_9n9uVNTOjke5emh6cTWawieJcHBxJXlBajSv-S-Q-vdPYJy6xhpw32KHV_6dgsMKHJ0_Cw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747290242:KeyName=prod_live_mybl:Signature=vBZ_afostZDU_4EzFGCjZ1eNdZX-tAWYZXxOBDLPLqdmSOUEtuhHxmmfRnpY04NFCK0dL21euSZaT-2NtYdbCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747323862:KeyName=prod_live_mybl:Signature=35L_OPkDU_R2nVYXbQ6OS5pIcNLy_l-SWe_bXqWWKmMxR4elwzhyz4ZPJVILnJ1MWGkPzkgm2zpiXlTvBKc1BQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -652,3 +652,7 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124518_5150_TL-W_BHU-W_fc-Web_1746781110355.jpg" group-title="Fancode Live", Thailand Women vs Bhutan Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124518_english_hls_84648ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124650_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Dodgers vs Oakland Athletics (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124650_english_hls_27851ta-di_h264/index.m3u8
