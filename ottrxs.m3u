@@ -112,12 +112,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747470172:KeyName=prod_linear:Signature=YMzEvJJNjdLF4Lq0dP2TTv8P-fNaJeV_GAOegDo5yua0vhX2Ycz_-csJN9xxPEYH6ylAr1iEZLhUDMJZ-AVMDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747498829:KeyName=prod_linear:Signature=nGw1TC9XxLXnX_8ajQ2NgMy8g2w0LIfGsVbvWCEYF7NtuFXaC8w-Jikm75QJbDHHM0Bk_-QVwOosQP1Xn5wmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747348135:KeyName=prod_live_mybl:Signature=wDU2ylfP9dE7tn1mtrERrtGCz7zUgSTA2THWd5tAuR4nsb4uaREyTy6q9RRnkd-JEXhLMerVS44r5hPFx9iSCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747376429:KeyName=prod_live_mybl:Signature=t8PrPKeQfBxZjs7E5PDDfkxipDTS--ho3_qO0Psnm2lg4eYw4sJjl-4bsHUQ2TjS4od8bTLCA0ANPV_-Ef4kBA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -658,6 +658,12 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125434_4399_RVL_RB_FC-web_1747132217815.jpg" group-title="Fancode Live", Rayo Vallecano vs Real Betis (LALIGA 2024-25)
+https://d2l6qs190jqdyf.cloudfront.net/out/v1/6b0c4f3bfba140d69ed3580c6d3c9513/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125433_4399_OSN_ATL_FC-web_1747132260627.jpg" group-title="Fancode Live", Osasuna vs Atlético de Madrid (LALIGA 2024-25)
+https://d2zj68igdoxx49.cloudfront.net/out/v1/5b088184aebf4dc397172b7eabe6f777/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship_old.jpg" group-title="Fancode Live", Day 1 vs Charlotte, North Carolina (2025 PGA Championship - Quail Hollow)
+https://tv.onlinetvbd.com/fancode/global/primary/125742_english_hls_88894ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png" group-title="Fancode Live", Hisingens vs Ariana KIF (ECS Sweden, Landskrona, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125345_english_hls_54632ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Abu Dhabi vs Fujairah (Emirates D10 Tournament, 2025)
@@ -666,5 +672,3 @@ https://tv.onlinetvbd.com/fancode/global/primary/124878_english_hls_77061ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/124925_english_hls_11341ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125386_5188_KRM_MEC_fc-web.jpg" group-title="Fancode Live", ACE KRM Panthers vs MEC Study Group (KCC T20 Challengers A League, 3rd Edition, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125386_english_hls_8487ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124611_CASACARDS_APP.png" group-title="Fancode Live", Atlanta Braves vs Washington Nationals (Major League Baseball, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124611_english_hls_91647ta-di_h264/index.m3u8
