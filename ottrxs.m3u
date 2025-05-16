@@ -364,12 +364,6 @@ https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
 #EXTVLCOPT:http-origin=https://kingstreamz.site/
 https://sps.spskjmtaz.site/h25/index.m3u8?
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Emilia-Romagna_Race_Old.jpg" group-title="Fancode Live", Practice 1 vs Italy (F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025)
-https://df6gw8w7dq7ad.cloudfront.net/out/v1/6c67205b74594e9d8976734752289f5f/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_SCO_vs_NED_Old_match-card_1746438587718.jpg" group-title="Fancode Live", Scotland vs Netherlands (ICC CWC League 2, 2023-27)
-https://tv.onlinetvbd.com/fancode/global/primary/124499_english_hls_5146ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110910_4567_WST_MLC_fc-web_1728983127544.jpg" group-title="Fancode Live", Western United vs Melbourne City (A League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/125665_english_hls_61577ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamkak/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -662,3 +656,9 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Emilia-Romagna_Race_Old.jpg" group-title="Fancode Live", Practice 1 vs Italy (F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025)
+https://df6gw8w7dq7ad.cloudfront.net/out/v1/6c67205b74594e9d8976734752289f5f/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_SCO_vs_NED_Old_match-card_1746438587718.jpg" group-title="Fancode Live", Scotland vs Netherlands (ICC CWC League 2, 2023-27)
+https://tv.onlinetvbd.com/fancode/global/primary/124499_english_hls_5146ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old.png" group-title="Fancode Live", Malmo vs Ariana KIF (ECS Sweden, Landskrona, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125348_english_hls_70738ta-di_h264/index.m3u8
