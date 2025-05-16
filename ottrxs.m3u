@@ -658,8 +658,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124521_5150_KU-W_BHU-W_fc-Web_1746781110358.jpg" group-title="Fancode Live", Kuwait Women vs Bhutan Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124521_english_hls_13524ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Emerging-tour-of-Bangladesh,-2025-old-match-card-.png" group-title="Fancode Live", Bangladesh Emerging vs South Africa Emerging (South Africa Emerging tour of Bangladesh, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124918_english_hls_86988ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125498_5191_APH_IDK_fc-web.jpg" group-title="Fancode Live", Alappuzha vs Idukki (Kerala Mens T20 Challenger Trophy)
