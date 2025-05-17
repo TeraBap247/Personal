@@ -341,10 +341,7 @@ https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Boomerang
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8
+http://xtvplayer.top/live/3525532727/9752528282/346248.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports-খেলা",Willow Cricket
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
