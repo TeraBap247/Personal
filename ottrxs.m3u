@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747671439:KeyName=prod_linear:Signature=l0i_2Kd68UWwu5zNOBuO4RHmjDrgZgKPhWLZqU482QLrvZGBQah-w9DvPg_bCg7ofTFhtZikp8vvQP-xEKRHBw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747685626:KeyName=prod_linear:Signature=Dm1zJHAM5-gjx5DFRtIcPXNGU14DI18FZAaL_3x_BnIdSBG9L_DrXBVgZyPkkZhD9HwHimVLAYNqvqfgAodnBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747549472:KeyName=prod_live_mybl:Signature=b0OnLyUr-8FOfPajRCuNbQt3ceAsFWJuU6Jt7dfkuAn1GG-UicgAyqiJCI41UueDnYW5vaJqIlkahq_sRleVBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747563227:KeyName=prod_live_mybl:Signature=s15QNyWy5xbeKZGxTCVHMPRACjfmDnIs0cF3ysNF5Wsp4_4rWNHpsqXnDe0gJp-ASo5OSJzOgXCYFzhuf31iDQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -652,7 +652,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/124931_english_hls_8560ta-di_h2
 https://tv.onlinetvbd.com/fancode/global/primary/125291_english_hls_30005ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship_old.jpg" group-title="Fancode Live", Day 3 vs Charlotte, North Carolina (2025 PGA Championship - Quail Hollow)
 https://tv.onlinetvbd.com/fancode/global/primary/125744_english_hls_23246ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124615_CASACARDS_APP.png" group-title="Fancode Live", New York Yankees vs New York Mets (Major League Baseball, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124615_english_hls_6156ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Preakness-Stake-old-matchcard-_1747202993959.png" group-title="Fancode Live", Triple Crown - Preakness Stakes vs Baltimore, Maryland (Triple Crown - Preakness Stakes)
 https://tv.onlinetvbd.com/fancode/global/primary/125803_english_hls_44544ta-di_h264/index.m3u8
