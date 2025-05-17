@@ -647,8 +647,8 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Emilia-Romagna_Race_Old.jpg" group-title="Fancode Live", Practice 3 vs Italy (F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025)
-https://d1tl3i8040mo0t.cloudfront.net/out/v1/ad3d2236e8194e35a404ea88438f515c/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" group-title="Fancode Live", Sprint Race vs Imola (F2 ITALY-EMILIA ROMAGNA 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/119039_english_hls_99862adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode Live", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125692_english_hls_66476ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/126105_CASACARDS_APP.png" group-title="Fancode Live", Goteburg CC-W vs Malmohus-W (ECS-W Sweden, Landskrona, 2025)
