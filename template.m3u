@@ -653,13 +653,13 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode Live", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125690_english_hls_77101ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg" group-title="Fancode Live", Sprint Race vs Imola (F3 ITALY-EMILIA ROMAGNA 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/119083_english_hls_6653adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125501_5191_TRI_IDK_fc-web.jpg" group-title="Fancode Live", Idukki vs Thrissur (Kerala Mens T20 Challenger Trophy)
 https://tv.onlinetvbd.com/fancode/global/primary/125501_english_hls_89656ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124984_5167_GTW_WR-W_fc-web.jpg" group-title="Fancode Live", Gauhati Town Club Women vs Warriors Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124984_english_hls_86877ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121966_4795_BLM_YKH_fc-web_1745966521957.jpg" group-title="Fancode Live", Shonan Bellmare vs Yokohama (J League 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/121966_english_hls_65062ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode Live", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125691_english_hls_24316ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121964_4795_URW_TKY_fc-web_1745966521115.jpg" group-title="Fancode Live", Urawa Red Diamonds vs FC Tokyo (J League 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/121964_english_hls_93112ta-di_h264/index.m3u8
