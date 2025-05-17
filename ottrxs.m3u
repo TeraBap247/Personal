@@ -341,7 +341,7 @@ https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Boomerang
-http://xtvplayer.top/live/3525532727/9752528282/346248.m3u8
+http://xtvplayer.top/live/3525532727/9752528282/346453.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports-খেলা",Willow Cricket
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
@@ -653,3 +653,7 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125500_5191_MAP_KAG_fc-web.jpg" group-title="Fancode Live", Malappuram vs Kazaragod (Kerala Mens T20 Challenger Trophy)
+https://tv.onlinetvbd.com/fancode/global/primary/125500_english_hls_79894ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124983_5167_RS-W_MA-W_fc-web.jpg" group-title="Fancode Live", Rising Star Women vs Maharana AC Women (GTC Womens Summer Challenge T20 Trophy, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124983_english_hls_61461ta-di_h264/index.m3u8
