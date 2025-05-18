@@ -645,8 +645,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125804_5205_NBS_YBB_fc-web_1747372458779.jpg" group-title="Fancode Live", NBSC Lions vs Birat Cricket Club and Academy (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125804_english_hls_39336ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125503_5191_IDK_KAG_fc-web.jpg" group-title="Fancode Live", Kazaragod vs Idukki (Kerala Mens T20 Challenger Trophy)
 https://tv.onlinetvbd.com/fancode/global/primary/125503_english_hls_61922ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124986_5167_RS-W_MA-W_fc-web.jpg" group-title="Fancode Live", Rising Star Women vs Maharana AC Women (GTC Womens Summer Challenge T20 Trophy, 2025)
@@ -655,5 +653,7 @@ https://tv.onlinetvbd.com/fancode/global/primary/124986_english_hls_38221ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/125805_english_hls_56076ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode Live", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125695_english_hls_84580ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/126106_CASACARDS_APP.png" group-title="Fancode Live", Malmohus-W vs Goteburg CC-W (ECS-W Sweden, Landskrona, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/126106_english_hls_94927ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" group-title="Fancode Live", Feature Race vs Imola (F2 ITALY-EMILIA ROMAGNA 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/119040_english_hls_38711adfreeta-di_h264/index.m3u8
