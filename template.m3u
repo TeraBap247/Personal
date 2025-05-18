@@ -645,8 +645,6 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124985_5167_YCW_SG-W_fc-web.jpg" group-title="Fancode Live", 91 Yards Club Women vs S.G.Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124985_english_hls_8085ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125804_5205_NBS_YBB_fc-web_1747372458779.jpg" group-title="Fancode Live", NBSC Lions vs Birat Cricket Club and Academy (Nepal T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125804_english_hls_39336ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode Live", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
