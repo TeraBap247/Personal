@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
@@ -647,9 +647,13 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124524_CASACARDS_APP.png" group-title="Fancode Live", Thailand Women vs United Arab Emirates Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124524_english_hls_16942ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125502_5191_APH_MAP_fc-web.jpg" group-title="Fancode Live", Alappuzha vs Malappuram (Kerala Mens T20 Challenger Trophy)
-https://tv.onlinetvbd.com/fancode/global/primary/125502_english_hls_4541ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124985_5167_YCW_SG-W_fc-web.jpg" group-title="Fancode Live", 91 Yards Club Women vs S.G.Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124985_english_hls_8085ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125804_5205_NBS_YBB_fc-web_1747372458779.jpg" group-title="Fancode Live", NBSC Lions vs YRCC Birat Blasters (Nepal T10, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125804_5205_NBS_YBB_fc-web_1747372458779.jpg" group-title="Fancode Live", NBSC Lions vs Birat Cricket Club and Academy (Nepal T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125804_english_hls_39336ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode Live", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125694_english_hls_75201ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121965_4795_KAW_OSA_fc-web_1745966521094.jpg" group-title="Fancode Live", Kawasaki Frontale vs Cerezo Osaka (J League 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/121965_english_hls_966ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg" group-title="Fancode Live", Feature Race vs Imola (F3 ITALY-EMILIA ROMAGNA 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/119084_english_hls_50539adfreeta-di_h264/index.m3u8
