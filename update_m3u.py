@@ -15,7 +15,7 @@ ignore_names = {
         "sony sports ten 2 hd", "sony sports ten 3 hd", "sony sports ten 4 hd",
         "sony sports ten 5 hd", "ptv sports", "sony yay hindi", "sony max hd",
 
-        "team rxs", "nick pluto tv", "disney xd marathon", "disney xd", "mr bean",
+        "team rxs", "nick pluto tv", "ott bangla live tv", "disney xd marathon", "disney xd", "mr bean",
         "cartoon network english", "cartoon network hd",
         "nick hd plus", "cn-pak", "psl", "aakaash", "nat geo bangla", "hbo", "hbo hits", "apple tv", "hbo family",
         "hbo signature", "cinemax", "movies now", "ssc sport 2", "ssc sport 3", "ssc sport 4",
