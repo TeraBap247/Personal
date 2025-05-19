@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747772032:KeyName=prod_linear:Signature=W9-RbC2h9nrfFA5OJ-7TG9BisxXpSLCVN_2sV_h47Tdn97wd9ZapuiXbezYwhnmfPbznv8RmwijBxkCaShhECQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747801408:KeyName=prod_linear:Signature=lsJPq4ya2_2S25kkomVFTIFzH-QRo-xlw9kJVLT1AmNoEkCrQk8G_lvhgW9fUyeTgRu6As_yxizNe80C5TwlDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747650207:KeyName=prod_live_mybl:Signature=0LsRn1BInCl3r4J_d_4KS_g4Da4QLDEdW1hBch40ctsnrlAlK43gtW0-TG3TM8AJPcMo2cpPuAI8SzsebXmeCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747679169:KeyName=prod_live_mybl:Signature=6O1vJnZ03fIl4lLyI87M4-fztfkAR9XH1nS3bGxosE-EIALjA0VCNPEOlfBkvcMAEf7vKAGQVO0jEBmutyHKDw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -651,3 +651,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/124525_english_hls_73031ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/125504_english_hls_18782ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/GTC-Womens-Summer-challenge-old.png" group-title="Fancode Live", Gauhati Town Club Women vs Maharana AC Women (GTC Womens Summer Challenge T20 Trophy, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124987_english_hls_52581ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125808_5205_AVC_KPL_fc-web_1747372458924.jpg" group-title="Fancode Live", Agro Vet CC vs Koshi Pride League (Nepal T10, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125808_english_hls_33622ta-di_h264/index.m3u8
