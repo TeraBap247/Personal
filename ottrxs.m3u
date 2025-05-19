@@ -1,7 +1,7 @@
 #EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
-#EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Join Tg @teamrxs",Join Tg @teamrxs
-https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.mp4
+#EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
+https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
 
 #EXTINF:-1 tvg-id="156" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-9.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel 9
 http://38.96.178.201/live/Channel9/index.m3u8
@@ -511,8 +511,6 @@ https://newsprotalhub.xyz/candy/vstream.php?id=a051de5ade20&e=.m3u8
 https://newsprotalhub.xyz/candy/vstream.php?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 https://newsprotalhub.xyz/candy/vstream.php?id=77e72f2ba472&e=.m3u8
-#EXTINF:-1 tvg-id="210" tvg-name="OTT Bangla Live TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ott-bangla-live-tv.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",OTT Bangla Live TV
-https://cdn.top10bhaluka.com/ottbanglalive.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="TRAVELXP BANGLA" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",TRAVELXP BANGLA
 http://tv.bdiptv.store:80/live/restream/restreamkak/15283.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
@@ -645,9 +643,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkak/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125505_5191_APH_TRI_fc-web.jpg" group-title="Fancode Live", Thrissur vs Alappuzha (Kerala Mens T20 Challenger Trophy)
-https://tv.onlinetvbd.com/fancode/global/primary/125505_english_hls_50398ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125708_5201_TST_TTW_fc-web.jpg" group-title="Fancode Live", Tallinn Stallions vs Tartu Wolves (ECS Estonia, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125708_english_hls_63518ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/GTC-Womens-Summer-challenge-old.png" group-title="Fancode Live", 91 Yards Club Women vs S.G.Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124988_english_hls_37371ta-di_h264/index.m3u8
