@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747831392:KeyName=prod_linear:Signature=4hf4N0Gu1xX4r2qr6_OD5hbuOakfD6y_4zJ5dMI-H0ZIzR2oVUoO8J1Kjpnn8MPdA_RbwEYdkCDL6uLD021_CA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747844749:KeyName=prod_linear:Signature=RCMkNg3m-PNCT1Su45Uyww9_B9aB70lMjRZijz_6aZJFqJ_m8yQGKdyNVTvcl70jW-AUSqrSJGnutOQ49N1ZDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747708940:KeyName=prod_live_mybl:Signature=KVS-w2SALqnyJ3sZprjth9DodUDuS7d0M7LUQa9fDSy86KT1OON320qHoSlj5b9A9924Gmy8SFMFz-kn9qLeAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747722461:KeyName=prod_live_mybl:Signature=EJt2MfSz0Bg_l2HNffSnZvWnDqF3sCXYBrdvJysB50bq_2WKmnTV5F3LEreuO9jqtGzRmBqdHzv78B_zeidhDQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -644,7 +644,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 https://tv.onlinetvbd.com/fancode/global/primary/125494_english_hls_36192ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-CWC-League-2-OMN_CAN-match-71-old_1747220111523.jpg" group-title="Fancode Live", Oman vs Canada (ICC CWC League 2, 2023-27)
 https://tv.onlinetvbd.com/fancode/global/primary/124501_english_hls_70161ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125710_5201_TU_TTW_fc-web.jpg" group-title="Fancode Live", Tartu Wolves vs Tallinn United (ECS Estonia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125710_english_hls_88956ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124935_5166_CC_GG_fc-Web.jpg" group-title="Fancode Live", Ginger Generals vs Clove Challengers (Dream11 Spice Isle T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124935_english_hls_59486ta-di_h264/index.m3u8
