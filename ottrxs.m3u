@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -643,7 +643,7 @@ http://tv.bdiptv.store:80/live/restream/restreamkak/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125713_5201_TSK_TH_fc-web.jpg" group-title="Fancode Live", Tallinn Strikers vs Tallinn Hippos (ECS Estonia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125713_english_hls_44236ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125812_5205_ULH_NBS_fc-web_1747372458866.jpg" group-title="Fancode Live", United Lion Hearts vs NBSC Lions (Nepal T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125812_english_hls_90775ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125714_5201_TTW_TSR_fc-web.jpg" group-title="Fancode Live", Tartu Wolves vs Tallinn Riders (ECS Estonia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125714_english_hls_97382ta-di_h264/index.m3u8
