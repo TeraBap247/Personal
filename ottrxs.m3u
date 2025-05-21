@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -647,15 +647,7 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_Old.jpg" group-title="Fancode Live", Ireland vs West Indies (West Indies tour of Ireland, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125697_english_hls_95130ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125509_5191_TVR_KAN_fc-web.jpg" group-title="Fancode Live", Trivandrum vs Kannur (Kerala Mens T20 Challenger Trophy)
-https://tv.onlinetvbd.com/fancode/global/primary/125509_english_hls_36716ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125718_5201_TST_TSR_fc-web.jpg" group-title="Fancode Live", Tallinn Stallions vs Tallinn Riders (ECS Estonia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125718_english_hls_6756ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125815_5205_NBS_KPL_fc-web_1747372459569.jpg" group-title="Fancode Live", NBSC Lions vs Koshi Pride League (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125815_english_hls_71443ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121951_4795_YKFM_VIS_fc-web_1745993047058.jpg" group-title="Fancode Live", Yokohama F. Marinos vs Vissel Kobe (J League 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/121951_english_hls_17193ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125816_5205_YBB_BPT_fc-web_1747372458870.jpg" group-title="Fancode Live", Birat Cricket Club and Academy vs Biratnagar Panthers (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125816_english_hls_69354ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125719_5201_TSK_TU_fc-web.jpg" group-title="Fancode Live", Tallinn United vs Tallinn Strikers (ECS Estonia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125719_english_hls_80205ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/126248_CASACARDS_APP.png" group-title="Fancode Live", Incheon Red Angels Women vs Melbourne City Women (AFC Women's Champions League 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/126248_english_hls_19646ta-di_h264/index.m3u8
