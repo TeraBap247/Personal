@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747974086:KeyName=prod_linear:Signature=ufBVCbFghoPkKgDExDaC3iEljivXA1PBtHBIjNrMOZ0_DqEH9zX8U0sBjLJxv7Xa1hh6haKLY6xr5mmqk_OcBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747988709:KeyName=prod_linear:Signature=Vo_3JDFROTOdCbCYsK5-Aa44FL1a83H4NXp1kVB2KyLUAUr8ISRSUKLRHyhx7L2QwJa79tbgyCiB1IYGO_PZAg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747851773:KeyName=prod_live_mybl:Signature=ZiIvk8xYMvXv20SkLAkDmdqVPf6bJvp-QNYbXLwu2tmE4CN-noG3QPpfanHslQvHZFTSANYB1o8to14-aRFgAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747866611:KeyName=prod_live_mybl:Signature=fR5GBG-HJPSScAoOzqd7u5rzx6kmicP37RAtg37J10yBkbSyJb03cushqPP2fWGch5EcHffu08nXxLRzV_cXCg"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -644,13 +644,4 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125814_5205_ULH_MCC_fc-web_1747372458836.jpg" group-title="Fancode Live", United Lion Hearts vs Mills Cricket Club (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125814_english_hls_42724ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125509_5191_TVR_KAN_fc-web.jpg" group-title="Fancode Live", Trivandrum vs Kannur (Kerala Mens T20 Challenger Trophy)
-https://tv.onlinetvbd.com/fancode/global/primary/125509_english_hls_36716ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125815_5205_NBS_KPL_fc-web_1747372459569.jpg" group-title="Fancode Live", NBSC Lions vs Koshi Pride League (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125815_english_hls_71443ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125717_5201_TSK_TTW_fc-web.jpg" group-title="Fancode Live", Tartu Wolves vs Tallinn Strikers (ECS Estonia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125717_english_hls_52370ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/126249_CASACARDS_APP.png" group-title="Fancode Live", Wuhan Jiangda Women vs Ho Chi Minh City Women (AFC Women's Champions League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/126249_english_hls_54218ta-di_h264/index.m3u8
+
