@@ -354,6 +354,19 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono19/mono.m3u8
 
 
 
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_Old.jpg" group-title="Fancode Live", Ireland vs West Indies (West Indies tour of Ireland, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125697_english_hls_95130ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125509_5191_TVR_KAN_fc-web.jpg" group-title="Fancode Live", Trivandrum vs Kannur (Kerala Mens T20 Challenger Trophy)
+https://tv.onlinetvbd.com/fancode/global/primary/125509_english_hls_36716ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125718_5201_TST_TSR_fc-web.jpg" group-title="Fancode Live", Tallinn Stallions vs Tallinn Riders (ECS Estonia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125718_english_hls_6756ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125815_5205_NBS_KPL_fc-web_1747372459569.jpg" group-title="Fancode Live", NBSC Lions vs Koshi Pride League (Nepal T10, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125815_english_hls_71443ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121951_4795_YKFM_VIS_fc-web_1745993047058.jpg" group-title="Fancode Live", Yokohama F. Marinos vs Vissel Kobe (J League 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/121951_english_hls_17193ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125816_5205_YBB_BPT_fc-web_1747372458870.jpg" group-title="Fancode Live", Birat Cricket Club and Academy vs Biratnagar Panthers (Nepal T10, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125816_english_hls_69354ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamzz/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -363,7 +376,7 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/30705.m3u8
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restream/restreamzz/95.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="Movie Channel",Zee Cinema HD
-http://tv.bdiptv.store/live/restream/restreamkak/28.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/28.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restream/restreamzz/238.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
@@ -375,11 +388,11 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/240.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Colors Cineplex HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" group-title="Movie Channel",Colors Cineplex HD
 http://tv.bdiptv.store:80/live/restream/restreamzz/239.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Zee Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd.png" group-title="Movie Channel",Zee Cinema
-http://tv.bdiptv.store/live/restream/restreamkak/15339.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/15339.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Sony MAX" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" group-title="Movie Channel",Sony MAX
-http://tv.bdiptv.store/live/restream/restreamkak/23.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/23.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Sony Wah" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png" group-title="Movie Channel",Sony Wah
-http://tv.bdiptv.store/live/restream/restreamkak/15282.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/15282.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Colors Infinity HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png" group-title="Movie Channel",Colors Infinity HD
 http://tv.bdiptv.store:80/live/restream/restreamzz/15315.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Biswa Bangla 24" tvg-logo="https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png" group-title="BD Channel-(বাংলা চ্যানেল)",Biswa Bangla 24
@@ -483,7 +496,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id="234" tvg-name="Padma Cable Vision tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/padma-cable-vision-tv.png" group-title="Music Channel",Padma Cable Vision tv
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="Music Channel",Sangeet Bangla
-http://tv.bdiptv.store/live/restream/restreamkak/132.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/132.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="ZOOM" tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="Music Channel",ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Mastiii" tvg-logo="https://otapp.store/uploads/tv_image/sm/mastiii.png" group-title="Music Channel",Mastiii
@@ -523,13 +536,13 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/81.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 http://tv.bdiptv.store:80/live/restream/restreamzz/223.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
-http://tv.bdiptv.store/live/restream/restreamkak/143.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/143.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="Sony aath" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-aath.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony aath
 https://newsprotalhub.xyz/candy/vstream.php?id=e96cb72a3787&e=.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restream/restreamzz/91.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
-http://tv.bdiptv.store/live/restream/restreamkak/14.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Sony Pal" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony Pal
 http://tv.bdiptv.store:80/live/restream/restreamzz/232.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="TATA IPL T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-t-sports.png" group-title="Event Channel ",TATA IPL T Sports
@@ -551,7 +564,7 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/71.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="Rongeen TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
-http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 http://tv.bdiptv.store:80/live/restream/restreamzz/96.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network Hindi
@@ -605,7 +618,7 @@ https://newsprotalhub.xyz/candy/vstream.php?id=4ce560bcdf91&e=.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="Shemaroo TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-tv.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Shemaroo TV
 https://newhub247.store/app/csshd/NVMe/live.m3u8?id=1961
 #EXTINF:-1 tvg-id="10" tvg-name="Rishtey" tvg-logo="https://otapp.store/uploads/tv_image/sm/rishtey.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Rishtey
-http://tv.bdiptv.store/live/restream/restreamkak/15338.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/15338.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Shemaroo Umang" tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-umang.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Shemaroo Umang
 https://newhub247.store/app/csshd/live.m3u8?id=2078
 #EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
@@ -644,16 +657,3 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_Old.jpg" group-title="Fancode Live", Ireland vs West Indies (West Indies tour of Ireland, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125697_english_hls_95130ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125509_5191_TVR_KAN_fc-web.jpg" group-title="Fancode Live", Trivandrum vs Kannur (Kerala Mens T20 Challenger Trophy)
-https://tv.onlinetvbd.com/fancode/global/primary/125509_english_hls_36716ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125718_5201_TST_TSR_fc-web.jpg" group-title="Fancode Live", Tallinn Stallions vs Tallinn Riders (ECS Estonia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125718_english_hls_6756ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125815_5205_NBS_KPL_fc-web_1747372459569.jpg" group-title="Fancode Live", NBSC Lions vs Koshi Pride League (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125815_english_hls_71443ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121951_4795_YKFM_VIS_fc-web_1745993047058.jpg" group-title="Fancode Live", Yokohama F. Marinos vs Vissel Kobe (J League 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/121951_english_hls_17193ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125816_5205_YBB_BPT_fc-web_1747372458870.jpg" group-title="Fancode Live", Birat Cricket Club and Academy vs Biratnagar Panthers (Nepal T10, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125816_english_hls_69354ta-di_h264/index.m3u8
