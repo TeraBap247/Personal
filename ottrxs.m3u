@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748031799:KeyName=prod_linear:Signature=coNFFxMH92RMSaCBXDKKU7CX8s-JPJOgf2QAe8eMo3tQnPmiX2iI7fGrUScniyaQSSQMdGF4r88Fw5bRXaDrAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748051186:KeyName=prod_linear:Signature=hFy__sxodrB93t5Ure5fCT8lyFCDwBbMMIaFA909-67hp8hVxus1GpwB_XOqT5qkFynRS7mG1JkGWunBuORaDg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747909399:KeyName=prod_live_mybl:Signature=zHxThEpAWXk472Ozk4baZAnNR1V5hmkPRhTh1D8KUkMRNo9Chc8VbP8xf_MjpjAW_b_g9lEr6CpBqRryNk3CAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1747928786:KeyName=prod_live_mybl:Signature=lcOXv61C0ruhn0qiOe0C9Er_qIBBpmzep8JsCPUm7X1sO83JfD-ZofT0rUVpKMgK-NQLLyrHKVlfu48A-d6rCg"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -648,5 +648,5 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-old.jpg" group-title="Fancode Live", South Africa A vs West Indies A (South Africa A tour of West Indies, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125764_english_hls_78895ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124623_CASACARDS_APP.png" group-title="Fancode Live", Oakland Athletics vs Los Angeles Angels (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124623_english_hls_9974ta-di_h264/index.m3u8
