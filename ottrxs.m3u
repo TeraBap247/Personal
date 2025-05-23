@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -651,8 +651,6 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125512_5191_TVR_KOD_fc-web.jpg" group-title="Fancode Live", Kozhikode vs Trivandrum (Kerala Mens T20 Challenger Trophy)
-https://tv.onlinetvbd.com/fancode/global/primary/125512_english_hls_74526ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125396_5188_GAT_TCC_fc-web.jpg" group-title="Fancode Live", Tally Rangers vs GAT (KCC T20 Challengers A League, 3rd Edition, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125396_english_hls_50887ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125726_5201_TSK_TSR_fc-web.jpg" group-title="Fancode Live", Tallinn Riders vs Tallinn Strikers (ECS Estonia, 2025)
