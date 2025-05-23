@@ -653,8 +653,6 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Group - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://tv.onlinetvbd.com/fancode/global/primary/127062_english_hls_84578ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Marquee Group - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)
-https://tv.onlinetvbd.com/fancode/global/primary/127061_english_hls_68731ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Holes - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://tv.onlinetvbd.com/fancode/global/primary/127063_english_hls_34731ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", World Feed - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)
