@@ -651,10 +651,12 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg" group-title="Fancode Live", West Indies Women vs England Women (West Indies Women tour of England, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748064575~acl=/*~id=41728027677280517281995116170801~hmac=e386b2624035c93ae82edc20b595fbec5538af63fcf5ed69655f5240639e7e8e
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Valencia-CF_old.jpg" group-title="Fancode Live", Real Betis vs Valencia CF (LALIGA 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/125451_english_hls_9193ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-CWC-League-2-OMN_CAN-match-71-old_1747220111523.jpg" group-title="Fancode Live", Canada vs Oman (ICC CWC League 2, 2023-27)
 https://tv.onlinetvbd.com/fancode/global/primary/124503_english_hls_39597ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg" group-title="Fancode Live", West Indies Women vs England Women (West Indies Women tour of England, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748064575~acl=/*~id=41728027677280517281995116170801~hmac=e386b2624035c93ae82edc20b595fbec5538af63fcf5ed69655f5240639e7e8e
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125405_5188_KRM_RLC_fc-web.jpg" group-title="Fancode Live", ACE KRM Panthers vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125405_english_hls_19437ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124944_CASACARDS_APP.png" group-title="Fancode Live", Nutmeg Warriors vs Clove Challengers (Dream11 Spice Isle T10, 2025)
