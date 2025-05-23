@@ -655,6 +655,8 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hdnea=exp=1748037210~acl=/*~id=64097115633547186107884772114677~hmac=f6c0f9a9d7dba067b90c1e9c22893972363a8d4b3100bf64448f05561f7b43ba
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_Old.jpg" group-title="Fancode Live", West Indies vs Ireland (West Indies tour of Ireland, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125698_english_hls_11275ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-CWC-League-2-OMN_CAN-match-71-old_1747220111523.jpg" group-title="Fancode Live", Canada vs Oman (ICC CWC League 2, 2023-27)
+https://tv.onlinetvbd.com/fancode/global/primary/124503_english_hls_39597ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125397_5188_CHK_AIOC_fc-web.jpg" group-title="Fancode Live", Ai Octopus Challengers vs Chennai Kings CA (KCC T20 Challengers A League, 3rd Edition, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125397_english_hls_23955ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125729_5201_TTW_TSR_fc-web.jpg" group-title="Fancode Live", Tallinn Riders vs Tartu Wolves (ECS Estonia, 2025)
