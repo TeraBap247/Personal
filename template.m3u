@@ -655,8 +655,6 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 https://tv.onlinetvbd.com/fancode/global/primary/125451_english_hls_9193ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-CWC-League-2-OMN_CAN-match-71-old_1747220111523.jpg" group-title="Fancode Live", Canada vs Oman (ICC CWC League 2, 2023-27)
 https://tv.onlinetvbd.com/fancode/global/primary/124503_english_hls_39597ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg" group-title="Fancode Live", West Indies Women vs England Women (West Indies Women tour of England, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748064575~acl=/*~id=41728027677280517281995116170801~hmac=e386b2624035c93ae82edc20b595fbec5538af63fcf5ed69655f5240639e7e8e
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124944_CASACARDS_APP.png" group-title="Fancode Live", Nutmeg Warriors vs Clove Challengers (Dream11 Spice Isle T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124944_english_hls_73325ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125398_5188_AMB_SBS_fc-web.jpg" group-title="Fancode Live", SBS CC vs Al Mulla Exchange - B (KCC T20 Challengers A League, 3rd Edition, 2025)
@@ -669,9 +667,9 @@ https://tv.onlinetvbd.com/fancode/global/primary/127062_english_hls_84578ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/127061_english_hls_68731ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Holes - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://tv.onlinetvbd.com/fancode/global/primary/127063_english_hls_34731ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old_1747741042787.jpg" group-title="Fancode Live", Practice 2 vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)
-https://d3powde31igrgf.cloudfront.net/out/v1/7207dca952e44629b5e92200c3eb4bbb/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championships-old-match-card.jpg" group-title="Fancode Live", Day 2 vs Congressional Country Club, Bethesda, MD (Senior PGA Championship)
 https://tv.onlinetvbd.com/fancode/global/primary/126022_english_hls_37070ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/126251_CASACARDS_APP.png" group-title="Fancode Live", Olympiacos Piraeus vs Monaco (EuroLeague 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/126251_english_hls_7337ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", World Feed - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)
+https://tv.onlinetvbd.com/fancode/global/primary/127059_english_hls_78006ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg" group-title="Fancode Live", West Indies Women vs England Women (West Indies Women tour of England, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748064575~acl=/*~id=41728027677280517281995116170801~hmac=e386b2624035c93ae82edc20b595fbec5538af63fcf5ed69655f5240639e7e8e
