@@ -661,8 +661,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hd
 https://tv.onlinetvbd.com/fancode/global/primary/125698_english_hls_11275ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-CWC-League-2-OMN_CAN-match-71-old_1747220111523.jpg" group-title="Fancode Live", Canada vs Oman (ICC CWC League 2, 2023-27)
 https://tv.onlinetvbd.com/fancode/global/primary/124503_english_hls_39597ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125397_5188_CHK_AIOC_fc-web.jpg" group-title="Fancode Live", Ai Octopus Challengers vs Chennai Kings CA (KCC T20 Challengers A League, 3rd Edition, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125397_english_hls_23955ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125730_5201_TST_TH_fc-web.jpg" group-title="Fancode Live", Tallinn Hippos vs Tallinn Stallions (ECS Estonia, 2025)
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125405_5188_KRM_RLC_fc-web.jpg" group-title="Fancode Live", ACE KRM Panthers vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125405_english_hls_19437ta-di_h264/index.m3u8
@@ -678,3 +676,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/127061_english_hls_68731ta-di_h
 https://tv.onlinetvbd.com/fancode/global/primary/127063_english_hls_34731ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1747738176157.jpg" group-title="Fancode Live", Practice 2 vs Lausitzring (DTM Lausitzring)
 https://tv.onlinetvbd.com/fancode/global/primary/126286_english_hls_49183ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/126250_CASACARDS_APP.png" group-title="Fancode Live", Fenerbahce Beko Istanbul vs Panathinaikos OPAP Athens (EuroLeague 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/126250_english_hls_57247ta-di_h264/index.m3u8
