@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748204624:KeyName=prod_linear:Signature=4a-RtnPGcKoGURMwuYYSKEW49ShvfjKPgyug28JzyYDdq5_c3aW-TXiyh5CPlUHc5MccP-xzZMaiIUwskVuvCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748224154:KeyName=prod_linear:Signature=Z-jROLMVO3ZzI3TQ-j01iDopVE2lyzpCHxOlSGn9EyK5c-kO6_bt6wIyBQ0ZvEX97I_51agYIonkGe-hMIoKAQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748082224:KeyName=prod_live_mybl:Signature=TxCi0YzH0Fl4_-APe_1anHhBowjCIwAPv9TpeIq_ceCOIxmfeqCeB2pgmqZgxYeFuk9FaCvALD0rneVauVPbDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748101243:KeyName=prod_live_mybl:Signature=hDgtW9Kz3oRkjub1CRy2_G70U7G4ecrZtcU6dFeA2G4-bfjz3s1P2Zr5VKEg1ejV0i4cY90W_Kl1Iy83_t3cBA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -652,3 +652,5 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124626_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Miami Marlins (Major League Baseball, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124626_english_hls_63516ta-di_h264/index.m3u8
