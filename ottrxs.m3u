@@ -652,8 +652,6 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125731_5201_TU_TSR_fc-web.jpg" group-title="Fancode Live", Tallinn Riders vs Tallinn United (ECS Estonia, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125731_english_hls_71607ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125515_5191_TVR_PTH_fc-web.jpg" group-title="Fancode Live", Trivandrum vs Pathanamthitta (Kerala Mens T20 Challenger Trophy)
 https://tv.onlinetvbd.com/fancode/global/primary/125515_english_hls_54436ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121971_4795_OSA_FKK_fc-web_1745966802454.jpg" group-title="Fancode Live", Cerezo Osaka vs Avispa Fukuoka (J League 2025)
