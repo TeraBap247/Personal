@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -652,19 +652,23 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old_1747741042787.jpg" group-title="Fancode Live", Practice 3 vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)
-https://d38yldg5usgyqf.cloudfront.net/out/v1/01b9480149c84ddfba127ec6a8f54a7e/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png" group-title="Fancode Live", England vs Zimbabwe (Zimbabwe tour of England, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hdnea=exp=1748123521~acl=/*~id=82814331980283123478953079673915~hmac=f0d3787bf4d93235c0f2969312c817bab630993d98f1400336a5485ee5e22c65
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Ajman vs Abu Dhabi (Emirates D10 Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124880_english_hls_70572ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125734_5201_TSK_TU_fc-web.jpg" group-title="Fancode Live", Tallinn United vs Tallinn Strikers (ECS Estonia, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/125734_english_hls_72585ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125810_5205_ULH_BPT_fc-web_1747372458880.jpg" group-title="Fancode Live", United Lion Hearts vs Biratnagar Panthers (Nepal T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/127255_english_hls_91432ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-Womens-champions-league-old.png" group-title="Fancode Live", Melbourne City Women vs Wuhan Jiangda Women (AFC Women's Champions League 2024-25)
+https://tv.onlinetvbd.com/fancode/global/primary/127236_english_hls_69774ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-United-Kingdom-old-match-card.png" group-title="Fancode Live", Day 2 vs United Kingdom (TISSOT BRITISH GRAND PRIX)
 https://tv.onlinetvbd.com/fancode/global/primary/118562_english_hls_41261ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1747738176157.jpg" group-title="Fancode Live", Race 1 vs Lausitzring (DTM Lausitzring)
-https://tv.onlinetvbd.com/fancode/global/primary/126288_english_hls_24423ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Soudal-Open-old-match-card.png" group-title="Fancode Live", Day 3 vs Rinkven International Golf Club (Soudal Open, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/126278_english_hls_78143ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110910_4567_WST_MLC_fc-web_1728983127544.jpg" group-title="Fancode Live", Melbourne City vs Western United (A League 2024-25)
-https://tv.onlinetvbd.com/fancode/global/primary/125667_english_hls_38782ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Main Feed - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
+https://tv.onlinetvbd.com/fancode/global/primary/127065_english_hls_63443ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" group-title="Fancode Live", Sprint Race vs Monte Carlo (F2 MONACO 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/119043_english_hls_19305adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Group - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
+https://tv.onlinetvbd.com/fancode/global/primary/127068_english_hls_954ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Holes - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
+https://tv.onlinetvbd.com/fancode/global/primary/127067_english_hls_28333ta-di_h264/index.m3u8
