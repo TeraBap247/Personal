@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748232998:KeyName=prod_linear:Signature=cX5jq3Nkv5_YUWGODzvgUYSuN6kjkgqZ7n4P2e81fDTxY1zzh-vTGj4LQGHGNgvyhkJsb0OGFKdqzAKM5OQ-BA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748263115:KeyName=prod_linear:Signature=8LsSmTEGFA50A299udDx9FBfVtoeCi7ojEi0M8gsf7CSS8lUAgZxcxYTVzzaymSwc4sHi0bwRozI6IXFZMyFCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748110728:KeyName=prod_live_mybl:Signature=LT_zFivwdAzqCaTfK5Kwhed2iHZaFoACzKoglu9XPmFSjdJvInh8w4CnzL0TjA3pPzs5NLvUc7qkYvAgpv9PBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748140534:KeyName=prod_live_mybl:Signature=rf-qhA8TuVKYLXbJ6JMTa58sBz0tqbwMUsvx5UrMZvRk4BQFrYiLN0Ot0VnbIvOqGV9jQAzM2lhGOd-bXwqGAw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -656,6 +656,8 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hdnea=exp=1748123521~acl=/*~id=82814331980283123478953079673915~hmac=f0d3787bf4d93235c0f2969312c817bab630993d98f1400336a5485ee5e22c65
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125734_5201_TSK_TU_fc-web.jpg" group-title="Fancode Live", Tallinn United vs Tallinn Strikers (ECS Estonia, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125734_english_hls_72585ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Sharjah vs Fujairah (Emirates D10 Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124881_english_hls_6976ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125810_5205_ULH_BPT_fc-web_1747372458880.jpg" group-title="Fancode Live", United Lion Hearts vs Biratnagar Panthers (Nepal T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/127255_english_hls_91432ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-Womens-champions-league-old.png" group-title="Fancode Live", Melbourne City Women vs Wuhan Jiangda Women (AFC Women's Champions League 2024-25)
@@ -672,3 +674,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/119043_english_hls_19305adfreet
 https://tv.onlinetvbd.com/fancode/global/primary/127068_english_hls_954ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Holes - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://tv.onlinetvbd.com/fancode/global/primary/127067_english_hls_28333ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Marquee Group - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
+https://tv.onlinetvbd.com/fancode/global/primary/127066_english_hls_865ta-di_h264/index.m3u8
