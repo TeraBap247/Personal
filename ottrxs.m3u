@@ -652,18 +652,18 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old.jpg" group-title="Fancode Live", Qualifying vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)
-https://d3fn1go544ixyx.cloudfront.net/out/v1/1bfdcb77d7da404ea97692d56541e564/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Espanyol-VS-Las-Palmas_OLD.jpg" group-title="Fancode Live", Espanyol vs Las Palmas (LALIGA 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/125455_english_hls_34062adfreeta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Leganes-VS-Real-Valladolid_old.jpg" group-title="Fancode Live", Leganés vs Real Valladolid (LALIGA 2024-25)
 https://tv.onlinetvbd.com/fancode/global/primary/125454_english_hls_39203adfreeta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Dubai vs Abu Dhabi (Emirates D10 Tournament, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/124882_english_hls_49456ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DFB-Pokal-Final-old.jpg" group-title="Fancode Live", Arminia Bielefeld vs VfB Stuttgart (DFB Pokal)
+https://tv.onlinetvbd.com/fancode/global/primary/122716_english_hls_56933ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124945_CASACARDS_APP.png" group-title="Fancode Live", Bay Leaf Blasters vs Saffron Strikers (Dream11 Spice Isle T10, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/124945_english_hls_5662ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125399_5188_MEC_RLC_fc-web.jpg" group-title="Fancode Live", MEC Study Group vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)
 https://tv.onlinetvbd.com/fancode/global/primary/125399_english_hls_13903ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Fujairah vs Emirates Red (Emirates D10 Tournament, 2025)
+https://tv.onlinetvbd.com/fancode/global/primary/124883_english_hls_12422ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Main Feed - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://tv.onlinetvbd.com/fancode/global/primary/127065_english_hls_63443ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Featured Group - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
@@ -672,5 +672,5 @@ https://tv.onlinetvbd.com/fancode/global/primary/127068_english_hls_954ta-di_h26
 https://tv.onlinetvbd.com/fancode/global/primary/127067_english_hls_28333ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", Marquee Group - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://tv.onlinetvbd.com/fancode/global/primary/127066_english_hls_865ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode Live", World Feed - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
-https://tv.onlinetvbd.com/fancode/global/primary/127064_english_hls_11159ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old.jpg" group-title="Fancode Live", Qualifying vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)
+https://d3fn1go544ixyx.cloudfront.net/out/v1/1bfdcb77d7da404ea97692d56541e564/index.m3u8
