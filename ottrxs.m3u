@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748276227:KeyName=prod_linear:Signature=L3iDxV8g-luFj55ZkrUhm1ekXCb6DvakBTX2zfWb1KWQu5zNWtk0dFyJ5XyYZyAPl66AkMLV1ihhNpUOBCMUAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748311362:KeyName=prod_linear:Signature=Dw9qF9jrf0C7mJZlXKFgPOaTUpglfe7tyeFcfXTKy9N1tQH8lnGZkj4ev9A92emPiqGSVgYFknIpwZPC0DUHDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748153827:KeyName=prod_live_mybl:Signature=gav5fo_DwaRt2ma5mc-2PmU8ui0VYmyBA6t_c2pzqBBq8kCsc5Zm10IQXByt1mq50bGQSB77O12TGKA2HqsADQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748188625:KeyName=prod_live_mybl:Signature=yvOGMBQ14OXB-aUbgLQqGCZI3rnV4rf5vjKJ-B6Sp3srfQ7hdZLnYQt_8N19jZrIyX5TKqCaa1VDrFnP9LudAA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -652,7 +652,4 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-old.jpg" group-title="Fancode Live", South Africa A vs West Indies A (South Africa A tour of West Indies, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125765_english_hls_32908ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="Fancode Live", Sandy Point Snappers vs St Paul’s Barracudas (Cool and Smooth T20, 2025)
-https://tv.onlinetvbd.com/fancode/global/primary/125300_english_hls_43621ta-di_h264/index.m3u8
+
