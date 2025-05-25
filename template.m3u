@@ -109,7 +109,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748334398:KeyName=prod_linear:Signature=CWMj0YomNnbi3Ci03tQQEGxpCSs1z0rzqWb4VLjuhxk15pEP3zwXOD4lVbWtFw2vZFKlRWwNNhiDI6NF23YcDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748363072:KeyName=prod_linear:Signature=U_22BpyNMvFpvgunOTpMRQ56Q2KHrzaetB-wP47EszG38gDFSB_APcNG0snz0QGK0hKIIIUNhbSiHbJj8OuTAg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
