@@ -17,7 +17,7 @@ ignore_names = {
 
         "team rxs", "nick pluto tv", "ott bangla live tv", "disney xd marathon", "disney xd", "mr bean",
         "cartoon network english", "cartoon network hd",
-        "nick hd plus", "cn-pak", "psl", "aakaash", "nat geo bangla", "hbo", "hbo hits", "apple tv", "hbo family",
+        "nick hd plus", "cn-pak", "psl vip", "aakaash", "nat geo bangla", "hbo", "hbo hits", "apple tv", "hbo family",
         "hbo signature", "cinemax", "movies now", "ssc sport 2", "ssc sport 3", "ssc sport 4",
         "ssc sport 5", "ssc sport extra 1", "ssc sport extra 2", "ssc sport extra 3",
         "bein sports mena english 1", "bein sports mena english 2", "bein sports mena english 3",
@@ -90,7 +90,7 @@ def update_channels(channel_names):
 # এখানে শুধু নাম অ্যাড করলেই চলবে
 channel_list = [
     "Cartoon Network HD",
-    "PSL"
+    "PSL VIP"
 ]
 
 update_channels(channel_list)
@@ -228,7 +228,7 @@ def generate_final_file():
                 outfile.write(line)
 
 # --- Run All Tasks ---
-safe_run("Cartoon Network HD", lambda: update_channels(["Cartoon Network HD", "PSL"]))
+safe_run("Cartoon Network HD", lambda: update_channels(["Cartoon Network HD", "PSL VIP"]))
 safe_run("Fancode", update_fancode)
 safe_run("API", update_api_channels)
 safe_run("Final Output", generate_final_file)
