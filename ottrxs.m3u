@@ -656,3 +656,29 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg" group-title="Fancode Live", England Women vs West Indies Women (West Indies Women tour of England, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748309319~acl=/*~id=37132776636926825806485832970509~hmac=c09effe34fc8900bda03fc22ad3cfaae39b98a20909a8240c8aebe948899c597
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Emirates Red vs Dubai (Emirates D10 Tournament, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/124890_english_hls_7452ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Carole_web.jpg" group-title="Fancode Live", Carole Monnet vs Katie Boulter (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748313571~acl=/*~id=20246651013974333580464102769795~hmac=4734197e85776ea1ae52a90132efef7c460739109cba0fc5c0fb8d8a1ff7dd05
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126882_5237_Atmane_Gasquet_fc-web.png" group-title="Fancode Live", Terence Atmane vs Richard Gasquet (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748313571~acl=/*~id=20246651013974333580464102769795~hmac=4734197e85776ea1ae52a90132efef7c460739109cba0fc5c0fb8d8a1ff7dd05
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126876_5237_Jarry_Fils_fc-web.png" group-title="Fancode Live", Nicolas Jarry vs Arthur Fils (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748314196~acl=/*~id=95070302178756778599753043605601~hmac=29cfc43dfa7bf2dc0cc39dd2c99965b5339e020b54c88c063bf37d134d121699
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126856_5237_O'Connell_Humbert_fc-web.png" group-title="Fancode Live", Christopher O'Connell vs Ugo Humbert (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748316627~acl=/*~id=32790019967775662137275429573371~hmac=dab22d0ef15de95a825f7af7d554c692abdce8ef6a8d0eb077f4d817b56d2670
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Filip_web.jpg" group-title="Fancode Live", Filip Misolic vs Yunchaokete Bu (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126854_english_hls_1563ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126972_5237_Ruse_Kessler_fc-web.png" group-title="Fancode Live", Elena-Gabriela Ruse vs McCartney Kessler (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126972_english_hls_68046ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126877_5237_Carabelli_Munar_fc-web.png" group-title="Fancode Live", Camilo Ugo Carabelli vs Jaume Munar (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126877_english_hls_29144ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126983_5237_Kudermetova_Ostapenko-1.png" group-title="Fancode Live", Polina Kudermetova vs Jelena Ostapenko (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126983_english_hls_30871ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barbora_web.jpg" group-title="Fancode Live", Barbora Krejcikova vs Tatjana Maria (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126954_english_hls_28602ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126951_5237_Bronzetti_Alexandrova_fc-web.png" group-title="Fancode Live", Lucia Bronzetti vs Ekaterina Alexandrova (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126951_english_hls_79206ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127005_5237_Rus_Osorio_fc-web.png" group-title="Fancode Live", Arantxa Rus vs Camila Osorio (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127005_english_hls_32720ta-di_h264/index.m3u8
