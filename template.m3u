@@ -112,7 +112,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748436183:KeyName=prod_linear:Signature=co0TlY7kXXJXLDJzCsmSpKSRQc0TSwR7wq0ZCjM8cLdoGx5Zkt5uQ7FXcodyvt2LZYZAnq4LLxY96cYsLwlXCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
+#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748211485:KeyName=prod_live_mybl:Signature=dh-z0cUVqZm1oX5WsuTUjCUwbizIuZzWLhyNZU-n7Oq6FBEx8JmuED8tNFTX3bCZ5RTnYL7NHTUP1FX6nbAvAg"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
