@@ -112,9 +112,9 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748436183:KeyName=prod_linear:Signature=co0TlY7kXXJXLDJzCsmSpKSRQc0TSwR7wq0ZCjM8cLdoGx5Zkt5uQ7FXcodyvt2LZYZAnq4LLxY96cYsLwlXCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL
+#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748211485:KeyName=prod_live_mybl:Signature=dh-z0cUVqZm1oX5WsuTUjCUwbizIuZzWLhyNZU-n7Oq6FBEx8JmuED8tNFTX3bCZ5RTnYL7NHTUP1FX6nbAvAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748313994:KeyName=prod_live_mybl:Signature=Nodsx68vyFK-mAib7Vzh0mupEd6DmoTCpEDQYrFuVnCVT0ZLwlawykbEtBSbeWGNyzBR9V9yK6oJAfk7NALmCA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -363,6 +363,7 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono19/mono.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamzz/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -541,6 +542,8 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/91.m3u8
 http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Sony Pal" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony Pal
 http://tv.bdiptv.store:80/live/restream/restreamzz/232.m3u8
+#EXTINF:-1 tvg-id="236" tvg-name="PSL" tvg-logo="https://otapp.store/uploads/tv_image/sm/psl.png" group-title="Event Channel ",PSL
+http://tv.bdiptv.store:80/live/restream/restreamzz/15325.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="TATA IPL T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-t-sports.png" group-title="Event Channel ",TATA IPL T Sports
 http://103.179.25.147:8181/IPLT20/index.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="TATA IPL 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/tata-ipl-2025-qnlhzwrrt5e6.png" group-title="Event Channel ",TATA IPL 2025
@@ -653,4 +656,3 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
-
