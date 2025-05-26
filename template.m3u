@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748449309:KeyName=prod_linear:Signature=W7oPwL3ouQETajvv5N2eYV-3i09L2qZWk9HAns9mMtLzzdV6CNZ1z0xlocb2ptPbnXM1riWyj7E33iJAcgJQCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748463792:KeyName=prod_linear:Signature=0STmvEEIcinV_hhpMquGGObysF47XSDzD-EQaTuMMk0777vwC1FxDr8V4Ytd4rpESMd5798HNvy9aQun-P-OBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748326700:KeyName=prod_live_mybl:Signature=3pqegVuFAgmtu_TI8Nk5k8Xxze0R0WgNc7pSo2B9RxVwOrRtorXa5Jni0UNLsNkq0Wz7NPHPBCtnObdYJEjfCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748341392:KeyName=prod_live_mybl:Signature=-ObaBq5OLh4rgRiRelk158_Cea_tNwOV_m1LuJeXqc_1oFG8psp2p-DQxxdbFe3zNfJfn7eyE6KDBlfLRHNTCg"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -656,7 +656,5 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126984_5237_Dolehide_Minnen_fc-web.png" group-title="Fancode Live", Caroline Dolehide vs Greet Minnen (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/126984_english_hls_86016ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126883_5237_Sinner_Rinderknech_fc-web.png" group-title="Fancode Live", Jannik Sinner vs Arthur Rinderknech (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748325175~acl=/*~id=63395512781336540113867348819375~hmac=e89d01eea43392d8b7b61a4a80e5f2ff5348525cd198953b6251c588990e9b07
