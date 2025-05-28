@@ -659,6 +659,8 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Mdina-Cup-T20iW-old.png" group-title="Fancode Live", Belgium Women vs Switzerland Women (ECN Mdina Cup T20IWs, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127481_english_hls_47473ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old.jpg" group-title="Fancode Live", United CC Bucharest vs Bliss Warriors (ECS Romania, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126563_english_hls_14183ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125523_5191_KOY_ERL_fc-web.jpg" group-title="Fancode Live", Ernakulam vs Kottayam (Kerala Mens T20 Challenger Trophy)
 https://fc.himelop-pro.top/fancode/global/primary/125523_english_hls_80692ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126236_5224_IM-W_ESP-W_fc-web.jpg" group-title="Fancode Live", Isle of Man Women vs Spain Women (ICC Womens T20 World Cup Europe Qualifier Division)
