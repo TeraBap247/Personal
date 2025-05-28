@@ -657,7 +657,5 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125522_5191_KOL_CDS_fc-web.jpg" group-title="Fancode Live", Kollam vs Combined Districts (Kerala Mens T20 Challenger Trophy)
-https://fc.himelop-pro.top/fancode/global/primary/125522_english_hls_22641ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old.jpg" group-title="Fancode Live", Phoenix vs United CC Bucharest (ECS Romania, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/126561_english_hls_70697ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125523_5191_KOY_ERL_fc-web.jpg" group-title="Fancode Live", Ernakulam vs Kottayam (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125523_english_hls_80692ta-di_h264/index.m3u8
