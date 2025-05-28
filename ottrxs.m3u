@@ -657,8 +657,6 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126803_5237_Lorenzo-Musetti_Daniel-Elahi-Galan_fc-web_1748419777699.jpg" group-title="Fancode Live", Lorenzo Musetti vs Daniel Elahi Galan (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748465554~acl=/*~id=09477576659483565945915446390197~hmac=1a9c6befaed9b4420faebf70063f6d0f1001653a75c58c4a81deb9ec4d70af40
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126797_5237_Juan-Manuel-Cerundolo_Hamad-Medjedovic_fc-web_1748419777571.jpg" group-title="Fancode Live", Juan Manuel Cerundolo vs Hamad Medjedovic (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/126797_english_hls_14573ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126796_5237_Vit-Kopriva_Daniel-Altmaier_fc-web_1748419777755.jpg" group-title="Fancode Live", Vit Kopriva vs Daniel Altmaier (Roland Garros 2025)
@@ -681,23 +679,23 @@ https://fc.himelop-pro.top/fancode/global/primary/127175_english_hls_77901ta-di_
 https://fc.himelop-pro.top/fancode/global/primary/127185_english_hls_49241ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127199_5237_Haddad-Maia-Siegemund_Jeanjean-Ponchet_fc-web.jpg" group-title="Fancode Live", Haddad Maia/Siegemund vs Jeanjean/Ponchet (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127199_english_hls_43753ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126793_5237_Karen-Khachanov_Sebastian-Ofner_fc-web_1748419777549.jpg" group-title="Fancode Live", Karen Khachanov vs Sebastian Ofner (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/126793_english_hls_1199ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126795_5237_Casper-Ruud_Nuno-Borges_fc-web_1748419777649.jpg" group-title="Fancode Live", Casper Ruud vs Nuno Borges (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748472898~acl=/*~id=55832278561796890524219429473140~hmac=439842d42961badadc18afad690294a910910df0d4617c27cb5e1ca379be9529
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127180_5237_Birrell-Dart_Avanesyan-Cocciaretto_fc-web.jpg" group-title="Fancode Live", Birrell/Dart vs Avanesyan/Cocciaretto (Roland Garros 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126793_5237_Karen-Khachanov_Sebastian-Ofner_fc-web_1748419777549.jpg" group-title="Fancode Live", Karen Khachanov vs Sebastian Ofner (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126793_english_hls_1199ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127180_5237_Birrell-Dart_Avanesyan-Cocciaretto_fc-web.jpg" group-title="Fancode Live", Birrell/Dart vs Begu/Wickmayer (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127180_english_hls_98142ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126935_5237_Anna-Bondar_Elina-Svitolina_fc-web_1748419777657.jpg" group-title="Fancode Live", Anna Bondar vs Elina Svitolina (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748474721~acl=/*~id=48770633280795300764851995817410~hmac=23a7b429840d59c00e298cf93a09969e6f91086dfd10e2cdee0c296c54509e47
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Trans-Titans-VS-American-Strikers_old.jpg" group-title="Fancode Live", American Strikers vs Trans Titans (Intercontinental Legends Championship, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127443_english_hls_26032ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Mdina-Cup-T20iW-old.png" group-title="Fancode Live", Belgium Women vs Switzerland Women (ECN Mdina Cup T20IWs, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127481_english_hls_47473ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125523_5191_KOY_ERL_fc-web.jpg" group-title="Fancode Live", Ernakulam vs Kottayam (Kerala Mens T20 Challenger Trophy)
-https://fc.himelop-pro.top/fancode/global/primary/125523_english_hls_80692ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126235_5224_GER-W_ITA-W_fc-web.jpg" group-title="Fancode Live", Italy Women vs Germany Women (ICC Womens T20 World Cup Europe Qualifier Division)
-https://fc.himelop-pro.top/fancode/global/primary/126235_english_hls_81474ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Fujairah vs Abu Dhabi (Emirates D10 Tournament, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/124896_english_hls_19701ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126264_4795_URW_OSA_fc-web.jpg" group-title="Fancode Live", Urawa Red Diamonds vs Cerezo Osaka (J League 2025)
 https://fc.himelop-pro.top/fancode/global/primary/126264_english_hls_5721ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126236_5224_IM-W_ESP-W_fc-web.jpg" group-title="Fancode Live", Isle of Man Women vs Spain Women (ICC Womens T20 World Cup Europe Qualifier Division)
-https://fc.himelop-pro.top/fancode/global/primary/126236_english_hls_29868ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125523_5191_KOY_ERL_fc-web.jpg" group-title="Fancode Live", Ernakulam vs Kottayam (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125523_english_hls_80692ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126235_5224_GER-W_ITA-W_fc-web.jpg" group-title="Fancode Live", Italy Women vs Germany Women (ICC Womens T20 World Cup Europe Qualifier Division)
+https://fc.himelop-pro.top/fancode/global/primary/126235_english_hls_81474ta-di_h264/index.m3u8
