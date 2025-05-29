@@ -618,12 +618,8 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748558401~acl=/*~id=70501595918361481700430561206441~hmac=a0a88e3c1ecc51f242f51cec424f86204ab41f6089f5ecc75e1b7e4349b507a5
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-American-Strikers_old.jpg" group-title="Fancode Live", American Strikers vs Indian Warriors (Intercontinental Legends Championship, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127445_english_hls_64559ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126240_5224_JER-W_SWE-W_fc-web.jpg" group-title="Fancode Live", Sweden Women vs Jersey Women (ICC Womens T20 World Cup Europe Qualifier Division)
-https://fc.himelop-pro.top/fancode/global/primary/126240_english_hls_25568ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126815_5237_Alex-De-Minaur_Alexander-Bublik_fc-web.jpg" group-title="Fancode Live", Alex De Minaur vs Alexander Bublik (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748552286~acl=/*~id=85974390620638463628714081887451~hmac=ec1a7b94c61121206551c3cce220aba16ed48b5a1a7d452764f543caae13a10b
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126818_5237_Jiri-Lehecka_Alejandro-Davidovich-Fokina_fc-web.jpg" group-title="Fancode Live", Jiri Lehecka vs Alejandro Davidovich Fokina (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/126818_english_hls_45266ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126816_5237_Jaume-Munar_Arthur-Fils_fc-web.jpg" group-title="Fancode Live", Jaume Munar vs Arthur Fils (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748552286~acl=/*~id=85974390620638463628714081887451~hmac=ec1a7b94c61121206551c3cce220aba16ed48b5a1a7d452764f543caae13a10b
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126814_5237_Henrique-Rocha_Jakub-Mensik_fc-web.jpg" group-title="Fancode Live", Henrique Rocha vs Jakub Mensik (Roland Garros 2025)
@@ -638,20 +634,18 @@ https://fc.himelop-pro.top/fancode/global/primary/127108_english_hls_88004ta-di_
 https://fc.himelop-pro.top/fancode/global/primary/127115_english_hls_47966ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127177_5237_Perez-Hunter_Muhammad-Schuurs_fc-web.jpg" group-title="Fancode Live", Perez/Hunter vs Muhammad/Schuurs (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127177_english_hls_22159ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127137_5237_Nouza-Rikl_Heliovaara-Patten_fc-web.jpg" group-title="Fancode Live", Nouza/Rikl vs Heliovaara/Patten (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127137_english_hls_86284ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australian-Alpine-Open_Old_match-card.jpg" group-title="Fancode Live", Day 1 vs Golfclub Gut Altentann (Australian Alpine Open Presented by SalzburgerLand)
 https://fc.himelop-pro.top/fancode/global/primary/127045_english_hls_57573ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127137_5237_Nouza-Rikl_Heliovaara-Patten_fc-web.jpg" group-title="Fancode Live", Nouza/Rikl vs Heliovaara/Patten (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127137_english_hls_86284ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127191_5237_Ninomiya-Tang_Lechemia-Tan_fc-web.jpg" group-title="Fancode Live", Ninomiya/Tang vs Lechemia/Tan (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127191_english_hls_91173ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126917_5237_Elisabetta-Cocciaretto_Ekaterina-Alexandrova_fc-web.jpg" group-title="Fancode Live", Elisabetta Cocciaretto vs Ekaterina Alexandrova (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/126917_english_hls_9646ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old.jpg" group-title="Fancode Live", Main Feed - Day 1 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
-https://fc.himelop-pro.top/fancode/global/primary/127561_english_hls_85011ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126919_5237_Robin-Montgomery_Jessica-Bouzas-Maneiro_fc-web.jpg" group-title="Fancode Live", Robin Montgomery vs Jessica Bouzas Maneiro (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/126919_english_hls_23552ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126239_5224_ITA-W_ESP-W_fc-web.jpg" group-title="Fancode Live", Italy Women vs Spain Women (ICC Womens T20 World Cup Europe Qualifier Division)
-https://fc.himelop-pro.top/fancode/global/primary/126239_english_hls_63604ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old.jpg" group-title="Fancode Live", Main Feed - Day 1 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
+https://fc.himelop-pro.top/fancode/global/primary/127561_english_hls_85011ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126929_5237_Joanna-Garland_Yulia-Putintseva_fc-web.jpg" group-title="Fancode Live", Joanna Garland vs Yulia Putintseva (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/126929_english_hls_57388ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127109_5237_Gonzalez-Molteni_Paul-Pel_fc-web.jpg" group-title="Fancode Live", Gonzalez/Molteni vs Paul/Pel (Roland Garros 2025)
