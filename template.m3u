@@ -322,14 +322,6 @@ http://xtvplayer.top/live/3525532727/9752528282/349947.m3u8
 #EXTVLCOPT:http-origin=https://elverruca.tech
 https://1pnfkbw1.s3.eu-west-1.amazonaws.com/hls/stream3/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125524_5191_KOL_WAN_fc-web.jpg" group-title="Fancode Live", Wayanad vs Kollam (Kerala Mens T20 Challenger Trophy)
-https://fc.himelop-pro.top/fancode/global/primary/125524_english_hls_62280ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Central Smashers vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127035_english_hls_54640ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Southern Hitters vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127036_english_hls_74048ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125525_5191_KOY_CDS_fc-web.jpg" group-title="Fancode Live", Kottayam vs Combined Districts (Kerala Mens T20 Challenger Trophy)
-https://fc.himelop-pro.top/fancode/global/primary/125525_english_hls_25542ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamzz/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -622,3 +614,11 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125524_5191_KOL_WAN_fc-web.jpg" group-title="Fancode Live", Wayanad vs Kollam (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125524_english_hls_62280ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125525_5191_KOY_CDS_fc-web.jpg" group-title="Fancode Live", Kottayam vs Combined Districts (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125525_english_hls_25542ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Central Smashers vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127035_english_hls_54640ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Southern Hitters vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127036_english_hls_74048ta-di_h264/index.m3u8
