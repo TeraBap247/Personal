@@ -251,56 +251,29 @@ http://xtvplayer.top/live/3525532727/9752528282/381354.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Sports-খেলা",beIN SPORTS XTRA 2
 http://xtvplayer.top/live/3525532727/9752528282/381355.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 1 UK
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 1
+http://xtvplayer.top/live/3525532727/9752528282/346373.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 2 UK
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 2
+http://xtvplayer.top/live/3525532727/9752528282/346374.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 3 UK
-https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 3
+http://xtvplayer.top/live/3525532727/9752528282/346375.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 4 UK
-https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 4
+http://xtvplayer.top/live/3525532727/9752528282/346376.m3u8
 
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/800px-TNT_Sports_Logo.svg.png" group-title="Sports-খেলা",TNT Brazil
-https://windnew.newkso.ru/wind/premium87/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s" group-title="Sports-খেলা",DAZN 1 HD
+http://xtvplayer.top/live/3525532727/9752528282/233072.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/04/tnt_sports-logo-brandlogos.net_.png" group-title="Sports-খেলা",TNT Sports Argentina
-https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=50" group-title="Sports-খেলা",DAZN 2 HD
+http://xtvplayer.top/live/3525532727/9752528282/233075.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-hd-chile.png" group-title="Sports-খেলা",TNT Sports HD Chile
-https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8w7emNlVQ-LpTf0yHwLC_9WFvQ8dIFrmXN3UwRO-6qV8IU2vKiarY2bnV-qHLpuSoxac&usqp=CAU" group-title="Sports-খেলা",DAZN 3 HD
+http://xtvplayer.top/live/3525532727/9752528282/233078.m3u8
 
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://pbs.twimg.com/profile_images/1747995148565319680/119gI_x2_400x400.jpg" group-title="Sports-খেলা",TNT USA
-https://zekonew.newkso.ru/zeko/premium338/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s" group-title="Sports-খেলা",DAZN 1 Bar DE
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=50" group-title="Sports-খেলা",DAZN 2 Bar DE
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s" group-title="Sports-খেলা",DAZN 1 Spain
-https://windnew.newkso.ru/wind/premium445/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=50" group-title="Sports-খেলা",DAZN 2 Spain
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8w7emNlVQ-LpTf0yHwLC_9WFvQ8dIFrmXN3UwRO-6qV8IU2vKiarY2bnV-qHLpuSoxac&usqp=CAU" group-title="Sports-খেলা",DAZN 3 Spain
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="Sports-খেলা",DAZN 4 Spain
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQGNItYUmcOoEia7QCKzg2UjrkziP_S8fqA&s" group-title="Sports-খেলা",DAZN F1 ES
-https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFdtt3YLykpWcEImP_Na9PtQ6R4o4CtVa8Q&s" group-title="Sports-খেলা",DAZN LaLiga
-https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="Sports-খেলা",DAZN LaLiga 2
-https://windnew.newkso.ru/wind/premium43/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="Sports-খেলা",DAZN 4 HD
+http://xtvplayer.top/live/3525532727/9752528282/233080.m3u8
 
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" group-title="Movie Channel" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",STAR MOVIES SELECT HD
 http://xtvplayer.top/live/3525532727/9752528282/66315.m3u8
@@ -349,6 +322,14 @@ http://xtvplayer.top/live/3525532727/9752528282/349947.m3u8
 #EXTVLCOPT:http-origin=https://elverruca.tech
 https://1pnfkbw1.s3.eu-west-1.amazonaws.com/hls/stream3/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125524_5191_KOL_WAN_fc-web.jpg" group-title="Fancode Live", Wayanad vs Kollam (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125524_english_hls_62280ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Central Smashers vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127035_english_hls_54640ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Southern Hitters vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127036_english_hls_74048ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125525_5191_KOY_CDS_fc-web.jpg" group-title="Fancode Live", Kottayam vs Combined Districts (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125525_english_hls_25542ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamzz/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -641,13 +622,3 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125524_5191_KOL_WAN_fc-web.jpg" group-title="Fancode Live", Wayanad vs Kollam (Kerala Mens T20 Challenger Trophy)
-https://fc.himelop-pro.top/fancode/global/primary/125524_english_hls_62280ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Central Smashers vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127035_english_hls_54640ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Southern Hitters vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127036_english_hls_74048ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg" group-title="Fancode Live", Day 1 vs Ahmedabad (Dream UTT Juniors)
-https://fc.himelop-pro.top/fancode/global/primary/127509_english_hls_70463ta-di_h264/index.m3u8
