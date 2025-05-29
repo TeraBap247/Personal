@@ -616,8 +616,6 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-American-Strikers_old.jpg" group-title="Fancode Live", American Strikers vs Indian Warriors (Intercontinental Legends Championship, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127445_english_hls_64559ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Mdina-Cup-T20iW-old.png" group-title="Fancode Live", Belgium Women vs Switzerland Women (ECN Mdina Cup T20IWs, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127483_english_hls_40297ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125525_5191_KOY_CDS_fc-web.jpg" group-title="Fancode Live", Combined Districts vs Kottayam (Kerala Mens T20 Challenger Trophy)
 https://fc.himelop-pro.top/fancode/global/primary/125525_english_hls_25542ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126240_5224_JER-W_SWE-W_fc-web.jpg" group-title="Fancode Live", Sweden Women vs Jersey Women (ICC Womens T20 World Cup Europe Qualifier Division)
@@ -630,8 +628,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.
 https://fc.himelop-pro.top/fancode/global/primary/126924_english_hls_83129ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127125_5237_Ebden-Peers_Blanchet-Jacquet_fc-web.jpg" group-title="Fancode Live", Ebden/Peers vs Blanchet/Jacquet (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127125_english_hls_25125ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126930_5237_Mirra-Andreeva_Ashlyn-Krueger_fc-web.jpg" group-title="Fancode Live", Mirra Andreeva vs Ashlyn Krueger (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748552276~acl=/*~id=10943093251819045500338208543871~hmac=3de3b75b8f0e4887da7047a77d074e716d7245f41db70a05aafbc2c6cfc69020
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126916_5237_Marie-Bouzkova_Sonay-Kartal_fc-web.jpg" group-title="Fancode Live", Marie Bouzkova vs Sonay Kartal (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/126916_english_hls_75872ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126818_5237_Jiri-Lehecka_Alejandro-Davidovich-Fokina_fc-web.jpg" group-title="Fancode Live", Jiri Lehecka vs Alejandro Davidovich Fokina (Roland Garros 2025)
@@ -644,8 +640,6 @@ https://fc.himelop-pro.top/fancode/global/primary/126814_english_hls_2360ta-di_h
 https://fc.himelop-pro.top/fancode/global/primary/127077_english_hls_78319ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127116_5237_Cazaux-Mayot_Murray-Ram_fc-web.jpg" group-title="Fancode Live", Cazaux/Mayot vs Murray/Ram (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127116_english_hls_72997ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127192_5237_Iliev-Lene_Lumsden-Santamaria_fc-web.jpg" group-title="Fancode Live", Iliev/Lene vs Lumsden/Santamaria (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127192_english_hls_74561ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127182_5237_Khromacheva-Stollar_Wang-Zheng_fc-web.jpg" group-title="Fancode Live", Khromacheva/Stollar vs Wang/Zheng (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127182_english_hls_55841ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127610_5237_Duckworth-Vukic_Mansouri-Rojer_fc-web.jpg" group-title="Fancode Live", Duckworth/Vukic vs Mansouri/Rojer (Roland Garros 2025)
@@ -654,3 +648,5 @@ https://fc.himelop-pro.top/fancode/global/primary/127610_english_hls_59101ta-di_
 https://fc.himelop-pro.top/fancode/global/primary/127639_english_hls_45656ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126923_5237_Ann-Li_Jessica-Pegula_fc-web.jpg" group-title="Fancode Live", Ann Li vs Jessica Pegula (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748555955~acl=/*~id=77780112185735763710231568477220~hmac=0786adb130c50c0a15f6fdd627ec96d4c218bc7230015ddf0ec4416f8c77d1ca
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126920_5237_Hailey-Baptiste_Nao-Hibino_fc-web.jpg" group-title="Fancode Live", Hailey Baptiste vs Nao Hibino (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/126920_english_hls_30003ta-di_h264/index.m3u8
