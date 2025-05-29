@@ -143,7 +143,7 @@ def update_fancode():
     else:
         print("Fancode অপরিবর্তিত।")
 
-# --- Step 2: sony_live_event Section Update ---
+# --- Step 3: sony_live_event Section Update ---
 def update_sony_live_event():
     def hash_list(lines): return hashlib.md5("\n".join(lines).encode()).hexdigest()
 
@@ -191,7 +191,7 @@ def update_sony_live_event():
     else:
         print("sony_live_event অপরিবর্তিত।")
 
-# --- Step 3: API Section Update ---
+# --- Step 4: API Section Update ---
 def update_api_channels():
     def fetch_api():
         url = "https://otapp.store/rest-api//v130/all_tv_channel_by_category"
@@ -254,7 +254,7 @@ def update_api_channels():
     else:
         print("API চ্যানেল অপরিবর্তিত।")
 
-# --- Step 4: Final Output ---
+# --- Step 5: Final Output ---
 def generate_final_file():
     input_file = 'template.m3u'
     output_file = 'ottrxs.m3u'
