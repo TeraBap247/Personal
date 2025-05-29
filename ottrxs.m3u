@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748622370:KeyName=prod_linear:Signature=zqJTn8GZyFxCnd6MbWWZK6-3ROoDhAdgnvA2DnoE2g6iZ_7QUI5UPGh0A8N5w5p4lyZSKlpM6q28hb-_YwRBAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748656403:KeyName=prod_linear:Signature=6r_FxIVuNV0n_kXAI8fy5imV8fmN5l0DZFVSDUuHOpNFj29Kh3aGuXOCQu_HunG91fE6abrbE8h550PXgSVfCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748499619:KeyName=prod_live_mybl:Signature=10es7ogi_zc3PE8mZVEpaoV0jZ_H9omWgrQqD2kHN_H-jJZAW3m5mo0fZTJfODB99TuvX33kABg-6nuVjH5sCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748534003:KeyName=prod_live_mybl:Signature=U4Z8LyDc8CylmAQZZksotzPTQdoimccVOaYob0evV6GEpK8ez-re7f6qylEJ1XNW3cYvaZmgunDUUDY4k93OAw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -643,3 +643,11 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamzz/88.m3u8
 
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Central Smashers vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127035_english_hls_54640ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Southern Hitters vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127036_english_hls_74048ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125524_5191_KOL_WAN_fc-web.jpg" group-title="Fancode Live", Wayanad vs Kollam (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/125524_english_hls_62280ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124634_CASACARDS_APP.png" group-title="Fancode Live", Seattle Mariners vs Washington Nationals (Major League Baseball, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/124634_english_hls_4787ta-di_h264/index.m3u8
