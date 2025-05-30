@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748781797:KeyName=prod_linear:Signature=xs2AG8Y_RCiqS8PenHSoOMUVhEJ3h1mx58I7d1IFWYqcXwLG6cgpqKVcCRCCwwmmkK9T4anm3iojWakAc6q3DQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748795373:KeyName=prod_linear:Signature=vVrVwY--5rLX8j64jDhhXw_JOXILnJTS5MTwWxx3HDU9l3LRxQtqm-ueKfoWzp-AHXu_lelAp1aPxTa8MTtYCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748659506:KeyName=prod_live_mybl:Signature=krd9LEJAIKtYbSo70G1AopW7raOhh0hZDnevMYuKRXdjLbZbBVSVIPCye1s5kkxUcuiN7eP9p91vr687Vn49Bg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748672478:KeyName=prod_live_mybl:Signature=ojGRcxShML8EwiPpDXnvup6giomrzqI7MoxNQcERNL-NBExLhJ4u0m2Bbh_VNngHZcEgu-w9lP1lltVDInwoAQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -646,3 +646,5 @@ https://fc.himelop-pro.top/fancode/global/primary/127079_english_hls_69829ta-di_
 https://fc.himelop-pro.top/fancode/global/primary/127084_english_hls_49109ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127074_5237_Kichenok-Pavic_Kato-Puetz_fc-web.jpg" group-title="Fancode Live", Kichenok/Pavic vs Kato/Puetz (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127074_english_hls_1123ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Match_card_MRF_Old_match-card.jpg" group-title="Fancode Live", Practice Session  vs Circuit de Barcelona-Catalunya (Porsche Mobil 1 Super Cup)
+https://fc.himelop-pro.top/fancode/global/primary/127635_english_hls_21523adfreeta-di_h264/index.m3u8
