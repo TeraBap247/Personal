@@ -623,14 +623,10 @@ https://d2zhfk1p4w3zoh.cloudfront.net/out/v1/1f3ecd8c9ad84c1eacbb7b4c9a6dfb0d/in
 https://fc.himelop-pro.top/fancode/global/primary/127449_english_hls_68630ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/portugal-vs-malta_old.jpg" group-title="Fancode Live", Malta vs Portugal (ECN Mdina Cup T20I, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127532_english_hls_14608ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125519_5191_KOY_KOL_fc-web.jpg" group-title="Fancode Live", Kottayam vs Kollam (Kerala Mens T20 Challenger Trophy)
-https://fc.himelop-pro.top/fancode/global/primary/127742_english_hls_92888ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121973_4795_KYS_TKY_fc-web.jpg" group-title="Fancode Live", Kyoto Sanga vs FC Tokyo (J League 2025)
 https://fc.himelop-pro.top/fancode/global/primary/121973_english_hls_62250ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Fujairah vs Abu Dhabi (Emirates D10 Tournament, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/124906_english_hls_51140ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-City-VS-Melbourne-Victory_fc-web.jpg" group-title="Fancode Live", Melbourne City vs Melbourne Victory (A League 2024-25)
-https://fc.himelop-pro.top/fancode/global/primary/127414_english_hls_68671ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126782_5237_Tallon-Griekspoor_Ethan-Quinn_fc-web.jpg" group-title="Fancode Live", Tallon Griekspoor vs Ethan Quinn (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748725149~acl=/*~id=39127944404713464371640790365328~hmac=c0e6196da5c2bccf9bb89b1685fcffd069cf530f66f8a11cda220321e114b9a3
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127143_5237_Romboli-Smith_Cazaux-Mayot_fc-web.png" group-title="Fancode Live", Romboli/Smith vs Cazaux/Mayot (Roland Garros 2025)
@@ -651,3 +647,5 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.
 https://fc.himelop-pro.top/fancode/global/primary/127047_english_hls_51666ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127138_5237_Arevalo-Pavic_Bellucci-Marozsan_fc-web.png" group-title="Fancode Live", Arevalo/Pavic vs Bellucci/Marozsan (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127138_english_hls_16541ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-City-VS-Melbourne-Victory_fc-web.jpg" group-title="Fancode Live", Melbourne City vs Melbourne Victory (A League 2024-25)
+https://fc.himelop-pro.top/fancode/global/primary/127414_english_hls_68671ta-di_h264/index.m3u8
