@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748852857:KeyName=prod_linear:Signature=34XnQN-cu2p-xWlOn0q6sLkRpqrmVDdHJUphESJ-Z_hgFk4prdWd1e4Xpl3y3oG20WHyM_vwn6Uk-4Gsz7plDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748868115:KeyName=prod_linear:Signature=1GYCgLlZ7mHzvtK_HzuuyMELJB-Yd_-SZiWm_ztBv2pZDM9PO7yFE1RpILCwnko20X1hvVsfoGABGgChaYNRBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748730457:KeyName=prod_live_mybl:Signature=TwCACa3u4WCgK7kObVG9svz2i6sfUmtBa2JD480WV-MtJl6X8mMjta0Fs1no1u5jEQuvNMj_ArL7toIS3SqGDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748745715:KeyName=prod_live_mybl:Signature=W--XHZ9JE9CWTNL17g2ab0gI3-j6PWRLOGIqYWjYMEig5wRHkrtnLoIxjQ3qIfmJXu25UUTepZtdtsTX-bL7Ag"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -615,16 +615,14 @@ http://tv.bdiptv.store:80/live/restream/restreamz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-ARAMCO-GRAN-PREMIO-DE-ESPANA-2025-old-match-card.png" group-title="Fancode Live", Qualifying vs Spain (F1 ARAMCO GRAN PREMIO DE ESPANA 2025)
+https://d1hy3ypr20kh8m.cloudfront.net/out/v1/f484c33b209b484b95365a17f2bda684/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Asian-Kings_old.jpg" group-title="Fancode Live", Asian Kings vs Indian Warriors (Intercontinental Legends Championship, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127449_english_hls_68630ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/portugal-vs-malta_old.jpg" group-title="Fancode Live", Malta vs Portugal (ECN Mdina Cup T20I, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127532_english_hls_14608ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Fujairah vs Abu Dhabi (Emirates D10 Tournament, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/124906_english_hls_51140ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126782_5237_Tallon-Griekspoor_Ethan-Quinn_fc-web.jpg" group-title="Fancode Live", Tallon Griekspoor vs Ethan Quinn (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748725149~acl=/*~id=39127944404713464371640790365328~hmac=c0e6196da5c2bccf9bb89b1685fcffd069cf530f66f8a11cda220321e114b9a3
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127204_5237_Detiuc-Starodubsteva_Babos-Stefani_fc-web.png" group-title="Fancode Live", Detiuc/Starodubtseva vs Babos/Stefani (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127204_english_hls_42916ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127208_5237_Begu-Wickmayer_Melichar-Martinez-Samsonova_fc-web.png" group-title="Fancode Live", Begu/Wickmayer vs Melichar-Martinez/Samsonova (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127208_english_hls_98094ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126904_5237_Elsa-Jacquemot_Lois-Boisson_fc-web.jpg" group-title="Fancode Live", Elsa Jacquemot vs Lois Boisson (Roland Garros 2025)
@@ -643,3 +641,9 @@ https://fc.himelop-pro.top/fancode/global/primary/127142_english_hls_4492ta-di_h
 https://fc.himelop-pro.top/fancode/global/primary/127218_english_hls_32915ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126783_5237_Alexander-Zverev_Flavio-Cobolli_fc-web.jpg" group-title="Fancode Live", Alexander Zverev vs Flavio Cobolli (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748737382~acl=/*~id=65180469938301995234573241268080~hmac=bc7923101c912a815a21f73325fec57c39fd0c84d4768419809bef4d66374398
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126900_5237_Veronika-Kudermetova_Ekaterina-Alexandrova_fc-web.jpg" group-title="Fancode Live", Veronika Kudermetova vs Ekaterina Alexandrova (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748739209~acl=/*~id=04805475531744956216788863530807~hmac=b57e818e24f3cd940f55dd9cb1e72c8e74f50cfedc1d0adf5f054b493ceed729
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126784_5237_Joao-Fonseca_Jack-Draper_fc-web.jpg" group-title="Fancode Live", Joao Fonseca vs Jack Draper (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748738601~acl=/*~id=26841745211640134875562682332876~hmac=6d8caaa796597ae4ff031c63847130dba779b5d553326ad710c3af94fc82932a
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127140_5237_Paul-Pel_Arends-Johnson_fc-web.png" group-title="Fancode Live", Paul/Pel vs Arends/Johnson (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127140_english_hls_93030ta-di_h264/index.m3u8
