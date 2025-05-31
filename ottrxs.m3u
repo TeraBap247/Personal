@@ -615,12 +615,16 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Asian-Kings_old.jpg" group-title="Fancode Live", Indian Warriors vs Asian Kings (Intercontinental Legends Championship, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127449_english_hls_68630ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/belgium-vs-malta_old.jpg" group-title="Fancode Live", Belgium vs Malta (ECN Mdina Cup T20I, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127533_english_hls_34571ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125519_5191_KOY_KOL_fc-web.jpg" group-title="Fancode Live", Kottayam vs Kollam (Kerala Mens T20 Challenger Trophy)
 https://fc.himelop-pro.top/fancode/global/primary/127742_english_hls_92888ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121975_4795_HIR_KAW_fc-web.jpg" group-title="Fancode Live", Sanfrecce Hiroshima vs Kawasaki Frontale (J League 2025)
 https://fc.himelop-pro.top/fancode/global/primary/121975_english_hls_10492ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121973_4795_KYS_TKY_fc-web.jpg" group-title="Fancode Live", Kyoto Sanga vs FC Tokyo (J League 2025)
+https://fc.himelop-pro.top/fancode/global/primary/121973_english_hls_62250ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126906_5237_Mirra-Andreeva_Yulia-Putintseva_fc-web.jpg" group-title="Fancode Live", Mirra Andreeva vs Yulia Putintseva (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748725149~acl=/*~id=39127944404713464371640790365328~hmac=c0e6196da5c2bccf9bb89b1685fcffd069cf530f66f8a11cda220321e114b9a3
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126905_5237_Daria-Kasatkina_Paula-Badosa_fc-web.jpg" group-title="Fancode Live", Daria Kasatkina vs Paula Badosa (Roland Garros 2025)
