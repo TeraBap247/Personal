@@ -625,6 +625,7 @@ https://fc.himelop-pro.top/fancode/global/primary/127765_english_hls_10351ta-di_
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127425_5249_CI_NVS_fc-web.jpg" group-title="Fancode Live", Nevis vs Combined Islands (Leeward Islands T20, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127425_english_hls_848ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/belgium-vs-portugal_old.jpg" group-title="Fancode Live", Belgium vs Portugal (ECN Mdina Cup T20I, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127529_english_hls_21992ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png" group-title="Fancode Live", Emirates Blues vs Sharjah (Emirates D10 Tournament, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/124907_english_hls_71684ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australian-Alpine-Open_Old_match-card.jpg" group-title="Fancode Live", Day 3 vs Golfclub Gut Altentann (Austrian Alpine Open Presented by SalzburgerLand)
@@ -649,3 +650,5 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.
 https://fc.himelop-pro.top/fancode/global/primary/127096_english_hls_21351ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126899_5237_Marie-Bouzkova_Coco-Gauff_fc-web.jpg" group-title="Fancode Live", Marie Bouzkova vs Coco Gauff (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748747782~acl=/*~id=51522208402612511941320760413998~hmac=6de57372c226b06f83cd3d01f054807e818a390ea05cf620347bc29c2f6ea69f
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126781_5237_Cameron-Norrie_Jacob-Fearnley_fc-web.jpg" group-title="Fancode Live", Cameron Norrie vs Jacob Fearnley (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748749614~acl=/*~id=89365976406908228060851401158959~hmac=7c087e83df359c5731120142a5c631ebd3b6eb6b480c5263e14a3a3f0b85f6d1
