@@ -615,7 +615,10 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Central Smashers vs Southern Hitters (MCA Super Series Men's 50 Overs, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125518_5191_WAN_ERL_fc-web.jpg" group-title="Fancode Live", Wayanad vs Ernakulam (Kerala Mens T20 Challenger Trophy)
+https://fc.himelop-pro.top/fancode/global/primary/127741_english_hls_51154ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Southern Hitters vs Central Smashers (MCA Super Series Men's 50 Overs, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127039_english_hls_13307ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Northern Strikers vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Western Warriors vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127040_english_hls_68735ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png" group-title="Fancode Live", Day 3 vs Ahmedabad (Dream UTT Juniors)
