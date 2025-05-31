@@ -621,8 +621,8 @@ https://d1hy3ypr20kh8m.cloudfront.net/out/v1/f484c33b209b484b95365a17f2bda684/in
 https://fc.himelop-pro.top/fancode/global/primary/127449_english_hls_68630ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/portugal-vs-malta_old.jpg" group-title="Fancode Live", Malta vs Portugal (ECN Mdina Cup T20I, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127532_english_hls_14608ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127208_5237_Begu-Wickmayer_Melichar-Martinez-Samsonova_fc-web.png" group-title="Fancode Live", Begu/Wickmayer vs Melichar-Martinez/Samsonova (Roland Garros 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127208_english_hls_98094ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127765_5267_HCT_ABA_fc-web.jpg" group-title="Fancode Live", Heritage City Titans vs Ahmedabad Arrows (Cricket Premier League, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127765_english_hls_10351ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australian-Alpine-Open_Old_match-card.jpg" group-title="Fancode Live", Day 3 vs Golfclub Gut Altentann (Austrian Alpine Open Presented by SalzburgerLand)
 https://fc.himelop-pro.top/fancode/global/primary/127047_english_hls_51666ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127147_5237_Borges-Rinderknech_Goransson-Verbeek_fc-web.png" group-title="Fancode Live", Borges/Rinderknech vs Goransson/Verbeek (Roland Garros 2025)
@@ -641,3 +641,5 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748738601~acl=/*~id=26841745211640134875562682332876~hmac=6d8caaa796597ae4ff031c63847130dba779b5d553326ad710c3af94fc82932a
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127140_5237_Paul-Pel_Arends-Johnson_fc-web.png" group-title="Fancode Live", Paul/Pel vs Arends/Johnson (Roland Garros 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127140_english_hls_93030ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127207_5237_Hsieh-Ostapenko_Rakhimova-Siskova_fc-web.png" group-title="Fancode Live", Hsieh/Ostapenko vs Rakhimova/Siskova (Roland Garros 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127207_english_hls_10088ta-di_h264/index.m3u8
