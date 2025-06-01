@@ -645,3 +645,7 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748822157~acl=/*~id=80903539117049435722508564409330~hmac=8bb1bb47b12d1ce483a398f3bffcf38eb50f1a3e8b97bcbc1bafec6ae680b99a
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", Main Feed - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
 https://fc.himelop-pro.top/fancode/global/primary/127601_english_hls_34095ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", Featured Group - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
+https://fc.himelop-pro.top/fancode/global/primary/127603_english_hls_6935ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
+https://fc.himelop-pro.top/fancode/global/primary/127602_english_hls_74383ta-di_h264/index.m3u8
