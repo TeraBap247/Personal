@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -616,7 +616,11 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live", Bliss Warriors vs Phoenix (ECS Romania, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127746_english_hls_1662ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125520_5191_ERL_CDS_fc-web.jpg" group-title="Fancode Live", Combined Districts vs Ernakulam (Kerala Mens T20 Challenger Trophy)
 https://fc.himelop-pro.top/fancode/global/primary/127743_english_hls_35383ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121974_4795_OSA_PUL_fc-web.jpg" group-title="Fancode Live", Cerezo Osaka vs Shimizu S-Pulse (J League 2025)
 https://fc.himelop-pro.top/fancode/global/primary/121974_english_hls_71008ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg" group-title="Fancode Live", Feature Race vs Barcelona (F3 SPAIN 2025)
+https://fc.himelop-pro.top/fancode/global/primary/119142_english_hls_45787adfreeta-di_h264/index.m3u8
