@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748954272:KeyName=prod_linear:Signature=MJnTwChIs42PcEYa-pRIGf6sJCHQ4QgEY_EX72bU7hVrfu0hiCDB3q-yPG8OMCDv3yVb2SDOID59iXVLuKzFBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748967433:KeyName=prod_linear:Signature=sVih_WZQ5ljqdJ4FsaewNRHClWYTin0IJIPWLN542AdbImUBWc7j9epeadxueX9iSfiNyHIEawNKqQAwSf95DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748832240:KeyName=prod_live_mybl:Signature=s1zEZYJO_tZtofDNFi0mtUT28qFr-l0ehTVAY3R_wbDiUcWTM9Btm-isStfKW-2kEnt18Ob5yPeODr2wu58CCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748845622:KeyName=prod_live_mybl:Signature=6OPPvSIGDyHAAYG05FXbB9ccFFhphd7_QzrT7AnnLfqFdEIdggsIjead7BtBggCgD1hsEbsT-EupVTC8hEMbBw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -631,24 +631,19 @@ https://fc.himelop-pro.top/fancode/global/primary/125767_english_hls_12640ta-di_
 https://fc.himelop-pro.top/fancode/global/primary/127767_english_hls_25247ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127428_5249_CI_VIS_fc-web.jpg" group-title="Fancode Live", Combined Islands vs Virgin Islands (Leeward Islands T20, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127428_english_hls_85059ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-DLC-vs-ELC-old.png" group-title="Fancode Live", Deportivo de La Coruña vs Elche (LALIGA HYPERMOTION 2024-25)
+https://fc.himelop-pro.top/fancode/global/primary/127685_english_hls_79325ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-ROV-vs-CAD-old.png" group-title="Fancode Live", Real Oviedo vs Cádiz (LALIGA HYPERMOTION 2024-25)
 https://fc.himelop-pro.top/fancode/global/primary/127687_english_hls_46475ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-CAR-vs-MIR-old.png" group-title="Fancode Live", FC Cartagena vs Mirandés (LALIGA HYPERMOTION 2024-25)
 https://fc.himelop-pro.top/fancode/global/primary/127686_english_hls_22679ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-DLC-vs-ELC-old.png" group-title="Fancode Live", Deportivo de La Coruña vs Elche (LALIGA HYPERMOTION 2024-25)
-https://fc.himelop-pro.top/fancode/global/primary/127685_english_hls_79325ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", Main Feed - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
 https://fc.himelop-pro.top/fancode/global/primary/127601_english_hls_34095ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", Featured Group - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
 https://fc.himelop-pro.top/fancode/global/primary/127603_english_hls_6935ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
 https://fc.himelop-pro.top/fancode/global/primary/127602_english_hls_74383ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127092_5237_Melichar-Martinez-Harrison_Siegemund-Roger-Vasselin_fc-web.jpg" group-title="Fancode Live", Melichar-Martinez/Harrison vs Siegemund/Roger-Vasselin (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748834450~acl=/*~id=09948705184273129580326790336601~hmac=1c7e3b21bb214171670e2c90cd9d47d3cbc831ce63da80897cb707c63bd44bda
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127093_5237_Townsend-King_Cascino-Blancaneaux_fc-web.jpg" group-title="Fancode Live", Townsend/King vs Cascino/Blancaneaux (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748834450~acl=/*~id=09948705184273129580326790336601~hmac=1c7e3b21bb214171670e2c90cd9d47d3cbc831ce63da80897cb707c63bd44bda
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", World Feed - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live", Bliss Warriors vs Bucharest Gladiators (ECS Romania, 2025)
-https://fc.himelop-pro.top/fancode/global/primary/127750_english_hls_13905ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126766_5237_Frances-Tiafoe_Daniel-Altmaier_fc-web.jpg" group-title="Fancode Live", Frances Tiafoe vs Daniel Altmaier (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1748838108~acl=/*~id=84207570662867078557361414398674~hmac=eb1a6b0de30f04cdfc4c72faa5c99b7ef20903ab981ef1e8f5101332130d111e
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-tournament-old_1748419809847.jpg" group-title="Fancode Live", World Feed - Day 4 vs Jack Nicklaus and Muirfield Village Golf Club (The Memorial Tournament Presented By Workday)
+https://fc.himelop-pro.top/fancode/global/primary/127600_english_hls_9046ta-di_h264/index.m3u8
