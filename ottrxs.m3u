@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -619,5 +619,7 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/125528_CASACARDS_APP.png" group-title="Fancode Live", Combined Districts vs Palakkad (Kerala Mens T20 Challenger Trophy)
 https://fc.himelop-pro.top/fancode/global/primary/125528_english_hls_22308ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live", Bliss Warriors vs Phoenix (ECS Romania, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127751_english_hls_76746ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg" group-title="Fancode Live", Southern Hitters vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127042_english_hls_73578ta-di_h264/index.m3u8
