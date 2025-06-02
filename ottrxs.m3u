@@ -619,3 +619,7 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127430_5249_AGU_STK_fc-web.jpg" group-title="Fancode Live", Anguilla vs St Kitts (Leeward Islands T20, 2025)
 https://fc.himelop-pro.top/fancode/global/primary/127430_english_hls_65116ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Final_Old.jpg" group-title="Fancode Live", Cruz Azul vs Vancouver Whitecaps FC (Concacaf Champions Cup 2025)
+https://fc.himelop-pro.top/fancode/global/primary/125374_english_hls_93339ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg" group-title="Fancode Live", Northern Strikers vs Central Smashers (MCA Super Series Men's 50 Overs, 2025)
+https://fc.himelop-pro.top/fancode/global/primary/127041_english_hls_8386ta-di_h264/index.m3u8
