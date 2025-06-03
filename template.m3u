@@ -618,5 +618,7 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125089_CASACARDS_APP.png" group-title="Fancode Live", Japan Women vs Mongolia Women (Japan Women’s Sano International Trophy)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png" group-title="Fancode Live", Japan Women vs Mongolia Women (Japan Women’s Sano International Trophy)
 https://filofilmes.art/fancode/global/primary/125089_english_hls_64378ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/124642_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Dodgers vs New York Mets (Major League Baseball, 2025)
+https://filofilmes.art/fancode/global/primary/124642_english_hls_41608ta-di_h264/index.m3u8
