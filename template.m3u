@@ -618,23 +618,5 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
 
-#EXTINF:-1 tvg-id="126768" tvg-name="Cameron Norrie vs Novak Djokovic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126768_5237_Cameron-Norrie_Novak-Djokovic_fc-app.jpg" group-title="Fancode Live",Cameron Norrie vs Novak Djokovic
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tv-id="127238" tvg-name="Scotland vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scotland-VS-Nepal_Sporty.jpg" group-title="Fancode Live",Scotland vs Nepal
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="127454" tvg-name="Euro Gladiators vs African Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Euro-Gladiators-VS-African-Lions_Sporty.jpg" group-title="Fancode Live",Euro Gladiators vs African Lions
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="127155" tvg-name="Arends/Johnson vs Cash/Glasspool" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127155_5237_Arends-Johnson_Cash-Glasspool_fc-app_1748840155863.jpg" group-title="Fancode Live",Arends/Johnson vs Cash/Glasspool
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="126770" tvg-name="Alexander Bublik vs Jack Draper" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126770_5237_Alexander-Bublik_Jack-Draper_fc-app.jpg" group-title="Fancode Live",Alexander Bublik vs Jack Draper
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="127221" tvg-name="Siniakova/Townsend vs Babos/Stefani" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127221_5237_Siniakova-Townsend_Babos-Stefani_fc-app_1748840155948.jpg" group-title="Fancode Live",Siniakova/Townsend vs Babos/Stefani
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="127769" tvg-name="Sabarmati Strikers vs Narmada Navigators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127769_5267_SSK_NNV_fc-web.jpg" group-title="Fancode Live",Sabarmati Strikers vs Narmada Navigators
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="127755" tvg-name="Phoenix vs Bucharest Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live",Phoenix vs Bucharest Gladiators
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="127696" tvg-name="Mighty Tigers vs Hornchurch" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg" group-title="Fancode Live",Mighty Tigers vs Hornchurch
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
-#EXTINF:-1 tvg-id="125767" tvg-name="West Indies A vs South Africa A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png" group-title="Fancode Live",West Indies A vs South Africa A
-https://video.twimg.com/ext_tw_video/1762875818240516096/pu/pl/Z4GcWZIbXz55JvON.m3u8?variant_version=1&tag=12&container=cmaf
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125089_CASACARDS_APP.png" group-title="Fancode Live", Japan Women vs Mongolia Women (Japan Women’s Sano International Trophy)
+https://filofilmes.art/fancode/global/primary/125089_english_hls_64378ta-di_h264/index.m3u8
