@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -213,7 +213,7 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 https://fifabd.site/API/69/OPLLX5/play.php?id=381323
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="Sports-খেলা",beIN Sports MENA English 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=381325
+https://fifabd.site/API/69/OPLLX5/play.php?id=381324
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="Sports-খেলা",beIN Sports MENA English 3
 https://windnew.newkso.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15
@@ -614,3 +614,9 @@ http://tv.bdiptv.store:80/live/restream/restreamz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png" group-title="Fancode Live", Philippines Women vs China Women (Japan Women’s Sano International Trophy)
+https://filofilmes.art/fancode/global/primary/125092_english_hls_4607ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live", Bucharest Gladiators vs Royal Eagles (ECS Romania, 2025)
+https://filofilmes.art/fancode/global/primary/127760_english_hls_35981ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125520_5191_ERL_CDS_fc-web.jpg" group-title="Fancode Live", Combined Districts vs Ernakulam (Kerala Mens T20 Challenger Trophy)
+https://filofilmes.art/fancode/global/primary/125532_english_hls_37771ta-di_h264/index.m3u8
