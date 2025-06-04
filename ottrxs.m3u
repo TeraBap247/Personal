@@ -213,28 +213,28 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 https://fifabd.site/API/69/OPLLX5/play.php?id=381323
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="Sports-খেলা",beIN Sports MENA English 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=381324
+https://fifabd.site/API/69/OPLLX5/play.php?id=381325
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="Sports-খেলা",beIN Sports MENA English 3
 https://windnew.newkso.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="Sports-খেলা",beIN Sports MENA 1
-https://fifabd.site/API/69/OPLLX5/play.php?id=381329
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="Sports-খেলা",beIN Sports MENA 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=381331
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="Sports-খেলা",beIN Sports MENA 3
-https://fifabd.site/API/69/OPLLX5/play.php?id=381333
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="Sports-খেলা",beIN Sports MENA 4
-https://fifabd.site/API/69/OPLLX5/play.php?id=381336
+http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-5.png" group-title="Sports-খেলা",beIN Sports MENA 5
-https://fifabd.site/API/69/OPLLX5/play.php?id=381337
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Sports-খেলা",beIN Sports MENA 6
-https://fifabd.site/API/69/OPLLX5/play.php?id=381339
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-7.png" group-title="Sports-খেলা",beIN Sports MENA 7
 https://fifabd.site/API/69/OPLLX5/play.php?id=381341
@@ -322,6 +322,22 @@ https://fifabd.site/API/69/OPLLX5/play.php?id=349947
 #EXTVLCOPT:http-origin=https://elverruca.tech
 https://1pnfkbw1.s3.eu-west-1.amazonaws.com/hls/stream3/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg" group-title="Fancode Live", England Women vs West Indies Women (West Indies Women tour of England, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1749081545~acl=/*~id=51127146965811128344568057147689~hmac=524a8398ba15289e890c7956f16eccbd88beb9281eef3786aa8a88658939de85
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Netherlands-VS-Nepal_old.jpg" group-title="Fancode Live", Netherlands vs Nepal (ICC CWC League 2, 2023-27)
+https://filofilmes.art/fancode/global/primary/127239_english_hls_53538ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Euro-Gladiators_old.jpg" group-title="Fancode Live", Indian Warriors vs Euro Gladiators (Intercontinental Legends Championship, 2025)
+https://filofilmes.art/fancode/global/primary/127458_english_hls_1850ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127771_5267_ABA_SSK_fc-web.jpg" group-title="Fancode Live", Ahmedabad Arrows vs Sabarmati Strikers (Cricket Premier League, 2025)
+https://filofilmes.art/fancode/global/primary/127771_english_hls_12654ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-2.jpg" group-title="Fancode Live", Mighty Tigers vs Hornchurch (ECS England, Hornchurch, 2025)
+https://filofilmes.art/fancode/global/primary/127706_english_hls_95417ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live", Bliss Warriors vs Phoenix (ECS Romania, 2025)
+https://filofilmes.art/fancode/global/primary/127764_english_hls_95510ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127102_5237_Kichenok-Pavic_Townsend-King_fc-web.jpg" group-title="Fancode Live", Skupski/Krawczyk vs Townsend/King (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1749095508~acl=/*~id=07363047985839558719986093935613~hmac=1338483e577cf5099cd7c3f5126265d98281c53a2ee424276b41248e2db1d4e5
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/124649_CASACARDS_APP.png" group-title="Fancode Live", Miami Marlins vs Colorado Rockies (Major League Baseball, 2025)
+https://filofilmes.art/fancode/global/primary/124649_english_hls_29483ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamz/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -614,21 +630,3 @@ http://tv.bdiptv.store:80/live/restream/restreamz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Bublic_Old_match-card.jpg" group-title="Fancode Live", Jannik Sinner vs Alexander Bublik (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749089437~acl=/*~id=28947463484235582099704624981137~hmac=b6c8d1715a7a2dfaf3800e5a80c09c7678e457c1bb454fc8a4c1e623f957fa3c
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg" group-title="Fancode Live", England Women vs West Indies Women (West Indies Women tour of England, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1749081545~acl=/*~id=51127146965811128344568057147689~hmac=524a8398ba15289e890c7956f16eccbd88beb9281eef3786aa8a88658939de85
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Netherlands-VS-Nepal_old.jpg" group-title="Fancode Live", Netherlands vs Nepal (ICC CWC League 2, 2023-27)
-https://filofilmes.art/fancode/global/primary/127239_english_hls_53538ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Euro-Gladiators_old.jpg" group-title="Fancode Live", Indian Warriors vs Euro Gladiators (Intercontinental Legends Championship, 2025)
-https://filofilmes.art/fancode/global/primary/127458_english_hls_1850ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127771_5267_ABA_SSK_fc-web.jpg" group-title="Fancode Live", Ahmedabad Arrows vs Sabarmati Strikers (Cricket Premier League, 2025)
-https://filofilmes.art/fancode/global/primary/127771_english_hls_12654ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-2.jpg" group-title="Fancode Live", Mighty Tigers vs Hornchurch (ECS England, Hornchurch, 2025)
-https://filofilmes.art/fancode/global/primary/127706_english_hls_95417ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg" group-title="Fancode Live", Bliss Warriors vs Phoenix (ECS Romania, 2025)
-https://filofilmes.art/fancode/global/primary/127764_english_hls_95510ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127102_5237_Kichenok-Pavic_Townsend-King_fc-web.jpg" group-title="Fancode Live", Skupski/Krawczyk vs Townsend/King (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1749095508~acl=/*~id=07363047985839558719986093935613~hmac=1338483e577cf5099cd7c3f5126265d98281c53a2ee424276b41248e2db1d4e5
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/124649_CASACARDS_APP.png" group-title="Fancode Live", Miami Marlins vs Colorado Rockies (Major League Baseball, 2025)
-https://filofilmes.art/fancode/global/primary/124649_english_hls_29483ta-di_h264/index.m3u8
