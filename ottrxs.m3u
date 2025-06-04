@@ -614,6 +614,8 @@ http://tv.bdiptv.store:80/live/restream/restreamz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126888_5237_Mirra-Andreeva_Lois-Boisson_fc-web.jpg" group-title="Fancode Live", Mirra Andreeva vs Lois Boisson (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749080331~acl=/*~id=54017986920913618904589013801089~hmac=83f3341d0286270e65b3efdabfad6d2d6f66068957004316c18caa8be1090b42
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Netherlands-VS-Nepal_old.jpg" group-title="Fancode Live", Netherlands vs Nepal (ICC CWC League 2, 2023-27)
 https://filofilmes.art/fancode/global/primary/127239_english_hls_53538ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Trans-Titans-VS-American-Strikers_old.jpg" group-title="Fancode Live", Trans Titans vs American Strikers (Intercontinental Legends Championship, 2025)
@@ -632,5 +634,3 @@ https://filofilmes.art/fancode/global/primary/127331_english_hls_59777ta-di_h264
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1749070614~acl=/*~id=97398925609060981096518819263903~hmac=c1ea87fc1f8bfadf4ae3174d8dffb0db3e0c09dad2d7192d18d180e0e80b6820
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127229_5237_Siniakova-Townsend_Danilina-Krunic_fc-web.jpg" group-title="Fancode Live", Siniakova/Townsend vs Danilina/Krunic (Roland Garros 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1749076080~acl=/*~id=52888071556962237202394244407286~hmac=e39c32c73a0df62e1597d0713624da28920456c5245a42799ba0d66a738be7bc
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126888_5237_Mirra-Andreeva_Lois-Boisson_fc-web.jpg" group-title="Fancode Live", Mirra Andreeva vs Lois Boisson (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749080331~acl=/*~id=54017986920913618904589013801089~hmac=83f3341d0286270e65b3efdabfad6d2d6f66068957004316c18caa8be1090b42
