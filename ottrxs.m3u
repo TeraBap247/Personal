@@ -61,10 +61,10 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
-https://fifabd.site/API/69/OPLLX5/play.php?id=150482
+https://fifabd.site/API/69/OPLLX5/play.php?id=150482&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="89" tvg-name="PTV Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/ptv-sports.png" group-title="Sports-খেলা",PTV Sports
-https://fifabd.site/API/69/OPLLX5/play.php?id=217968
+https://fifabd.site/API/69/OPLLX5/play.php?id=217968&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749240823:KeyName=prod_linear:Signature=rHRzT8iIQr7qQ8yj1KVjJHE99TUKMf7A2tgyjrGIMrsRN2eV1tIop-kr577a4F0Oky8qd6GsO7w8OxrDwZzWAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749260858:KeyName=prod_linear:Signature=WTWX7uhWuVZTI8TfX_y0PA4fVREAqmgi5tCTd5NKyQaFN0qDhMyg_IBAKkG9H2HQI1FzhHh4OOpW5KktyUiVDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749118811:KeyName=prod_live_mybl:Signature=zhD1LUHILubDCc9Fu0AqSDP_MUUoa3XfI9jYR2cT73pO8Lng3UYTy80_64WiXqdg4ztFYPh9ykw75-Joy13ADw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749138882:KeyName=prod_live_mybl:Signature=g1sD7qKppjKp60brGuA2unasyokFlTk20SJZVQdZS5XrAqgBrLdioq-uxMFq2wYssjEGC-_uynanRtg0Z_pUCA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -124,10 +124,10 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 http://38.76.152.22:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-id="477" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Kolkata-(কলকতা চ্যানেল)",AAKAASH
-https://fifabd.site/API/69/OPLLX5/play.php?id=245928
+https://fifabd.site/API/69/OPLLX5/play.php?id=245928&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="459" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="Others Channel",NAT GEO BANGLA
-https://fifabd.site/API/69/OPLLX5/play.php?id=245967
+https://fifabd.site/API/69/OPLLX5/play.php?id=245967&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="460" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8cIY-Y6n-NYPvEiUMJ0-pVRdhkVLoErVaEQkBRm2n_3f_WIGJziUb-ep&s=10" group-title="Movie Channel",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -167,7 +167,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 #EXTINF:-1 tvg-id="460" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/images%20(1).jpeg" group-title="Movie Channel",Movies Now
-https://fifabd.site/API/69/OPLLX5/play.php?id=109968
+https://fifabd.site/API/69/OPLLX5/play.php?id=109968&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc1.png" group-title="Sports-খেলা",SSC Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -210,82 +210,82 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-1.png" group-title="Sports-খেলা",beIN Sports MENA English 1
-https://fifabd.site/API/69/OPLLX5/play.php?id=381323
+https://fifabd.site/API/69/OPLLX5/play.php?id=381323&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="Sports-খেলা",beIN Sports MENA English 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=381325
+https://fifabd.site/API/69/OPLLX5/play.php?id=381325&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="Sports-খেলা",beIN Sports MENA English 3
 https://windnew.newkso.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="Sports-খেলা",beIN Sports MENA 1
-http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+https://fifabd.site/API/69/OPLLX5/play.php?id=381329&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="Sports-খেলা",beIN Sports MENA 2
-http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+https://fifabd.site/API/69/OPLLX5/play.php?id=381331&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="Sports-খেলা",beIN Sports MENA 3
-http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+https://fifabd.site/API/69/OPLLX5/play.php?id=381333&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="Sports-খেলা",beIN Sports MENA 4
-http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
+https://fifabd.site/API/69/OPLLX5/play.php?id=381335&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-5.png" group-title="Sports-খেলা",beIN Sports MENA 5
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+https://fifabd.site/API/69/OPLLX5/play.php?id=381337&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Sports-খেলা",beIN Sports MENA 6
-http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
+https://fifabd.site/API/69/OPLLX5/play.php?id=381339&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-7.png" group-title="Sports-খেলা",beIN Sports MENA 7
-https://fifabd.site/API/69/OPLLX5/play.php?id=381341
+https://fifabd.site/API/69/OPLLX5/play.php?id=381341&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-8.png" group-title="Sports-খেলা",beIN Sports MENA 8
 https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/605.1.15
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-9.png" group-title="Sports-খেলা",beIN Sports MENA 9
-https://fifabd.site/API/69/OPLLX5/play.php?id=381345
+https://fifabd.site/API/69/OPLLX5/play.php?id=381345&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Sports-খেলা",beIN SPORTS XTRA 1
-https://fifabd.site/API/69/OPLLX5/play.php?id=381354
+https://fifabd.site/API/69/OPLLX5/play.php?id=381354&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Sports-খেলা",beIN SPORTS XTRA 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=381355
+https://fifabd.site/API/69/OPLLX5/play.php?id=381355&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 1
-https://fifabd.site/API/69/OPLLX5/play.php?id=346373
+https://fifabd.site/API/69/OPLLX5/play.php?id=346373&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=346374
+https://fifabd.site/API/69/OPLLX5/play.php?id=346374&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 3
-https://fifabd.site/API/69/OPLLX5/play.php?id=346375
+https://fifabd.site/API/69/OPLLX5/play.php?id=346375&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="Sports-খেলা",TNT Sports 4
-https://fifabd.site/API/69/OPLLX5/play.php?id=346376
+https://fifabd.site/API/69/OPLLX5/play.php?id=346376&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s" group-title="Sports-খেলা",DAZN 1 HD
-https://fifabd.site/API/69/OPLLX5/play.php?id=233072
+https://fifabd.site/API/69/OPLLX5/play.php?id=233072&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=50" group-title="Sports-খেলা",DAZN 2 HD
-https://fifabd.site/API/69/OPLLX5/play.php?id=233075
+https://fifabd.site/API/69/OPLLX5/play.php?id=233075&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8w7emNlVQ-LpTf0yHwLC_9WFvQ8dIFrmXN3UwRO-6qV8IU2vKiarY2bnV-qHLpuSoxac&usqp=CAU" group-title="Sports-খেলা",DAZN 3 HD
-https://fifabd.site/API/69/OPLLX5/play.php?id=233078
+https://fifabd.site/API/69/OPLLX5/play.php?id=233078&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="Sports-খেলা",DAZN 4 HD
-https://fifabd.site/API/69/OPLLX5/play.php?id=233080
+https://fifabd.site/API/69/OPLLX5/play.php?id=233080&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" group-title="Movie Channel" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",STAR MOVIES SELECT HD
-https://fifabd.site/API/69/OPLLX5/play.php?id=66315
+https://fifabd.site/API/69/OPLLX5/play.php?id=66315&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg" group-title="BD Channel-(বাংলা চ্যানেল)",Songsad TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus HD
-https://fifabd.site/API/69/OPLLX5/play.php?id=66166
+https://fifabd.site/API/69/OPLLX5/play.php?id=66166&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi-2" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi-2
-https://fifabd.site/API/69/OPLLX5/play.php?id=167551
+https://fifabd.site/API/69/OPLLX5/play.php?id=167551&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha SD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha SD
 http://38.96.178.201/live/STARJALSHA/index.m3u8
@@ -302,19 +302,19 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-cricket.png" group-title="Sports-খেলা",Astro Cricket
-https://fifabd.site/API/69/OPLLX5/play.php?id=167581
+https://fifabd.site/API/69/OPLLX5/play.php?id=167581&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="28" tvg-name="Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCckdFD9WKXDurBEcMp96VraBM9i4Y-invtpAba5Y2OKiRXMiBPVPCVuM&s=10" group-title="Movie Channel",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/boomerang.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Boomerang
-https://fifabd.site/API/69/OPLLX5/play.php?id=346453
+https://fifabd.site/API/69/OPLLX5/play.php?id=346453&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports-খেলা",Willow Cricket
 https://fifabangladesh.site/69/TATACC/play.php?id=2084
 
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fashion-tv.png" group-title="Others Channel",Fashion TV
-https://fifabd.site/API/69/OPLLX5/play.php?id=349947
+https://fifabd.site/API/69/OPLLX5/play.php?id=349947&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Apple Tv" tvg-logo="https://i.ibb.co/Fb2K11nS/1747278421502.png" group-title="Sports-খেলা",Apple TV
 #EXTVLCOPT:http-referrer=https://elverruca.tech/
@@ -322,6 +322,10 @@ https://fifabd.site/API/69/OPLLX5/play.php?id=349947
 #EXTVLCOPT:http-origin=https://elverruca.tech
 https://1pnfkbw1.s3.eu-west-1.amazonaws.com/hls/stream3/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png" group-title="Fancode Live", Philippines Women vs Hong Kong, China Women (Japan Women’s Sano International Trophy)
+https://filofilmes.art/fancode/global/primary/125093_english_hls_68250ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/124644_CASACARDS_APP.png" group-title="Fancode Live", Oakland Athletics vs Minnesota Twins (Major League Baseball, 2025)
+https://filofilmes.art/fancode/global/primary/124644_english_hls_28630ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Movie Channel",Sananda TV
 http://tv.bdiptv.store:80/live/restream/restreamz/15342.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
@@ -614,6 +618,3 @@ http://tv.bdiptv.store:80/live/restream/restreamz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png" group-title="Fancode Live", Philippines Women vs Hong Kong, China Women (Japan Women’s Sano International Trophy)
-https://filofilmes.art/fancode/global/primary/125093_english_hls_68250ta-di_h264/index.m3u8
