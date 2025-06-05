@@ -615,3 +615,5 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png" group-title="Fancode Live", Philippines Women vs Hong Kong, China Women (Japan Women’s Sano International Trophy)
+https://filofilmes.art/fancode/global/primary/125093_english_hls_68250ta-di_h264/index.m3u8
