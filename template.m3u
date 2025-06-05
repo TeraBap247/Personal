@@ -616,8 +616,6 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128161_5285_PAS_NAT_fc-Web.jpg" group-title="Fancode Live", Nagpur Titans vs Pagariya Strikers (Vidarbha Pro T20 League, 2025)
 https://filofilmes.art/fancode/global/primary/128161_english_hls_25474ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127333_5244_CAM-W_SIL-W_FC-Web.jpg" group-title="Fancode Live", Cameroon Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)
-https://filofilmes.art/fancode/global/primary/127333_english_hls_49523ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-2.jpg" group-title="Fancode Live", Mighty Tigers vs Rainham (ECS England, Hornchurch, 2025)
 https://filofilmes.art/fancode/global/primary/127709_english_hls_22877ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127772_5267_HCT_NNV_fc-web.jpg" group-title="Fancode Live", Heritage City Titans vs Narmada Navigators (Cricket Premier League, 2025)
@@ -629,3 +627,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Main Feed - Day 1 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128309_english_hls_53998ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KLM-Open-old.jpg" group-title="Fancode Live", Day 1 vs The International (KLM Open, 2025)
+https://filofilmes.art/fancode/global/primary/127983_english_hls_82450ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127333_5244_CAM-W_SIL-W_FC-Web.jpg" group-title="Fancode Live", Cameroon Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)
+https://filofilmes.art/fancode/global/primary/127333_english_hls_49523ta-di_h264/index.m3u8
