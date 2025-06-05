@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749284727:KeyName=prod_linear:Signature=LYYQifOqw-H-7oyniwcAda1LhyDVEQe3LKqv6YN1AzH_bbKkAPYHz0wlhk_MAc9lUflKWOpVOJhpMgM0c_bcDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749313254:KeyName=prod_linear:Signature=3FcziDJ78q3JlAfZU5rgkI_wVd2t_rw8Gij6QFFaz8DiIq7lbPdPeNyi9j-omOcWv78TZVJxIJZH_DuiURnlBQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749162327:KeyName=prod_live_mybl:Signature=yuqs0FP6qrdaknJqTImmf6tLzbpf9oKHjey2zzTSjd0jcl7YGB6rbw67yj0py8YH25-cswTa47n4BuSr5QnbBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749191412:KeyName=prod_live_mybl:Signature=MkCuflu-ehbeNH92FJHmy3ZU3oQX-kERIzMWjdM5ng9-p3sLax6I8Ohu0zY0AXrz9AyE0W58yGxDgRM0SR4hCw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -616,22 +616,24 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TNPL_2025_Old_match-card_1749114367270.jpg" group-title="Fancode Live", Lyca Kovai Kings vs Dindigul Dragons (Shriram Capital TNPL)
 https://filofilmes.art/fancode/global/primary/126528_english_hls_16578ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Boisson_v_Coco_Old_match-card_2.jpg" group-title="Fancode Live", Lois Boisson vs Coco Gauff (Roland Garros 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749181661~acl=/*~id=17036407411514471057267420807320~hmac=a2d105a29461be38d3b2b7b4a845721b8c525a1048ae6e8ab18e6dd9f4a8aff9
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Trans-Titans_old.jpg" group-title="Fancode Live", Trans Titans vs Indian Warriors (Intercontinental Legends Championship, 2025)
 https://filofilmes.art/fancode/global/primary/127459_english_hls_59932ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127773_5267_KVK_GNL_fc-web.jpg" group-title="Fancode Live", Karnavati Kings vs Gandhinagar Lions (Cricket Premier League, 2025)
 https://filofilmes.art/fancode/global/primary/127773_english_hls_1482ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg" group-title="Fancode Live", Sharks Cricket Academy vs Hornchurch (ECS England, Hornchurch, 2025)
-https://filofilmes.art/fancode/global/primary/127711_english_hls_47194ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127434_5249_AGU_NVS_fc-web.jpg" group-title="Fancode Live", Anguilla vs Nevis (Leeward Islands T20, 2025)
 https://filofilmes.art/fancode/global/primary/127434_english_hls_568ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_IND_CHI-fc-web.jpg" group-title="Fancode Live", Indonesia vs China PR (FIFA World Cup Asian Qualifiers)
-https://filofilmes.art/fancode/global/primary/127826_english_hls_81370ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125401_5188_MEC_THN_fc-web.jpg" group-title="Fancode Live", Thunder Cats vs MEC Study Group (KCC T20 Challengers A League, 3rd Edition, 2025)
+https://filofilmes.art/fancode/global/primary/125401_english_hls_68391ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_BAH_SAR_fc-web_1749094083837.jpg" group-title="Fancode Live", Bahrain vs Saudi Arabia (FIFA World Cup Asian Qualifiers)
 https://filofilmes.art/fancode/global/primary/127824_english_hls_79171ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108289_3740_UAE_UZB_fc-web.jpg" group-title="Fancode Live", United Arab Emirates vs Uzbekistan (FIFA World Cup Asian Qualifiers)
 https://filofilmes.art/fancode/global/primary/127831_english_hls_38641ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_OMN_JOR_fc-web.jpg" group-title="Fancode Live", Oman vs Jordan (FIFA World Cup Asian Qualifiers)
 https://filofilmes.art/fancode/global/primary/127829_english_hls_5131ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-2.jpg" group-title="Fancode Live", Rainham vs Hornchurch (ECS England, Hornchurch, 2025)
+https://filofilmes.art/fancode/global/primary/127712_english_hls_86452ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Main Feed - Day 1 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128309_english_hls_53998ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KLM-Open-old.jpg" group-title="Fancode Live", Day 1 vs The International (KLM Open, 2025)
@@ -642,5 +644,7 @@ https://filofilmes.art/fancode/global/primary/128312_english_hls_65114ta-di_h264
 https://filofilmes.art/fancode/global/primary/128311_english_hls_53185ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Marquee Group - Day 1 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128310_english_hls_83214ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Boisson_v_Coco_Old_match-card_2.jpg" group-title="Fancode Live", Lois Boisson vs Coco Gauff (Roland Garros 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749181661~acl=/*~id=17036407411514471057267420807320~hmac=a2d105a29461be38d3b2b7b4a845721b8c525a1048ae6e8ab18e6dd9f4a8aff9
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v3/124645_CASACARDS_APP.png" group-title="Fancode Live", Atlanta Braves vs Arizona Diamondbacks (Major League Baseball, 2025)
+https://filofilmes.art/fancode/global/primary/124645_english_hls_66498ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_IND_CHI-fc-web.jpg" group-title="Fancode Live", Indonesia vs China PR (FIFA World Cup Asian Qualifiers)
+https://filofilmes.art/fancode/global/primary/127826_english_hls_81370ta-di_h264/index.m3u8
