@@ -614,7 +614,5 @@ http://tv.bdiptv.store:80/live/restream/restreamz/89.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/124644_CASACARDS_APP.png" group-title="Fancode Live", Oakland Athletics vs Minnesota Twins (Major League Baseball, 2025)
-https://filofilmes.art/fancode/global/primary/124644_english_hls_28630ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png" group-title="Fancode Live", Day 8 vs Ahmedabad (Dream UTT Juniors)
 https://filofilmes.art/fancode/global/primary/127516_english_hls_76564ta-di_h264/index.m3u8
