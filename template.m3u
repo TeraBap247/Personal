@@ -619,6 +619,8 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 https://filofilmes.art/fancode/global/primary/127436_english_hls_82143ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127435_5249_STK_VIS_fc-web.jpg" group-title="Fancode Live", St Kitts vs Virgin Islands (Leeward Islands T20, 2025)
 https://filofilmes.art/fancode/global/primary/127435_english_hls_92245ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125402_5188_CHK_RLC_fc-web.jpg" group-title="Fancode Live", Chennai Kings CA vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)
+https://filofilmes.art/fancode/global/primary/125402_english_hls_1371ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_KUW_PAL_fc-web.jpg" group-title="Fancode Live", Kuwait vs Palestine (FIFA World Cup Asian Qualifiers)
 https://filofilmes.art/fancode/global/primary/127828_english_hls_55428ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_IRQ_KRP_fc-web.jpg" group-title="Fancode Live", Iraq vs Korea Republic (FIFA World Cup Asian Qualifiers)
@@ -627,8 +629,6 @@ https://filofilmes.art/fancode/global/primary/127827_english_hls_41878ta-di_h264
 https://filofilmes.art/fancode/global/primary/127825_english_hls_8169ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3740_QAT_IRN_fc-web.jpg" group-title="Fancode Live", Qatar vs IR Iran (FIFA World Cup Asian Qualifiers)
 https://filofilmes.art/fancode/global/primary/127830_english_hls_51002ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125402_5188_CHK_RLC_fc-web.jpg" group-title="Fancode Live", Chennai Kings CA vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)
-https://filofilmes.art/fancode/global/primary/125402_english_hls_1371ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Main Feed - Day 1 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128309_english_hls_53998ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Featured Group - Day 1 vs TPC Toronto (RBC Canadian Open)
