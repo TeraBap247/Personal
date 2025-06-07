@@ -616,7 +616,4 @@ http://tv.bdiptv.store:80/live/restream/restreamz/15246.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png" group-title="Fancode Live", Japan Women vs Philippines Women (Japan Women’s Sano International Trophy)
-https://filofilmes.art/fancode/global/primary/125097_english_hls_37957ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/128347_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)
-https://filofilmes.art/fancode/global/primary/128347_english_hls_60431ta-di_h264/index.m3u8
+
