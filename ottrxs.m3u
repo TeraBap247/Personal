@@ -620,9 +620,9 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg" group-title="Fancode Live", Anguilla vs Antigua and Barbuda (Leeward Islands T20, 2025)
-https://filofilmes.art/fancode/global/primary/127441_english_hls_6771ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", World Feed - Day 4 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128323_english_hls_13907ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/128352_CASACARDS_APP.png" group-title="Fancode Live", Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)
 https://filofilmes.art/fancode/global/primary/128352_english_hls_24114ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg" group-title="Fancode Live", Anguilla vs Antigua and Barbuda (Leeward Islands T20, 2025)
+https://filofilmes.art/fancode/global/primary/127441_english_hls_6771ta-di_h264/index.m3u8
