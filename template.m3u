@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749572423:KeyName=prod_linear:Signature=meNyZ32cxdjaPj4hk25Kgt6n3c4gniBEdy_FipZxOujfa-pVT0iRmRMosAC6Db9HlPXMNcJ3-v7kRr4SxhvFBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749586598:KeyName=prod_linear:Signature=QtQRBCtXCVRDUTHbmq9gXm7D5sZmOgSZMM1uF-EeMh_KTjXTk0AFbU5Sf2O26ce8QQj0PYjlcMNJbhBCZTTYDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749450025:KeyName=prod_live_mybl:Signature=f3QOfHlO7K9bvpCM-g8CJMx9tgFXk5-1wGPWb7g8JJ5UCyV6pzqZ1bO4uR-bf481ca7iPxnelVMeCXB2EuHkCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749464501:KeyName=prod_live_mybl:Signature=PZurfYxJ-Oen6bPt9zNy8Emufp2jq9CONOnzX7B9fl2FluMj_2FV2FYZA_7QMtSpcNst6g0HgzzrLKIYQkmEDw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -622,20 +622,14 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png" group-title="Fancode Live", West Indies A vs South Africa A (South Africa A tour of West Indies, 2025)
 https://filofilmes.art/fancode/global/primary/125768_english_hls_12674ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125407_5188_GAT_SBS_fc-web.jpg" group-title="Fancode Live", GAT vs SBS CC (KCC T20 Challengers A League, 3rd Edition, 2025)
-https://filofilmes.art/fancode/global/primary/125407_english_hls_85694ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg" group-title="Fancode Live", Anguilla vs Antigua and Barbuda (Leeward Islands T20, 2025)
 https://filofilmes.art/fancode/global/primary/127441_english_hls_6771ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-old-match-card.png" group-title="Fancode Live", Sri Lanka Emerging vs West Indies Academy (Sri Lanka Emerging tour of West Indies)
 https://filofilmes.art/fancode/global/primary/128402_english_hls_42689ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Main Feed - Day 4 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128324_english_hls_85342ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Virginia-old_1749218483901.jpg" group-title="Fancode Live", Day 3 vs Virginia (LIV Golf Virginia)
-https://mls3.fancode.com/fafb3d1b-bfc4-4fe4-8bb0-7894fa061821/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Featured Goup - Day 4 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128327_english_hls_26070ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Featured Holes - Day 4 vs TPC Toronto (RBC Canadian Open)
-https://filofilmes.art/fancode/global/primary/128326_english_hls_63597ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", Marquee Group - Day 4 vs TPC Toronto (RBC Canadian Open)
 https://filofilmes.art/fancode/global/primary/128325_english_hls_2427ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg" group-title="Fancode Live", World Feed - Day 4 vs TPC Toronto (RBC Canadian Open)
