@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749616394:KeyName=prod_linear:Signature=TmtG5rcn5fD3hBT8TPhbxIMFuph5ECwvwdWFnKTNiP06GSR2pmTL3SqJKp4iq_fpku0hix1oypUFobEOJFdqAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749646165:KeyName=prod_linear:Signature=heGdD9ur3qcmyky2gHwlKJwNubi60jSWZ79qMlEJX32Yn2sZ4tVW-bEeqMvArJIUj5iXQVkPJswkvULDIJqWAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749493547:KeyName=prod_live_mybl:Signature=Ij4wTuqqA7lDZ8vOQYCDDNfUeoYiH_5k5b1xzwrj8c1aTXbwveNQQrrWdO2bavO1I860bpU4Jfabt3rqnLoZAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749523236:KeyName=prod_live_mybl:Signature=X0_FRzZmkyBCucjNFv5ADaI_TQuabDMhphkuoeyv4vyUVmNGH2HMqgOJO58Uh3siLrwWSKVbsRbln0kBEDeQBA"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -621,8 +621,6 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128168_5285_NAH_PAS_fc-Web.jpg" group-title="Fancode Live", Nagpur Heroz vs Pagariya Strikers (Vidarbha Pro T20 League, 2025)
-https://filofilmes.art/fancode/global/primary/128168_english_hls_95703ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128186_5287_SL_KW_fc-Web.jpg" group-title="Fancode Live", Aryan Sorath Lions vs JMD Kutch Riders (Saurashtra Pro T20 League, 2025)
 https://filofilmes.art/fancode/global/primary/128186_english_hls_33641ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg" group-title="Fancode Live", Hyderabad Boys vs Chennai Challengers (Dreams Bigg T20 Championship, 2025)
