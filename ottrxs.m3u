@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749779854:KeyName=prod_linear:Signature=1Kv9zgFUNA8emk_Sykh7KvZX_Gxd73pTLFFOIErp6JYZfErPmFczINEzfoBLlGRpXtE6FFn13G0tANHs6jX4Dg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749803177:KeyName=prod_linear:Signature=QXSvDBvvoWDdADhtOQ8a_2_CEgFskIDWTZzDbdtMvmpr68gmw6U8f7whlN1t_KgOVcvm3Litgooy3ucbi4NXAQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749657087:KeyName=prod_live_mybl:Signature=uJbVKjTMXlCdn-xY4656765wH_cAj1wdCKW8CNwtb3VN094jV_kGYq8iNi68V37d0OElofh1noPXZMd4dWMfBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749680708:KeyName=prod_live_mybl:Signature=LGczH-sy6aPYje_xGsz0-E-Do3kEzLHE7s1_fzjbc-h4cNKRnHjSjuJIO6U7knaUTZKE3xadd66FRpPLoVARDQ"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -629,3 +629,5 @@ https://filofilmes.art/fancode/global/primary/127352_english_hls_87576ta-di_h264
 https://filofilmes.art/fancode/global/primary/127353_english_hls_98283ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-Europe-cup-T20iW-old.png" group-title="Fancode Live", Gibraltar Women vs Czechia Women (ECN Central Europe Cup T20IW, 2025)
 https://filofilmes.art/fancode/global/primary/128772_english_hls_16347ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg" group-title="Fancode Live", Gagan vs East Londoners (ECS England, Hornchurch, 2025)
+https://filofilmes.art/fancode/global/primary/127729_english_hls_30968ta-di_h264/index.m3u8
