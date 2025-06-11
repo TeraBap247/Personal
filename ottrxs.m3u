@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="☀️Good Afternoon👉Vip Ip Tv By Reyad Hossain🇧🇩"
+#EXTM3U billed-msg="🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
 #EXTINF:-1 tvg-id="1" tvg-name="Team RXS" tvg-logo="https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/logo.jpg" group-title="Play list By Team RXS-Join Tg @teamrxs",Team RXS
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
@@ -629,9 +629,11 @@ https://filofilmes.art/fancode/global/primary/128172_english_hls_4930ta-di_h264/
 https://filofilmes.art/fancode/global/primary/128189_english_hls_88821ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg" group-title="Fancode Live", Rajasthan Ravagers vs UP Warriors (Dreams Bigg T20 Championship, 2025)
 https://filofilmes.art/fancode/global/primary/127657_english_hls_36965ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg" group-title="Fancode Live", CFS Pinnacle Pro vs East Londoners (ECS England, Hornchurch, 2025)
-https://filofilmes.art/fancode/global/primary/127728_english_hls_11059ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127354_5244_CAM-W_BRA-W_FC-Web.jpg" group-title="Fancode Live", Brazil Women vs Cameroon Women (Kwibuka Women's T20I Tournament, 2025)
 https://filofilmes.art/fancode/global/primary/127354_english_hls_21537ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127355_5244_ZHC-W_SIL-W_FC-Web.jpg" group-title="Fancode Live", Sierra Leone Women vs Zimbabwe HPC Women (Kwibuka Women's T20I Tournament, 2025)
 https://filofilmes.art/fancode/global/primary/127355_english_hls_57206ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-Europe-cup-T20iW-old.png" group-title="Fancode Live", Austria Women vs Gibraltar Women (ECN Central Europe Cup T20IW, 2025)
+https://filofilmes.art/fancode/global/primary/128773_english_hls_68403ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg" group-title="Fancode Live", Gagan vs CFS Pinnacle Pro (ECS England, Hornchurch, 2025)
+https://filofilmes.art/fancode/global/primary/127732_english_hls_53019ta-di_h264/index.m3u8
