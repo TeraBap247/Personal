@@ -634,8 +634,6 @@ https://filofilmes.art/fancode/global/primary/128052_english_hls_88073ta-di_h264
 https://filofilmes.art/fancode/global/primary/128192_english_hls_27632ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128175_5285_NAT_BHR_fc-Web.jpg" group-title="Fancode Live", Nagpur Titans vs Bharat Rangers (Vidarbha Pro T20 League, 2025)
 https://filofilmes.art/fancode/global/primary/128175_english_hls_31523ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127358_5244_MAWW_ZHC-W_FC-Web.jpg" group-title="Fancode Live", Zimbabwe HPC Women vs Malawi Women (Kwibuka Women's T20I Tournament, 2025)
-https://filofilmes.art/fancode/global/primary/127358_english_hls_94369ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg" group-title="Fancode Live", Purvanchal Tigers vs Gujarat Lions (Dreams Bigg T20 Championship, 2025)
 https://filofilmes.art/fancode/global/primary/127660_english_hls_18106ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg" group-title="Fancode Live", Chambal Ghariyals vs Gwalior Cheetahs (Madhya Pradesh League, 2025)
@@ -647,5 +645,5 @@ https://filofilmes.art/fancode/global/primary/127781_english_hls_6750ta-di_h264/
 https://filofilmes.art/fancode/global/primary/128768_english_hls_50242ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg" group-title="Fancode Live", Hyderabad Boys vs Jharkhand Super Giants (Dreams Bigg T20 Championship, 2025)
 https://filofilmes.art/fancode/global/primary/127659_english_hls_28525ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-Europe-cup-T20iW-old.png" group-title="Fancode Live", Czechia Women vs Austria Women (ECN Central Europe Cup T20IW, 2025)
-https://filofilmes.art/fancode/global/primary/128775_english_hls_87166ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127358_5244_MAWW_ZHC-W_FC-Web.jpg" group-title="Fancode Live", Zimbabwe HPC Women vs Malawi Women (Kwibuka Women's T20I Tournament, 2025)
+https://filofilmes.art/fancode/global/primary/127358_english_hls_94369ta-di_h264/index.m3u8
