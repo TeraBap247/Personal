@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749874881:KeyName=prod_linear:Signature=6rWRimXBOvykIByxRqZHsjWVWva8APSSTHiGBkh5MYqe3VZpP8mek8k3z0f75fEXRwwkmtcHmMRHV-VQQO2xBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749905271:KeyName=prod_linear:Signature=3BrQbVvrEf3PlUCbTR3SQ-adhxGr-rKLNBGvV2s4cQ9MPpxQwQLCsedPKOwndP_HkO-6HXbk72Lo1HjPxOGVBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749752482:KeyName=prod_live_mybl:Signature=3pt89QLnem6Jp0xTkxeE2Zf-Q1R1tzTEBuxeb6DbK4MmrY11vZJqWx50AOql0uNbmhSdLhGQowmiltaW2Ts7Ag"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749782871:KeyName=prod_live_mybl:Signature=iIaIfqlVGX6wzgg-jYIEfr3NOtKELgL4vwndhvZiEo4KP1WgLZuWHEHJlfIBxAx9a-931ufwHPcMkY-lScY6Cw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -630,6 +630,8 @@ https://filofilmes.art/fancode/global/primary/128174_english_hls_45917ta-di_h264
 https://filofilmes.art/fancode/global/primary/128191_english_hls_6351ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/127243_CASACARDS_APP.png" group-title="Fancode Live", Scotland vs Netherlands (ICC CWC League 2, 2023-27)
 https://filofilmes.art/fancode/global/primary/127243_english_hls_48529ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128052_5282_AHW_SSS_fc-Web.jpg" group-title="Fancode Live", Servotech Siliguri Strikers vs Adamas Howrah Warriors (Bengal Pro T20 league, 2025)
+https://filofilmes.art/fancode/global/primary/128052_english_hls_88073ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg" group-title="Fancode Live", Hyderabad Boys vs Jharkhand Super Giants (Dreams Bigg T20 Championship, 2025)
 https://filofilmes.art/fancode/global/primary/127659_english_hls_28525ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127772_5267_HCT_NNV_fc-web.jpg" group-title="Fancode Live", Narmada Navigators vs Heritage City Titans (Cricket Premier League, 2025)
@@ -642,3 +644,7 @@ https://filofilmes.art/fancode/global/primary/127359_english_hls_58925ta-di_h264
 https://filofilmes.art/fancode/global/primary/128775_english_hls_87166ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg" group-title="Fancode Live", CFS Pinnacle Pro vs Mighty Tigers (ECS England, Hornchurch, 2025)
 https://filofilmes.art/fancode/global/primary/127735_english_hls_59812ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg" group-title="Fancode Live", Purvanchal Tigers vs Gujarat Lions (Dreams Bigg T20 Championship, 2025)
+https://filofilmes.art/fancode/global/primary/127660_english_hls_18106ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hulencourt-Womens-open-old.jpg" group-title="Fancode Live", Day 1 vs Hulencourt Golf Club (Hulencourt Women’s Open)
+https://filofilmes.art/fancode/global/primary/128768_english_hls_50242ta-di_h264/index.m3u8
