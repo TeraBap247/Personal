@@ -624,10 +624,6 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128174_5285_ORT_PAS_fc-Web.jpg" group-title="Fancode Live", Pagariya Strikers vs Orange Tigers (Vidarbha Pro T20 League, 2025)
-https://filofilmes.art/fancode/global/primary/128174_english_hls_45917ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128191_5287_ZR_HH_fc-Web.jpg" group-title="Fancode Live", Anmol Kings Halar vs Zalawad Strikers (Saurashtra Pro T20 League, 2025)
-https://filofilmes.art/fancode/global/primary/128191_english_hls_6351ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/127243_CASACARDS_APP.png" group-title="Fancode Live", Scotland vs Netherlands (ICC CWC League 2, 2023-27)
 https://filofilmes.art/fancode/global/primary/127243_english_hls_48529ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128052_5282_AHW_SSS_fc-Web.jpg" group-title="Fancode Live", Servotech Siliguri Strikers vs Adamas Howrah Warriors (Bengal Pro T20 league, 2025)
@@ -648,3 +644,5 @@ https://filofilmes.art/fancode/global/primary/127735_english_hls_59812ta-di_h264
 https://filofilmes.art/fancode/global/primary/127660_english_hls_18106ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hulencourt-Womens-open-old.jpg" group-title="Fancode Live", Day 1 vs Hulencourt Golf Club (Hulencourt Women’s Open)
 https://filofilmes.art/fancode/global/primary/128768_english_hls_50242ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128174_5285_ORT_PAS_fc-Web.jpg" group-title="Fancode Live", Pagariya Strikers vs Orange Tigers (Vidarbha Pro T20 League, 2025)
+https://filofilmes.art/fancode/global/primary/128174_english_hls_45917ta-di_h264/index.m3u8
