@@ -624,3 +624,7 @@ http://tv.bdiptv.store:80/live/restream/restreamz/88.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cambodia-tour-of-Indonesia-old.jpg" group-title="Fancode Live", Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)
+https://filofilmes.art/fancode/global/primary/128302_english_hls_3957ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/128357_CASACARDS_APP.png" group-title="Fancode Live", Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)
+https://filofilmes.art/fancode/global/primary/128357_english_hls_3586ta-di_h264/index.m3u8
