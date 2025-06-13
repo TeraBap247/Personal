@@ -109,12 +109,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749991504:KeyName=prod_linear:Signature=8swZ4OK632afVmPRDVCi_rzZtNRD0s50DN9kNXySc0P82p4qsVIIM9kprEYsyxtpEIarQnSuGb3NfM9nefpDCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750018611:KeyName=prod_linear:Signature=E-YTOpYeuxl4mjk-buQX_iL_BhR1wRDNTK3RQ7cK8Hmh-l1fPpbXxzlsHcgvzYjBsVNo2V4QAUENTDqSGHlSCQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749869184:KeyName=prod_live_mybl:Signature=DOvL55C8HNYh9RYUqAuFXxz2UNaVq5g0YRFkypm5ZdD5Npm1Q6hhPVMjTTMLA5jtCWkudgaONXkIP_-4pcgGCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749896211:KeyName=prod_live_mybl:Signature=ey_u0hoVlT398bssv16aUEaa0JI7cKpG12PlD-j5-0nw7-yZI1tkwpdCLeoYvh8UfF0tkoPpIYfjp4npG29kDw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
