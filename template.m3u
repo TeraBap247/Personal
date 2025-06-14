@@ -724,10 +724,10 @@ http://stvlive.net:8080/starselect2/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://stvlive.net:8080/starselect1/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128194_5287_GG_SL_fc-Web.jpg" group-title="Fancode Live", Aryan Sorath Lions vs Dita Gohilwad Titans (Saurashtra Pro T20 League, 2025)
-https://tv.falconcastapp.online/fancode/global/primary/128194_english_hls_31206ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128056_5282_SSS_RMW_fc-Web.jpg" group-title="Fancode Live", Servotech Siliguri Strikers vs Rashmi Medinipur Wizards (Bengal Pro T20 league, 2025)
 https://tv.falconcastapp.online/fancode/global/primary/128056_english_hls_97908ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Madurai_Old_match_card.jpg" group-title="Fancode Live", Siechem Madurai Panthers vs Dindigul Dragons (Shriram Capital TNPL)
+https://tv.falconcastapp.online/fancode/global/primary/126538_english_hls_29357ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128437_5300_RW_GC_fc-web.jpg" group-title="Fancode Live", Rewa Jaguars vs Gwalior Cheetahs (Madhya Pradesh League, 2025)
 https://tv.falconcastapp.online/fancode/global/primary/128437_english_hls_84105ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127342_5244_ZHC-W_TANW_FC-Web.jpg" group-title="Fancode Live", Tanzania Women vs Zimbabwe HPC Women (Kwibuka Women's T20I Tournament, 2025)
@@ -736,9 +736,9 @@ https://tv.falconcastapp.online/fancode/global/primary/127363_english_hls_90910t
 https://tv.falconcastapp.online/fancode/global/primary/128341_english_hls_31841ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128850_5327_CZE-W_GIB-W_fc-web.jpg" group-title="Fancode Live", Czechia Women vs Gibraltar Women (ECI-W Czechia, 2025)
 https://tv.falconcastapp.online/fancode/global/primary/128850_english_hls_73040ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hulencourt-Womens-open-old.jpg" group-title="Fancode Live", Day 3 vs Hulencourt Golf Club (Hulencourt Women’s Open)
-https://tv.falconcastapp.online/fancode/global/primary/128770_english_hls_9184ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png" group-title="Fancode Live", Session 4 - Race Off vs Dubrovnik (E1 Dubrovnik GP)
-https://tv.falconcastapp.online/fancode/global/primary/128861_english_hls_47872ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128849_5327_GIB-W_CRO-W_fc-web.jpg" group-title="Fancode Live", Gibraltar Women vs Croatia Women (ECI-W Czechia, 2025)
-https://tv.falconcastapp.online/fancode/global/primary/128849_english_hls_55355ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg" group-title="Fancode Live", Karnavati Kings vs Heritage City Titans (Cricket Premier League, 2025)
+https://tv.falconcastapp.online/fancode/global/primary/127782_english_hls_63123ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg" group-title="Fancode Live", First Race vs Montreal (F1 ACADEMY CANADA 2025)
+https://tv.falconcastapp.online/fancode/global/primary/119126_english_hls_24092adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128194_5287_GG_SL_fc-Web.jpg" group-title="Fancode Live", Aryan Sorath Lions vs Dita Gohilwad Titans (Saurashtra Pro T20 League, 2025)
+https://tv.falconcastapp.online/fancode/global/primary/128194_english_hls_31206ta-di_h264/index.m3u8
