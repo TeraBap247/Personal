@@ -104,7 +104,7 @@ update_channels(channel_list)
 def update_fancode():
     def hash_list(lines): return hashlib.md5("\n".join(lines).encode()).hexdigest()
 
-    fancode_url = "https://filofilmes.art/fancode/playlist/playlist.m3u"
+    fancode_url = "https://tv.falconcastapp.online/fancode/playlist/playlist.m3u"
     fancode_data = requests.get(fancode_url).text
     fancode_lines = []
 
