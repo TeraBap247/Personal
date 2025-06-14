@@ -100,6 +100,8 @@ https://fifabangladesh.site/69/TATACC/play.php?id=2529
 https://fifabangladesh.site/69/TATACC/play.php?id=16939
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network English" tvg-logo="https://s3.aynaott.com/storage/1b957053dfb78669ba988aa04c8ca7f7" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network English
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750018611:KeyName=prod_linear:Signature=E-YTOpYeuxl4mjk-buQX_iL_BhR1wRDNTK3RQ7cK8Hmh-l1fPpbXxzlsHcgvzYjBsVNo2V4QAUENTDqSGHlSCQ"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -569,14 +571,22 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
 https://fifabd.site/API/69/OPLLX5/play.php?id=34011&|User-Agent=RANAPK
 
-#EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network Hindi
-https://newsprotalhub.xyz/tipyop/live.m3u8?id=8be5ec5d5d7c&e=.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750018611:KeyName=prod_linear:Signature=E-YTOpYeuxl4mjk-buQX_iL_BhR1wRDNTK3RQ7cK8Hmh-l1fPpbXxzlsHcgvzYjBsVNo2V4QAUENTDqSGHlSCQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="68" tvg-name="Pogo Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo Hindi
-https://fifabd.site/API/69/OPLLX5/play.php?id=150483&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750018611:KeyName=prod_linear:Signature=E-YTOpYeuxl4mjk-buQX_iL_BhR1wRDNTK3RQ7cK8Hmh-l1fPpbXxzlsHcgvzYjBsVNo2V4QAUENTDqSGHlSCQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750018611:KeyName=prod_linear:Signature=E-YTOpYeuxl4mjk-buQX_iL_BhR1wRDNTK3RQ7cK8Hmh-l1fPpbXxzlsHcgvzYjBsVNo2V4QAUENTDqSGHlSCQ"}
 
-#EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids 2
-https://fifabd.site/API/69/OPLLX5/play.php?id=76723&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750018611:KeyName=prod_linear:Signature=E-YTOpYeuxl4mjk-buQX_iL_BhR1wRDNTK3RQ7cK8Hmh-l1fPpbXxzlsHcgvzYjBsVNo2V4QAUENTDqSGHlSCQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
