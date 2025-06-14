@@ -101,7 +101,7 @@ https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=16939
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network English" tvg-logo="https://s3.aynaott.com/storage/1b957053dfb78669ba988aa04c8ca7f7" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network English
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750047609:KeyName=prod_linear:Signature=wnICZCVh_brnt6ZZ5FgGgika8XGTvnTcmLHVAW3JzEtIdqLCOFXWDBCSrSXElgEVfzbJlGcLpIDe-YRM20cXCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -111,12 +111,12 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750047609:KeyName=prod_linear:Signature=wnICZCVh_brnt6ZZ5FgGgika8XGTvnTcmLHVAW3JzEtIdqLCOFXWDBCSrSXElgEVfzbJlGcLpIDe-YRM20cXCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749925626:KeyName=prod_live_mybl:Signature=sUqoJfqp_65_CtgAC2W6hp8kkGPwl_CThEVuHJzK0xyVLWVAivWW1H4ehvs5Ln5J2PkwUX0Ax-USkdMIZju6Cw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1749955395:KeyName=prod_live_mybl:Signature=o7dyccEItiHmWHjMl3ZyhvL_lk9EggNHOz0gBfaV0T0xTocov2xSfhX6vyhGFaEjdmhH0rKIVS1L8xobRK47Bw"}
 https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
@@ -269,12 +269,16 @@ https://fifabd.site/OPLLX9/play.php?id=346376&|User-Agent=RANAPK
 https://fifabd.site/OPLLX9/play.php?id=233072&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=50" group-title="Sports-খেলা",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://fifabd.site/OPLLX9/play.php?id=233075&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8w7emNlVQ-LpTf0yHwLC_9WFvQ8dIFrmXN3UwRO-6qV8IU2vKiarY2bnV-qHLpuSoxac&usqp=CAU" group-title="Sports-খেলা",DAZN 3 HD
 https://fifabd.site/OPLLX9/play.php?id=233078&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="Sports-খেলা",DAZN 4 HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://fifabd.site/OPLLX9/play.php?id=233080&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" group-title="Movie Channel" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",STAR MOVIES SELECT HD
@@ -518,31 +522,47 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://fifabd.site/OPLLX9/play.php?id=66203&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="129" tvg-name="Investigation Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/investigation-discovery.png" group-title="Others Channel",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://fifabd.site/OPLLX9/play.php?id=206291&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=1076
 
-#EXTINF:-1 tvg-id="125" tvg-name="TLC Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC Hindi
-https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=696
+#EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-name="Travelxp HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png" group-title="Others Channel",Travelxp HD Hindi
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="121" tvg-name="Discovery Channel Bengali" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="Others Channel",Discovery Channel Bengali
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 http://stvlive.net:8080/discovery/index.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 
 #EXTINF:-1 tvg-id="120" tvg-name="Discovery Science" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-science.png" group-title="Others Channel",Discovery Science
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://fifabd.site/OPLLX9/play.php?id=206289&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="119" tvg-name="Discovery Turbo" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-turbo.png" group-title="Others Channel",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://fifabd.site/OPLLX9/play.php?id=346238&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="118" tvg-name="Animal Planet HD World" tvg-logo="https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png" group-title="Others Channel",Animal Planet HD World
 https://fifabd.site/OPLLX9/play.php?id=206283&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
-https://fifabd.site/OPLLX9/play.php?id=381095&|User-Agent=RANAPK
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
 http://stvlive.net:8080/starplus/index.m3u8
@@ -573,20 +593,22 @@ https://fifabd.site/OPLLX9/play.php?id=34011&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750047609:KeyName=prod_linear:Signature=wnICZCVh_brnt6ZZ5FgGgika8XGTvnTcmLHVAW3JzEtIdqLCOFXWDBCSrSXElgEVfzbJlGcLpIDe-YRM20cXCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750047609:KeyName=prod_linear:Signature=wnICZCVh_brnt6ZZ5FgGgika8XGTvnTcmLHVAW3JzEtIdqLCOFXWDBCSrSXElgEVfzbJlGcLpIDe-YRM20cXCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750047609:KeyName=prod_linear:Signature=wnICZCVh_brnt6ZZ5FgGgika8XGTvnTcmLHVAW3JzEtIdqLCOFXWDBCSrSXElgEVfzbJlGcLpIDe-YRM20cXCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 
 #EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750047609:KeyName=prod_linear:Signature=wnICZCVh_brnt6ZZ5FgGgika8XGTvnTcmLHVAW3JzEtIdqLCOFXWDBCSrSXElgEVfzbJlGcLpIDe-YRM20cXCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750077795:KeyName=prod_linear:Signature=EZqvzwfUzn5i_BSYksQLeGHelFwCMrzRF0SV6Jtm8tNcPkxBwvIJTb0Jed5aVkVW390o1RjOsXSFogsRdSyOCA"}
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
