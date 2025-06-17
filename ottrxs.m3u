@@ -689,14 +689,14 @@ http://stvlive.net:8080/starselect2/index.m3u8
 http://stvlive.net:8080/starselect1/index.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
-http://tv.bdiptv.store:80/live/restream/restreamz/238.m3u8
+http://tv.bdiptv.store:80/live/restream/restreamkk/238.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="RAJDHANI TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",RAJDHANI TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Nexus TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&format=.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
-http://tv.bdiptv.store:80/live/restream/restreamz/96.m3u8
+http://tv.bdiptv.store:80/live/restream/restreamkk/96.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
-http://tv.bdiptv.store:80/live/restream/restreamz/241.m3u8
+http://tv.bdiptv.store:80/live/restream/restreamkk/241.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
-http://tv.bdiptv.store:80/live/restream/restreamz/152.m3u8
+http://tv.bdiptv.store:80/live/restream/restreamkk/152.m3u8
