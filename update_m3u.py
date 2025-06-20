@@ -57,7 +57,7 @@ def safe_run(section_name, func):
 
 # --- Step 1: Cartoon Network HD Header Update ---
 def update_channels(channel_names):
-    source_url = "https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u"
+    source_url = "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u"
     response = requests.get(source_url)
     source_data = response.text
 
