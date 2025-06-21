@@ -38,7 +38,7 @@ ignore_names = {
         "cartoon network", "pogo", "discovery kids", "tara tv", "bangla plus", "mon tv bangla", "aamar digital",
         "aamar bangla channel", "enterr10 bangla", "star gold romance", "star gold select",
         "star gold", "star bharat", "hum tv", "dangal 2", "goldmines movies", "goldmines bollywood", "goldmines",
-        "mtv india", "sony max2", "and pictures hd", "b4u movies", "shemaroo tv", "rishtey", "and tv hd",
+        "mtv india", "sony max2", "and pictures hd", "b4u movies", "shemaroo tv", "rishtey",
         "sony hd (set hd)", "dangal", "colors hd", "zee tv hd", "tyc sports argentina", "ten sports", "a sports",
         "t sports", "red bull tv", "eurosport", "fox sports 2", "star sports 2 hd", "star sports 1 hd",
         "star sport select 2", "star sport select 1", "zee anmol cinema 2",
