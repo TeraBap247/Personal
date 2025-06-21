@@ -44,7 +44,7 @@ ignore_names = {
         "star sport select 2", "star sport select 1", "zee anmol cinema 2",
         "colors cineplex superhit", "channel a1", "nagorik tv", "news18 bangla news", "tlc hindi",
         "ott bangla live tv", "travelxp bangla", "sony pal", "psl", "tata ipl t sports", "tata ipl 2025",
-        "sony yay bangla", "gubbare tv", "disney hindi", "cartoon network hindi", "pogo hindi", "bein sports", "sony aath", "sony sab", "zee cinema", "sony max",
+        "gubbare tv", "disney hindi", "cartoon network hindi", "pogo hindi", "bein sports", "sony aath", "sony sab", "zee cinema", "sony max",
         "discovery kids 2", "and prive hd", "shemaroo umang", "espn"
     ]
 }
