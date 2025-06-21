@@ -683,10 +683,16 @@ http://stvlive.net:8080/starselect1/index.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkk/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restream/restreamkk/238.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
+https://hughag.store/hiji/vstream.m3u8?id=72a0803cf563&e=.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="Movie Channel",Zee Bollywood
+https://hughag.store/hiji/vstream.m3u8?id=2ea95a9da2d7&e=.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="RAJDHANI TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",RAJDHANI TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Nexus TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&format=.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
+https://hughag.store/hiji/vstream.m3u8?id=4effcf0f2452&e=.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 http://tv.bdiptv.store:80/live/restream/restreamkk/15337.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
@@ -699,5 +705,9 @@ http://tv.bdiptv.store:80/live/restream/restreamkk/96.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkk/241.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
 http://tv.bdiptv.store:80/live/restream/restreamkk/152.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Cafe HD
+https://hughag.store/hiji/vstream.m3u8?id=c65460ba0d73&e=.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Zee Anmol" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Anmol
+https://hughag.store/hiji/vstream.m3u8?id=dc488b1502f5&e=.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
-http://tv.bdiptv.store:80/live/restream/restreamkk/15341.m3u8
+https://hughag.store/hiji/vstream.m3u8?id=acb5ffc3704a&e=.m3u8
