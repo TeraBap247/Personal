@@ -325,8 +325,6 @@ https://fifabd.site/API/69/OPLLX5/play.php?id=66187&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="189" tvg-name="Star Gold Thrills" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold-thrills.png" group-title="Movie Channel",Star Gold Thrills
 https://fifabd.site/API/69/OPLLX5/play.php?id=221258&|User-Agent=RANAPK
 
-#EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
-https://fifabd.site/API/69/OPLLX5/play.php?id=66213&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="Movie Channel",Zee Cinema HD
 https://fifabd.site/API/69/OPLLX5/play.php?id=206307&|User-Agent=RANAPK
@@ -505,8 +503,6 @@ https://fifabd.site/API/69/OPLLX5/play.php?id=66203&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="129" tvg-name="Investigation Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/investigation-discovery.png" group-title="Others Channel",Investigation Discovery
 https://fifabd.site/API/69/OPLLX5/play.php?id=206291&|User-Agent=RANAPK
 
-#EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
-https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=1076
 
 #EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -637,8 +633,6 @@ https://fifabd.site/API/69/OPLLX5/play.php?id=355809&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="10" tvg-name="Rishtey" tvg-logo="https://otapp.store/uploads/tv_image/sm/rishtey.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Rishtey
 https://fifabd.site/API/69/OPLLX5/play.php?id=66188&|User-Agent=RANAPK
 
-#EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
-https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=11626
 
 #EXTINF:-1 tvg-id="5" tvg-name="Sony HD (SET HD)" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony HD (SET HD)
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -685,12 +679,18 @@ http://stvlive.net:8080/starselect2/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://stvlive.net:8080/starselect1/index.m3u8
 
+#EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
+http://tv.bdiptv.store:80/live/restream/restreamkk/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restream/restreamkk/238.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="RAJDHANI TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",RAJDHANI TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Nexus TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&format=.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
+http://tv.bdiptv.store:80/live/restream/restreamkk/15337.m3u8
+#EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
+https://hughag.store/tipyop/live.m3u8?id=57bd9c2493c1&e=.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
 http://tv.bdiptv.store:80/live/restream/restreamkk/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
@@ -699,3 +699,5 @@ http://tv.bdiptv.store:80/live/restream/restreamkk/96.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkk/241.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
 http://tv.bdiptv.store:80/live/restream/restreamkk/152.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
+http://tv.bdiptv.store:80/live/restream/restreamkk/15341.m3u8
