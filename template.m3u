@@ -106,7 +106,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750803600:KeyName=prod_linear:Signature=LzHQbXZftwpxqKzQTGP4Vt8ArzMolHSA7qFqwD4xz8MCG0_eDkmTwqJrrXD_-Z62WmUm1OB8bex8ybrswFYKCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750807233:KeyName=prod_linear:Signature=W6TKMRnF0owE0i0IT82Y_jCxhskINcF2jb6zYFuUcBzDdIzOR0ygOJeNwehNHN7M7-Ahkt-z_dQaktKodDWSCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
@@ -506,7 +506,7 @@ https://fifabd.site/OPLLX5/play.php?id=206291&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750803600:KeyName=prod_linear:Signature=LzHQbXZftwpxqKzQTGP4Vt8ArzMolHSA7qFqwD4xz8MCG0_eDkmTwqJrrXD_-Z62WmUm1OB8bex8ybrswFYKCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750807233:KeyName=prod_linear:Signature=W6TKMRnF0owE0i0IT82Y_jCxhskINcF2jb6zYFuUcBzDdIzOR0ygOJeNwehNHN7M7-Ahkt-z_dQaktKodDWSCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-name="Travelxp HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png" group-title="Others Channel",Travelxp HD Hindi
@@ -526,7 +526,7 @@ https://fifabd.site/OPLLX5/play.php?id=206283&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750803600:KeyName=prod_linear:Signature=LzHQbXZftwpxqKzQTGP4Vt8ArzMolHSA7qFqwD4xz8MCG0_eDkmTwqJrrXD_-Z62WmUm1OB8bex8ybrswFYKCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750807233:KeyName=prod_linear:Signature=W6TKMRnF0owE0i0IT82Y_jCxhskINcF2jb6zYFuUcBzDdIzOR0ygOJeNwehNHN7M7-Ahkt-z_dQaktKodDWSCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
@@ -556,17 +556,17 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750803600:KeyName=prod_linear:Signature=LzHQbXZftwpxqKzQTGP4Vt8ArzMolHSA7qFqwD4xz8MCG0_eDkmTwqJrrXD_-Z62WmUm1OB8bex8ybrswFYKCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750807233:KeyName=prod_linear:Signature=W6TKMRnF0owE0i0IT82Y_jCxhskINcF2jb6zYFuUcBzDdIzOR0ygOJeNwehNHN7M7-Ahkt-z_dQaktKodDWSCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750803600:KeyName=prod_linear:Signature=LzHQbXZftwpxqKzQTGP4Vt8ArzMolHSA7qFqwD4xz8MCG0_eDkmTwqJrrXD_-Z62WmUm1OB8bex8ybrswFYKCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750807233:KeyName=prod_linear:Signature=W6TKMRnF0owE0i0IT82Y_jCxhskINcF2jb6zYFuUcBzDdIzOR0ygOJeNwehNHN7M7-Ahkt-z_dQaktKodDWSCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750803600:KeyName=prod_linear:Signature=LzHQbXZftwpxqKzQTGP4Vt8ArzMolHSA7qFqwD4xz8MCG0_eDkmTwqJrrXD_-Z62WmUm1OB8bex8ybrswFYKCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750807233:KeyName=prod_linear:Signature=W6TKMRnF0owE0i0IT82Y_jCxhskINcF2jb6zYFuUcBzDdIzOR0ygOJeNwehNHN7M7-Ahkt-z_dQaktKodDWSCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
