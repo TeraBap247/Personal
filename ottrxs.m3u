@@ -699,6 +699,8 @@ https://hughag.store/hiji/vstream.m3u8?id=4effcf0f2452&e=.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkk/15337.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
 https://hughag.store/hiji/vstream.m3u8?id=93bd384e76a9&e=.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
+http://tv.bdiptv.store:80/live/restream/restreamkk/30779.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
 http://tv.bdiptv.store:80/live/restream/restreamkk/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
