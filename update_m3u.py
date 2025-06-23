@@ -34,7 +34,7 @@ ignore_names = {
         "sangeet bangla", "zoom", "mastiii", "9xm", "music india", "b4u music", "investigation discovery",
         "tlc hd", "travelxp hd hindi", "discovery channel bengali", "discovery science",
         "discovery turbo", "animal planet hd world", "discovery", "star plus", "jalsha movies hd", "star jalsha hd",
-        "sun bangla", "colors bangla", "zee bangla hd", "super hungama tv", "rongeen tv",
+        "colors bangla", "zee bangla hd", "super hungama tv", "rongeen tv",
         "cartoon network", "pogo", "discovery kids", "tara tv", "bangla plus", "mon tv bangla", "aamar digital",
         "aamar bangla channel", "enterr10 bangla", "star gold romance", "star gold select",
         "star gold", "star bharat", "hum tv", "dangal 2", "goldmines movies", "goldmines bollywood", "goldmines",
