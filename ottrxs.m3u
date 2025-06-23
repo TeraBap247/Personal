@@ -542,7 +542,7 @@ http://stvlive.net:8080/starjalsha/index.m3u8
 https://fifabd.site/OPLLX5/play.php?id=245906&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
-https://fifabd.site/OPLLX5/play.php?id=245895&|User-Agent=RANAPK
+http://stvlive.net:8080/colorsbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
 https://fifabd.site/OPLLX5/play.php?id=245893&|User-Agent=RANAPK
