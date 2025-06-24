@@ -678,6 +678,9 @@ http://stvlive.net:8080/starselect2/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
 http://stvlive.net:8080/starselect1/index.m3u8
 
+#EXTINF:-1 tvg-id="187" tvg-name="Star Movies 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies 2
+https://fifabd.site/OPLLX5/play.php?id=66213&|User-Agent=RANAPK
+
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restream/restreamkk/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
