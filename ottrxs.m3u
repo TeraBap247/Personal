@@ -109,10 +109,11 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750893511:KeyName=prod_linear:Signature=UCFBP-nprWNnOYx-hGbNQWx371zf_HZ6hPO_LyTgzMMwRVK7j7vV1bo_9aIkPvoJVWGYeLF2XliCky_VwAFACQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png",PSL VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750175633:KeyName=prod_live_mybl:Signature=C18IZc8cQpZF5R4txewHs5fC5oVunz6Yfz6wagkaof4StRDQ_hEg9YQjDaaIkrjAeDLqzdNxOm5eYEPZksBRAw"}
-https://myblmprod-cdn.toffeelive.com/live/match-2/index.m3u8
+#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s",DAZN 1 HD
+https://bdd78.4rouwanda-shop.store/live/lb2/bs6-multi.m3u8
+
+#EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=50",DAZN 2 HD
+https://bdd78.4rouwanda-shop.store/live/lb2/bs66-multi.m3u8
 
 #EXTINF:-1 tvg-id="cn-pak" tvg-name="CN-PAK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",CN-PAK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
