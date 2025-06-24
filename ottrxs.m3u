@@ -87,14 +87,15 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="3610",Nick Pluto TV
 https://jmp2.uk/sam-USBA3000158L.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXDMarathon" tvg-name="Disney XD Marathon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD Marathon
+#EXTINF:-1 tvg-id="DisneyXDMarathon" tvg-name="Disney XD Marathon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD Marathon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD
-https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=2529
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD
+https://fifabd.site/OPLLX5/play.php?id=346466&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="https://s3.aynaott.com/storage/c13a34a82616b5b23008e70913608b76" group-title="Kids-(বাচ্চাদের চ্যানেল)",Mr Bean
-https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=16939
+https://fifabd.site/OPLLX5/play.php?id=301501&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network English" tvg-logo="https://s3.aynaott.com/storage/1b957053dfb78669ba988aa04c8ca7f7" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -306,7 +307,7 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 https://fifabd.site/OPLLX5/play.php?id=346453&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="Sports-খেলা",Willow Cricket
-https://fifabangladesh.site/TG@RANAPKX73/TATACCx/play.php?id=2084
+https://fifabd.site/OPLLX5/play.php?id=347333&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fashion-tv.png" group-title="Others Channel",Fashion TV
 https://fifabd.site/OPLLX5/play.php?id=349947&|User-Agent=RANAPK

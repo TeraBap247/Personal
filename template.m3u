@@ -107,7 +107,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750861411:KeyName=prod_linear:Signature=bzs2wt7TwKIvTNhWoxcCbqzqDeFW8yrvsjMmTm0pmgxUeyx4uV7ARH9PhmrySu3o7qUTLAnDIL-KDWplR7UwBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750912308:KeyName=prod_linear:Signature=xRnVvLS238q4BvsLlQjWmx-iYn5Ptyikggf2HopQHfCFAMs2V2DWFM1WOsEdWd6yFWtS_20UXhWDzbYgdkW5CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s",DAZN 1 HD
@@ -508,7 +508,7 @@ https://fifabd.site/OPLLX5/play.php?id=206291&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750861411:KeyName=prod_linear:Signature=bzs2wt7TwKIvTNhWoxcCbqzqDeFW8yrvsjMmTm0pmgxUeyx4uV7ARH9PhmrySu3o7qUTLAnDIL-KDWplR7UwBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750912308:KeyName=prod_linear:Signature=xRnVvLS238q4BvsLlQjWmx-iYn5Ptyikggf2HopQHfCFAMs2V2DWFM1WOsEdWd6yFWtS_20UXhWDzbYgdkW5CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-name="Travelxp HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png" group-title="Others Channel",Travelxp HD Hindi
@@ -528,7 +528,7 @@ https://fifabd.site/OPLLX5/play.php?id=206283&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750861411:KeyName=prod_linear:Signature=bzs2wt7TwKIvTNhWoxcCbqzqDeFW8yrvsjMmTm0pmgxUeyx4uV7ARH9PhmrySu3o7qUTLAnDIL-KDWplR7UwBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750912308:KeyName=prod_linear:Signature=xRnVvLS238q4BvsLlQjWmx-iYn5Ptyikggf2HopQHfCFAMs2V2DWFM1WOsEdWd6yFWtS_20UXhWDzbYgdkW5CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
@@ -540,8 +540,6 @@ http://stvlive.net:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 https://fifabd.site/OPLLX5/play.php?id=245898&|User-Agent=RANAPK
 
-#EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
-https://fifabd.site/OPLLX5/play.php?id=245906&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://stvlive.net:8080/colorsbangla/index.m3u8
@@ -558,17 +556,17 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750861411:KeyName=prod_linear:Signature=bzs2wt7TwKIvTNhWoxcCbqzqDeFW8yrvsjMmTm0pmgxUeyx4uV7ARH9PhmrySu3o7qUTLAnDIL-KDWplR7UwBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750912308:KeyName=prod_linear:Signature=xRnVvLS238q4BvsLlQjWmx-iYn5Ptyikggf2HopQHfCFAMs2V2DWFM1WOsEdWd6yFWtS_20UXhWDzbYgdkW5CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750861411:KeyName=prod_linear:Signature=bzs2wt7TwKIvTNhWoxcCbqzqDeFW8yrvsjMmTm0pmgxUeyx4uV7ARH9PhmrySu3o7qUTLAnDIL-KDWplR7UwBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750912308:KeyName=prod_linear:Signature=xRnVvLS238q4BvsLlQjWmx-iYn5Ptyikggf2HopQHfCFAMs2V2DWFM1WOsEdWd6yFWtS_20UXhWDzbYgdkW5CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750861411:KeyName=prod_linear:Signature=bzs2wt7TwKIvTNhWoxcCbqzqDeFW8yrvsjMmTm0pmgxUeyx4uV7ARH9PhmrySu3o7qUTLAnDIL-KDWplR7UwBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750912308:KeyName=prod_linear:Signature=xRnVvLS238q4BvsLlQjWmx-iYn5Ptyikggf2HopQHfCFAMs2V2DWFM1WOsEdWd6yFWtS_20UXhWDzbYgdkW5CA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
@@ -702,8 +700,12 @@ https://hughag.store/bajimath/vstream.m3u8?id=e64e1c11-1167-43a1-9e0f-995cbf6f7f
 https://hughag.store/hiji/vstream.m3u8?id=4effcf0f2452&e=.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 http://tv.bdiptv.store:80/live/restream/restreamkk/15337.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
+http://tv.bdiptv.store:80/live/restream/restreamkk/143.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
 https://hughag.store/hiji/vstream.m3u8?id=93bd384e76a9&e=.m3u8
+#EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
+http://tv.bdiptv.store:80/live/restream/restreamkk/71.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
 http://tv.bdiptv.store:80/live/restream/restreamkk/30779.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
