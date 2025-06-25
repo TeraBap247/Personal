@@ -24,7 +24,7 @@ ignore_names = {
         "tnt sports 3", "tnt sports 4", "tnt brazil", "dazn 1 hd", "dazn 2 hd", "dazn 3 hd", "dazn 4 hd",
         "star movies select hd", "songsad tv", "star plus hd", "star jalsha sd", "wb tv", "fight tv premium",
         "movies action", "join tg @teamrxs", "sananda tv", "zee anmol cinema", "star gold thrills",
-        "zee cinema hd", "zee bangla cinema", "colors cineplex bollywood", "colors cineplex hd",
+        "zee cinema hd", "colors cineplex bollywood", "colors cineplex hd",
         "sony wah", "colors infinity hd", "biswa bangla 24", "alpona tv", "deshi tv", "deshe bideshe",
         "channel 52 usa", "matri bhumi", "movie plus", "magic bangla tv", "btv world", "nan tv", "s tv bangla",
         "rajdahni tv", "deepto tv", "channel s bd", "rtv", "movie bangla", "ekhon tv", "global tv", "ananda tv", "bangla tv", "sa tv", "asian tv", "bijoy tv", "mohona tv", "my tv", "desh tv", "maasranga tv",
