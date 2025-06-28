@@ -109,7 +109,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751290184:KeyName=prod_linear:Signature=RGoUvwmCbghovCkxAp6k_iRE3Hg7MWHOD1mc-a5T0VR8qPSgxgCEXpWKznLdK0Q8wAfLsMGJGlAD08v1KsG5AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751293189:KeyName=prod_linear:Signature=vB6C4KKEY3jMTZkHuDAEigDl5GDT0ngNzd_-gwrOafvQUBKdAUZQCX6L5aTqMVbTfFgAF30bBPZyp9s-bGH5AQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s",DAZN 1 HD
@@ -425,13 +425,13 @@ https://mytvbangla.com/0.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Maasranga TV
-http://stvlive.net:8080/maasranga/index.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-name="Boishakhi TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Boishakhi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="145" tvg-name="NTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ntv.png" group-title="BD Channel-(বাংলা চ্যানেল)",NTV
-http://stvlive.net:8080/ntv/index.m3u8
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-name="Ekushey TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekushey-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -508,14 +508,14 @@ https://fifabd.site/OPLLX5/play.php?id=206291&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751290184:KeyName=prod_linear:Signature=RGoUvwmCbghovCkxAp6k_iRE3Hg7MWHOD1mc-a5T0VR8qPSgxgCEXpWKznLdK0Q8wAfLsMGJGlAD08v1KsG5AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751293189:KeyName=prod_linear:Signature=vB6C4KKEY3jMTZkHuDAEigDl5GDT0ngNzd_-gwrOafvQUBKdAUZQCX6L5aTqMVbTfFgAF30bBPZyp9s-bGH5AQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-name="Travelxp HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png" group-title="Others Channel",Travelxp HD Hindi
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="121" tvg-name="Discovery Channel Bengali" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="Others Channel",Discovery Channel Bengali
-http://stvlive.net:8080/discovery/index.m3u8
+https://fifabd.site/OPLLX5/play.php?id=109974&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="120" tvg-name="Discovery Science" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-science.png" group-title="Others Channel",Discovery Science
 https://fifabd.site/OPLLX5/play.php?id=206289&|User-Agent=RANAPK
@@ -528,21 +528,21 @@ https://fifabd.site/OPLLX5/play.php?id=206283&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751290184:KeyName=prod_linear:Signature=RGoUvwmCbghovCkxAp6k_iRE3Hg7MWHOD1mc-a5T0VR8qPSgxgCEXpWKznLdK0Q8wAfLsMGJGlAD08v1KsG5AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751293189:KeyName=prod_linear:Signature=vB6C4KKEY3jMTZkHuDAEigDl5GDT0ngNzd_-gwrOafvQUBKdAUZQCX6L5aTqMVbTfFgAF30bBPZyp9s-bGH5AQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
-http://stvlive.net:8080/starplus/index.m3u8
+http://38.96.178.201/live/StarPlus/index.m3u8
 
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
-http://stvlive.net:8080/jalshamovies/index.m3u8
+https://fifabd.site/OPLLX5/play.php?id=245900&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 https://fifabd.site/OPLLX5/play.php?id=245898&|User-Agent=RANAPK
 
 
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
-http://stvlive.net:8080/colorsbangla/index.m3u8
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
 https://fifabd.site/OPLLX5/play.php?id=245893&|User-Agent=RANAPK
@@ -556,17 +556,17 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751290184:KeyName=prod_linear:Signature=RGoUvwmCbghovCkxAp6k_iRE3Hg7MWHOD1mc-a5T0VR8qPSgxgCEXpWKznLdK0Q8wAfLsMGJGlAD08v1KsG5AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751293189:KeyName=prod_linear:Signature=vB6C4KKEY3jMTZkHuDAEigDl5GDT0ngNzd_-gwrOafvQUBKdAUZQCX6L5aTqMVbTfFgAF30bBPZyp9s-bGH5AQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751290184:KeyName=prod_linear:Signature=RGoUvwmCbghovCkxAp6k_iRE3Hg7MWHOD1mc-a5T0VR8qPSgxgCEXpWKznLdK0Q8wAfLsMGJGlAD08v1KsG5AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751293189:KeyName=prod_linear:Signature=vB6C4KKEY3jMTZkHuDAEigDl5GDT0ngNzd_-gwrOafvQUBKdAUZQCX6L5aTqMVbTfFgAF30bBPZyp9s-bGH5AQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751290184:KeyName=prod_linear:Signature=RGoUvwmCbghovCkxAp6k_iRE3Hg7MWHOD1mc-a5T0VR8qPSgxgCEXpWKznLdK0Q8wAfLsMGJGlAD08v1KsG5AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751293189:KeyName=prod_linear:Signature=vB6C4KKEY3jMTZkHuDAEigDl5GDT0ngNzd_-gwrOafvQUBKdAUZQCX6L5aTqMVbTfFgAF30bBPZyp9s-bGH5AQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
@@ -595,7 +595,7 @@ https://fifabd.site/OPLLX5/play.php?id=66186&|User-Agent=RANAPK
 https://fifabd.site/OPLLX5/play.php?id=66176&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="179" tvg-name="Star Gold" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Gold
-http://stvlive.net:8080/stargold/index.m3u8
+https://fifabd.site/OPLLX5/play.php?id=66177&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="178" tvg-name="Star Bharat" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-bharat.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Bharat
 https://fifabd.site/OPLLX5/play.php?id=221255&|User-Agent=RANAPK
@@ -622,7 +622,7 @@ https://fifabd.site/OPLLX5/play.php?id=206054&|User-Agent=RANAPK
 https://fifabd.site/OPLLX5/play.php?id=66189&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="23" tvg-name="And Pictures HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And Pictures HD
-http://stvlive.net:8080/andpicture/index.m3u8
+https://fifabd.site/OPLLX5/play.php?id=66181&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="22" tvg-name="B4U Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",B4U Movies
 https://fifabd.site/OPLLX5/play.php?id=104201&|User-Agent=RANAPK
@@ -656,7 +656,7 @@ https://fifabd.site/OPLLX5/play.php?id=167569&|User-Agent=RANAPK
 https://fifabd.site/OPLLX5/play.php?id=219689&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="97" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="Sports-খেলা",T Sports
-http://stvlive.net:8080/tsports1/index.m3u8
+http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="Red Bull TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="Sports-খেলা",Red Bull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
@@ -674,10 +674,10 @@ https://fifabd.site/OPLLX5/play.php?id=167576&|User-Agent=RANAPK
 https://fifabd.site/OPLLX5/play.php?id=167575&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="79" tvg-name="Star Sport Select 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png" group-title="Sports-খেলা",Star Sport Select 2
-http://stvlive.net:8080/starselect2/index.m3u8
+https://fifabd.site/OPLLX5/play.php?id=109994&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sport Select 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports-খেলা",Star Sport Select 1
-http://stvlive.net:8080/starselect1/index.m3u8
+https://fifabd.site/OPLLX5/play.php?id=109993&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies 2
 https://fifabd.site/OPLLX5/play.php?id=66213&|User-Agent=RANAPK
