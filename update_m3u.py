@@ -9,7 +9,7 @@ ignore_names = {
     name.lower() for name in [
         "sony kal", "Star Movies 2", "sony pix hd", "ssc sport 1", "sony sab hd", "atn bangla",
         "sony aath hd", "jamuna tv", "independent tv", "dbc news", "ekattor tv", "somoy news tv",
-        "atn news", "gazi tv hd", "duronto tv", "channel 9", "btv news", "btv ctg", "channel i",
+        "atn news", "gazi tv hd", "channel 9", "btv news", "btv ctg", "channel i",
         "sony bbc earth hd", "astro cricket", "fashion tv", "disney hindi-2", "sony sports ten 1", "sony sports ten 2",
         "boomerang", "willow cricket", "zee bangla sd", "sony sports ten 5", "sony sports ten 1 hd",
         "sony sports ten 2 hd", "sony sports ten 3 hd", "sony sports ten 4 hd", "sony sports ten 5 hd", "ptv sports",
