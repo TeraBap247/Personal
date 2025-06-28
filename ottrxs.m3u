@@ -39,8 +39,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="151" tvg-name="ATN News" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-news.png" group-title="News Channel ",ATN News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Duronto TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c&format=.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
@@ -89,11 +87,10 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="3610",Nick Pluto TV
 https://jmp2.uk/sam-USBA3000158L.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXDMarathon" tvg-name="Disney XD Marathon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD Marathon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DisneyXDMarathon" tvg-name="Disney XD Marathon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2009_Disney_XD_alternate_logo.svg/250px-2009_Disney_XD_alternate_logo.svg.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD Marathon
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2009_Disney_XD_alternate_logo.svg/250px-2009_Disney_XD_alternate_logo.svg.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD
 https://fifabd.site/OPLLX5/play.php?id=346466&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="https://s3.aynaott.com/storage/c13a34a82616b5b23008e70913608b76" group-title="Kids-(বাচ্চাদের চ্যানেল)",Mr Bean
@@ -425,7 +422,8 @@ https://mytvbangla.com/0.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Maasranga TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-name="Boishakhi TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Boishakhi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
@@ -712,6 +710,8 @@ https://hughag.store/hiji/vstream.m3u8?id=93bd384e76a9&e=.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamkk/71.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
 http://tv.bdiptv.store:80/live/restream/restreamkk/30779.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Duronto TV
+http://tv.bdiptv.store:80/live/restream/restreamkk/109.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
 http://tv.bdiptv.store:80/live/restream/restreamkk/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
