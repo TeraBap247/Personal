@@ -33,7 +33,7 @@ ignore_names = {
         "makkah live quran tv", "madina live tv sunnah tv", "channel 5", "music bangla", "padma cable vision tv",
         "sangeet bangla", "zoom", "mastiii", "9xm", "music india", "b4u music", "investigation discovery",
         "tlc hd", "travelxp hd hindi", "discovery channel bengali", "discovery science",
-        "discovery turbo", "animal planet hd world", "discovery", "star plus", "jalsha movies hd", "star jalsha hd",
+        "discovery turbo", "animal planet hd world", "discovery", "star plus",
         "colors bangla", "zee bangla hd", "super hungama tv", "rongeen tv",
         "cartoon network", "pogo", "discovery kids", "tara tv", "bangla plus", "mon tv bangla", "aamar digital",
         "aamar bangla channel", "enterr10 bangla", "star gold romance", "star gold select",
