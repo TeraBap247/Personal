@@ -27,7 +27,7 @@ ignore_names = {
         "zee cinema hd", "colors cineplex bollywood", "colors cineplex hd",
         "sony wah", "colors infinity hd", "biswa bangla 24", "alpona tv", "deshi tv", "deshe bideshe",
         "channel 52 usa", "matri bhumi", "movie plus", "magic bangla tv", "btv world", "nan tv", "s tv bangla",
-        "rajdahni tv", "deepto tv", "channel s bd", "rtv", "movie bangla", "ekhon tv", "global tv", "ananda tv", "bangla tv", "sa tv", "asian tv", "bijoy tv", "mohona tv", "my tv", "desh tv", "maasranga tv",
+        "rajdahni tv", "deepto tv", "channel s bd", "rtv", "movie bangla", "ekhon tv", "global tv", "ananda tv", "bangla tv", "sa tv", "asian tv", "bijoy tv", "mohona tv", "my tv", "desh tv",
         "boishakhi tv", "ntv", "ekushey tv", "bangla vision", "news 24", "channel 24", "dw news", "bbc news",
         "al jazeera", "zee 24 ghanta", "cnn", "peace tv bangla", "peace tv urdu hd", "madani channel hd",
         "makkah live quran tv", "madina live tv sunnah tv", "channel 5", "music bangla", "padma cable vision tv",
