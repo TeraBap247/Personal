@@ -649,6 +649,9 @@ https://fifabd.site/OPLLX7/play.php?id=219689&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="97" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="Sports-খেলা",T Sports
 http://38.96.178.201/live/TSports/index.m3u8
 
+#EXTINF:-1 tvg-id="97" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="Sports-খেলা",T Sports
+://kst.moonplex.net:8080/CH2/index.m3u8
+
 #EXTINF:-1 tvg-id="96" tvg-name="Red Bull TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="Sports-খেলা",Red Bull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
 
