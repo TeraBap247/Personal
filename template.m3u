@@ -681,11 +681,11 @@ http://tv.bdiptv.store:80/live/restreax/refstream/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
-https://hughag.store/hiji/vstream.m3u8?id=3c1cc31a847f&e=.m3u8
+http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
-https://hughag.store/hiji/vstream.m3u8?id=72a0803cf563&e=.m3u8
+http://app.hughag.store/api/f3311c7bbe/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="Movie Channel",Zee Bollywood
-https://hughag.store/hiji/vstream.m3u8?id=2ea95a9da2d7&e=.m3u8
+http://app.hughag.store/api/3547925ef0/playlist.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="SRK TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="BD Channel-(বাংলা চ্যানেল)",SRK TV
 https://stream-hls.castr.net/682844396f7cd6438223a9b9/live_c2cd8d8032f611f0a3ed4d6387c20d28/index.m3u8
 #EXTINF:-1 tvg-id="209" tvg-name="Jagoroni TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jagoroni-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Jagoroni TV
@@ -697,7 +697,7 @@ https://hughag.store/bajimath/vstream.m3u8?id=e64e1c11-1167-43a1-9e0f-995cbf6f7f
 #EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
-https://hughag.store/hiji/vstream.m3u8?id=4effcf0f2452&e=.m3u8
+http://app.hughag.store/api/da99628d15/playlist.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 http://tv.bdiptv.store:80/live/restreax/refstream/15337.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
@@ -707,7 +707,7 @@ http://tv.bdiptv.store:80/live/restreax/refstream/52.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
 http://tv.bdiptv.store:80/live/restreax/refstream/143.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
-https://hughag.store/hiji/media.m3u8?id=93bd38f05028
+http://app.hughag.store/api/b45f637d05/playlist.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 http://tv.bdiptv.store:80/live/restreax/refstream/71.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
@@ -723,11 +723,11 @@ http://tv.bdiptv.store:80/live/restreax/refstream/241.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
 http://tv.bdiptv.store:80/live/restreax/refstream/152.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Cafe HD
-https://hughag.store/hiji/vstream.m3u8?id=c65460ba0d73&e=.m3u8
+http://app.hughag.store/api/f914787389/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Zee Anmol" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Anmol
-https://hughag.store/hiji/vstream.m3u8?id=dc488b1502f5&e=.m3u8
+http://app.hughag.store/api/cf342d11fc/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
-https://hughag.store/hiji/vstream.m3u8?id=acb5ffc3704a&e=.m3u8
+http://app.hughag.store/api/c8b4a2b335/playlist.m3u8
 #EXTINF:-1 tvg-id="219" tvg-name="T Sports 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-1.png" group-title="Sports-খেলা",T Sports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="Sky Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png" group-title="Sports-খেলা",Sky Sports
