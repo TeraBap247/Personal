@@ -4,22 +4,20 @@
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
 
 #EXTINF:-1 tvg-id="156" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-9.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel 9
-http://38.96.178.201/live/Channel9/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Gazi TV HD
-http://38.96.178.201/live/GaziTV/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="146" tvg-name="ATN Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Channel I" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-i.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel I
-http://38.96.178.201/live/ChannelI/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-id="141" tvg-name="BTV CTG" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv.png" group-title="BD Channel-(বাংলা চ্যানেল)",BTV CTG
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="172" tvg-name="Independent Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/independent-tv.png" group-title="News Channel ",Independent Tv
-http://38.96.178.201/live/Independent/index.m3u8
 
 #EXTINF:-1 tvg-id="168" tvg-name="BTV News" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv-news.png" group-title="News Channel ",BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
@@ -27,8 +25,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="162" tvg-name="DBC News" tvg-logo="https://otapp.store/uploads/tv_image/sm/dbc-news.png" group-title="News Channel ",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="161" tvg-name="Jamuna TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png" group-title="News Channel ",Jamuna TV
-http://38.96.178.201/live/JamunaTV/index.m3u8
 
 #EXTINF:-1 tvg-id="158" tvg-name="Ekattor TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekattor-tv.png" group-title="News Channel ",Ekattor TV
 http://xtv.ooo:8080/live/03353290992/03353290992/245915.ts
@@ -106,7 +102,7 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753408855:KeyName=prod_linear:Signature=1gv6aSs-InZpiE5q7SjcSPg32YcyhROvFIhLp80A1jchsXoLl-P62VvZ-ei6xXtNKtsP_GGl-3qbiRJkC9ObDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753416125:KeyName=prod_linear:Signature=URLYnG76F-mKx6HvJ9ggKF_zxGxeLATrwEFkUrOip74dMqizuHdofP4pw4mdIlHraR9StyTYfoh-iReOosWoBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s",DAZN 1 HD
@@ -503,7 +499,7 @@ https://fifabd.site/OPLLX8/play.php?id=206291&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753408855:KeyName=prod_linear:Signature=1gv6aSs-InZpiE5q7SjcSPg32YcyhROvFIhLp80A1jchsXoLl-P62VvZ-ei6xXtNKtsP_GGl-3qbiRJkC9ObDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753416125:KeyName=prod_linear:Signature=URLYnG76F-mKx6HvJ9ggKF_zxGxeLATrwEFkUrOip74dMqizuHdofP4pw4mdIlHraR9StyTYfoh-iReOosWoBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-name="Travelxp HD Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png" group-title="Others Channel",Travelxp HD Hindi
@@ -523,14 +519,10 @@ https://fifabd.site/OPLLX8/play.php?id=206283&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753408855:KeyName=prod_linear:Signature=1gv6aSs-InZpiE5q7SjcSPg32YcyhROvFIhLp80A1jchsXoLl-P62VvZ-ei6xXtNKtsP_GGl-3qbiRJkC9ObDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753416125:KeyName=prod_linear:Signature=URLYnG76F-mKx6HvJ9ggKF_zxGxeLATrwEFkUrOip74dMqizuHdofP4pw4mdIlHraR9StyTYfoh-iReOosWoBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
-http://38.96.178.201/live/StarPlus/index.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla HD
 https://fifabd.site/OPLLX8/play.php?id=245893&|User-Agent=RANAPK
@@ -544,17 +536,17 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753408855:KeyName=prod_linear:Signature=1gv6aSs-InZpiE5q7SjcSPg32YcyhROvFIhLp80A1jchsXoLl-P62VvZ-ei6xXtNKtsP_GGl-3qbiRJkC9ObDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753416125:KeyName=prod_linear:Signature=URLYnG76F-mKx6HvJ9ggKF_zxGxeLATrwEFkUrOip74dMqizuHdofP4pw4mdIlHraR9StyTYfoh-iReOosWoBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753408855:KeyName=prod_linear:Signature=1gv6aSs-InZpiE5q7SjcSPg32YcyhROvFIhLp80A1jchsXoLl-P62VvZ-ei6xXtNKtsP_GGl-3qbiRJkC9ObDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753416125:KeyName=prod_linear:Signature=URLYnG76F-mKx6HvJ9ggKF_zxGxeLATrwEFkUrOip74dMqizuHdofP4pw4mdIlHraR9StyTYfoh-iReOosWoBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753408855:KeyName=prod_linear:Signature=1gv6aSs-InZpiE5q7SjcSPg32YcyhROvFIhLp80A1jchsXoLl-P62VvZ-ei6xXtNKtsP_GGl-3qbiRJkC9ObDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1753416125:KeyName=prod_linear:Signature=URLYnG76F-mKx6HvJ9ggKF_zxGxeLATrwEFkUrOip74dMqizuHdofP4pw4mdIlHraR9StyTYfoh-iReOosWoBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
@@ -644,9 +636,6 @@ https://fifabd.site/OPLLX8/play.php?id=167569&|User-Agent=RANAPK
 https://fifabd.site/OPLLX8/play.php?id=219689&|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="97" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="Sports-খেলা",T Sports
-http://38.96.178.201/live/TSports/index.m3u8
-
-#EXTINF:-1 tvg-id="97" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="Sports-খেলা",T Sports
 http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="Red Bull TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="Sports-খেলা",Red Bull TV
@@ -693,16 +682,24 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://hughag.store/bajimath/vstream.m3u8?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9
 #EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="Independent Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/independent-tv.png" group-title="News Channel ",Independent Tv
+https://hughag.store/bajimath/vstream.m3u8?id=22f28ae5-8c15-4904-b9f6-70bbd94cbc43
+#EXTINF:-1 tvg-id="161" tvg-name="Jamuna TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png" group-title="News Channel ",Jamuna TV
+https://hughag.store/bajimath/vstream.m3u8?id=8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa
 #EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
 http://app.hughag.store/api/da99628d15/playlist.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 http://tv.bdiptv.store:80/live/restreax/refstream/15337.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
+http://tv.bdiptv.store:80/live/restreax/refstream/53.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
 http://tv.bdiptv.store:80/live/restreax/refstream/81.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 http://tv.bdiptv.store:80/live/restreax/refstream/52.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
 http://tv.bdiptv.store:80/live/restreax/refstream/143.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
+http://tv.bdiptv.store:80/live/restreax/refstream/91.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
 http://app.hughag.store/api/b45f637d05/playlist.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
