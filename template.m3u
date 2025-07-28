@@ -700,8 +700,14 @@ http://tv.bdiptv.store:80/live/restreauu/refstream/52.m3u8
 http://tv.bdiptv.store:80/live/restreauu/refstream/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restreauu/refstream/91.m3u8
+#EXTINF:-1 tvg-id="236" tvg-name="Super Hungama" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Super Hungama
+http://tv.bdiptv.store:80/live/restreauu/refstream/30781.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="Animax" tvg-logo="https://otapp.store/uploads/tv_image/sm/animax.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Animax
+https://live.dinesh29.com.np/stream/livetv/animax/master.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
 http://app.hughag.store/api/b45f637d05/playlist.m3u8
+#EXTINF:-1 tvg-id="186" tvg-name="Hungama TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Hungama TV
+http://tv.bdiptv.store:80/live/restreauu/refstream/30781.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
@@ -713,7 +719,7 @@ http://tv.bdiptv.store:80/live/restreauu/refstream/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 http://tv.bdiptv.store:80/live/restreauu/refstream/96.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
-http://tv.bdiptv.store:80/live/restreauu/refstream/241.m3u8
+https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
 http://tv.bdiptv.store:80/live/restreauu/refstream/152.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Cafe HD
