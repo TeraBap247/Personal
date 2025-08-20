@@ -673,7 +673,7 @@ http://app.hughag.store/api/f3311c7bbe/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="Movie Channel",Zee Bollywood
 http://app.hughag.store/api/3547925ef0/playlist.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="SRK TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="BD Channel-(বাংলা চ্যানেল)",SRK TV
-https://stream-hls.castr.net/682844396f7cd6438223a9b9/live_c2cd8d8032f611f0a3ed4d6387c20d28/index.m3u8
+https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="209" tvg-name="Jagoroni TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jagoroni-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Jagoroni TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="RAJDHANI TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",RAJDHANI TV
