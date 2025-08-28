@@ -1127,6 +1127,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #
 #
 #
+#
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restreauuX58/refstream/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
@@ -1170,7 +1171,7 @@ http://tv.bdiptv.store:80/live/restreauuX58/refstream/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restreauuX58/refstream/91.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="EPL channel 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/epl-channel-1.png" group-title="Event Channel ",EPL channel 1
-#
+http://app.hughag.store/api/3d4f59ddec/playlist.m3u8
 #EXTINF:-1 tvg-id="236" tvg-name="Super Hungama" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Super Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #EXTINF:-1 tvg-id="222" tvg-name="Animax" tvg-logo="https://otapp.store/uploads/tv_image/sm/animax.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Animax
