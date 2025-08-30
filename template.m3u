@@ -1129,9 +1129,9 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #
 #
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/95.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/238.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/238.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
@@ -1161,15 +1161,15 @@ http://app.hughag.store/api/da99628d15/playlist.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 https://download.ottbangla.com/zxx/live.php?id=2105513/ZeeZestHDELE&e=.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/53.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/53.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/52.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/52.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/143.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/91.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/91.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="EPL channel 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/epl-channel-1.png" group-title="Event Channel ",EPL channel 1
 http://app.hughag.store/api/3d4f59ddec/playlist.m3u8
 #EXTINF:-1 tvg-id="236" tvg-name="Super Hungama" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Super Hungama
@@ -1183,13 +1183,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/30779.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/30779.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Duronto TV
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/109.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/109.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/242.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/96.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/96.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
