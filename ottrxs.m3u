@@ -1215,6 +1215,7 @@ htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
+htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
@@ -1254,7 +1255,7 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream/53.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream/52.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/223.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
