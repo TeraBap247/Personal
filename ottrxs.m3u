@@ -1745,6 +1745,8 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream/52.m3u8
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/91.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="Asia Cup 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/asia-cup-2.png" group-title="Event Channel ",Asia Cup 2
+http://app.hughag.store/api/762cf859a8/playlist.m3u8
 #EXTINF:-1 tvg-id="251" tvg-name="Asia Cup 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/asia-cup-2025.png" group-title="Event Channel ",Asia Cup 2025
 http://app.hughag.store/api/d74ec2f219/playlist.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="EPL channel 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/epl-channel-2.png" group-title="Event Channel ",EPL channel 2
