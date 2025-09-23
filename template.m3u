@@ -1708,7 +1708,7 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/238.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="Zee Classic" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-classic.png" group-title="Movie Channel",Zee Classic
-https://hughag.store/hiji/stream.m3u8?id=0-9-176
+https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-176
 #EXTINF:-1 tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
 http://app.hughag.store/api/f3311c7bbe/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="Movie Channel",Zee Bollywood
@@ -1734,7 +1734,7 @@ https://hughag.store/bajimaths/vstream.m3u8?id=8a1ff003-7cd5-4d75-8245-fa8aa3cdc
 #EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
 http://app.hughag.store/api/da99628d15/playlist.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
-https://hughag.store/hiji/stream.m3u8?id=0-9-348
+https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-348
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/53.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
@@ -1776,17 +1776,17 @@ https://hughag.store/bajimaths/vstream.m3u8?id=3aa4d27d-91e1-4afe-a6b5-de35beefa
 #EXTINF:-1 tvg-id="212" tvg-name="Star Movies Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies-select.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Movies Select
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="&Flix HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/flix-hd.jpg" group-title="Hindi Channel-(হিন্দি চ্যানেল)",&Flix HD
-https://hughag.store/hiji/stream.m3u8?id=0-9-channel_2105335046
+https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="21" tvg-name="Zee Talkies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-talkies.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Talkies
-https://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
+https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeetalkies
 #EXTINF:-1 tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Cafe HD
 http://app.hughag.store/api/f914787389/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Zee Anmol" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Anmol
 http://app.hughag.store/api/cf342d11fc/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Zee Yuva" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-yuva.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Yuva
-https://hughag.store/hiji/stream.m3u8?id=0-9-zeeyuva
+https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeeyuva
 #EXTINF:-1 tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
-https://hughag.store/hiji/stream.m3u8?id=0-9-tvhd_0
+https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-tvhd_0
 #EXTINF:-1 tvg-id="221" tvg-name="T Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="Sports-খেলা",T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-id="219" tvg-name="T Sports 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-1.png" group-title="Sports-খেলা",T Sports 1
