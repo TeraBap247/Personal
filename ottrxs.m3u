@@ -1701,6 +1701,31 @@ htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
 htps://hughag.store/hiji/stream.m3u8?id=0-9-zeetalkies
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://hughag.store/bajimaths/vstream.m3u8?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1
+#EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Nexus TV
+#EXTVLCOPT:http-referrer=https://tvz.jagobd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://tvz.jagobd.com
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDk6MzE6MjAgQU0maGFzaF92YWx1ZT1KdUVOQzFnZmxZd1A5ZHpwNnJibDNRPT0mdmFsaWRtaW51dGVzPTQw
+#EXTVLCOPT:http-referrer=https://tvz.jagobd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://tvz.jagobd.com
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDk6MTk6MjcgQU0maGFzaF92YWx1ZT1ncUkvUnFDenRHekNVUTJSNVBrOUl3PT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-id="172" tvg-name="Independent Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/independent-tv.png" group-title="News Channel ",Independent Tv
+#EXTVLCOPT:http-referrer=https://tvz.jagobd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://tvz.jagobd.com
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDk6MjQ6MjUgQU0maGFzaF92YWx1ZT1Vb2Y5YUZ0cUVyeFhXVU56MXpVaWhnPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-id="161" tvg-name="Jamuna TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png" group-title="News Channel ",Jamuna TV
+#EXTVLCOPT:http-referrer=https://tvz.jagobd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://tvz.jagobd.com
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDk6MTk6MjcgQU0maGFzaF92YWx1ZT1ncUkvUnFDenRHekNVUTJSNVBrOUl3PT0mdmFsaWRtaW51dGVzPTQw
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://hughag.store/bajimaths/vstream.m3u8?id=3aa4d27d-91e1-4afe-a6b5-de35beefae4f
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://hughag.store/bajimaths/vstream.m3u8?id=a3b44c1f-3086-4f46-a533-c34a55a30eb9
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/95.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
@@ -1721,16 +1746,10 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="Khushboo Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",Khushboo Bangla
 https://hughag.store/bajimaths/vstream.m3u8?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1
-#EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Nexus TV
-https://hughag.store/bajimaths/vstream.m3u8?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9
 #EXTINF:-1 tvg-id="164" tvg-name="Bangla TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bangla TV
 https://hughag.store/bajimaths/vstream.m3u8?id=addb7014-1d2e-41d8-982d-7cafbdc48770
 #EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-id="172" tvg-name="Independent Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/independent-tv.png" group-title="News Channel ",Independent Tv
-https://hughag.store/bajimaths/vstream.m3u8?id=22f28ae5-8c15-4904-b9f6-70bbd94cbc43
-#EXTINF:-1 tvg-id="161" tvg-name="Jamuna TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png" group-title="News Channel ",Jamuna TV
-https://hughag.store/bajimaths/vstream.m3u8?id=8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa
 #EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
 http://app.hughag.store/api/da99628d15/playlist.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
