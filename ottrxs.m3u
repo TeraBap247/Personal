@@ -1745,9 +1745,9 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id="191" tvg-name="RAJDHANI TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",RAJDHANI TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="Khushboo Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",Khushboo Bangla
-https://hughag.store/bajimaths/vstream.m3u8?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1
+https://bd.mindfulreviewbangla.workers.dev/vstream.m3u8?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1
 #EXTINF:-1 tvg-id="164" tvg-name="Bangla TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bangla TV
-https://hughag.store/bajimaths/vstream.m3u8?id=addb7014-1d2e-41d8-982d-7cafbdc48770
+https://bd.mindfulreviewbangla.workers.dev/vstream.m3u8?id=addb7014-1d2e-41d8-982d-7cafbdc48770
 #EXTINF:-1 tvg-id="148" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
@@ -1789,7 +1789,7 @@ https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=NICK
 #EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
-https://hughag.store/bajimaths/vstream.m3u8?id=3aa4d27d-91e1-4afe-a6b5-de35beefae4f
+https://bd.mindfulreviewbangla.workers.dev/vstream.m3u8?id=3aa4d27d-91e1-4afe-a6b5-de35beefae4f
 #EXTINF:-1 tvg-id="212" tvg-name="Star Movies Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies-select.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Movies Select
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="Sony Marathi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-marathi.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony Marathi
@@ -1811,4 +1811,4 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-id="219" tvg-name="T Sports 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-1.png" group-title="Sports-খেলা",T Sports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="Sky Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png" group-title="Sports-খেলা",Sky Sports
-https://hughag.store/bajimaths/vstream.m3u8?id=a3b44c1f-3086-4f46-a533-c34a55a30eb9
+https://bd.mindfulreviewbangla.workers.dev/vstream.m3u8?id=a3b44c1f-3086-4f46-a533-c34a55a30eb9
