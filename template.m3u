@@ -1759,7 +1759,7 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/53.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
 https://iptv.dongobd247.workers.dev/stream.m3u8?id=245900
 #EXTINF:-1 tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/223.m3u8
+https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-JALSHA
 #EXTINF:-1 tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/143.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
