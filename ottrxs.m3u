@@ -1785,7 +1785,7 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/109.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/242.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/96.m3u8
+https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=NICK
 #EXTINF:-1 tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
