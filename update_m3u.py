@@ -2,7 +2,11 @@ import os
 import requests
 import re
 import hashlib
-from datetime import datetime, timedelta
+from datetime import datetime
+try:
+    from zoneinfo import ZoneInfo  # Python 3.9+
+except Exception:
+    ZoneInfo = None
 
 # --- Settings ---
 ignore_names = {
@@ -49,115 +53,113 @@ ignore_names = {
     ]
 }
 
+HTTP_TIMEOUT = 20
+UA_STR = 'oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1'
+
 def safe_run(section_name, func):
     try:
         func()
     except Exception as e:
         print(f"[{section_name}] তে সমস্যা হয়েছে: {e}")
 
-# --- Step 1: Cartoon Network HD Header Update ---
+# --- Step 1: নির্দিষ্ট চ্যানেলগুলোর হেডার/URL রিফ্রেশ ---
 def update_channels(channel_names):
     source_url = "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u"
-    response = requests.get(source_url)
-    source_data = response.text
+    resp = requests.get(source_url, timeout=HTTP_TIMEOUT)
+    resp.raise_for_status()
+    source_data = resp.text
 
-    with open("template.m3u", "r") as file:
+    with open("template.m3u", "r", encoding="utf-8") as file:
         lines = file.readlines()
 
     updated_lines = []
     i = 0
-
-    # channel_names কে ছোট হাতেই রাখছি
     channel_names_lower = [ch.lower() for ch in channel_names]
 
     while i < len(lines):
         line = lines[i]
-        # যদি #EXTINF লাইনে হয়, তখন চ্যানেলের নাম বের করব
         if line.startswith("#EXTINF:"):
-            # line এর শেষে koma এর পরে আসা নামটা বের করছি
-            # উদাহরণ: #EXTINF:-1 tvg-id="123" tvg-name="Cartoon Network", Cartoon Network
-            # আমরা সাধারণত koma এর পরের অংশ নেব
             parts = line.strip().split(',')
-            if len(parts) > 1:
-                channel_name_in_line = parts[-1].strip().lower()
-            else:
-                channel_name_in_line = ""
-
+            channel_name_in_line = parts[-1].strip().lower() if len(parts) > 1 else ""
             if channel_name_in_line in channel_names_lower:
-                # source_data থেকে একই channel name এর তথ্য খুঁজে বের করব
-                # আগের মতো regex pattern ঠিক রাখছি, কিন্তু এখন exact channel_name_in_line ব্যবহার করব original name এর জন্য
-                # তবে আমাদের কাছে original name নাই, তাই channel_names এর index খুঁজে সেটি ব্যবহার করব
                 idx = channel_names_lower.index(channel_name_in_line)
                 original_channel_name = channel_names[idx]
 
+                # EXTINF, optional EXTVLCOPT/EXTHTTP, and URL in source
                 pattern = re.compile(
-                    rf'#EXTINF:-1.*?,\s*{re.escape(original_channel_name)}\s*\n(#EXTVLCOPT:.*\n)?(#EXTHTTP:.*\n)?(https?://.*)',
-                    re.MULTILINE | re.IGNORECASE
+                    rf'#EXTINF:-1.*?,\s*{re.escape(original_channel_name)}\s*\n'
+                    r'(?:(#EXTVLCOPT:.*)\n)?'
+                    r'(?:(#EXTHTTP:.*)\n)?'
+                    r'(https?://[^\s]+)',
+                    re.IGNORECASE
                 )
                 match = pattern.search(source_data)
 
                 if match:
-                    new_vlcopt = match.group(1) or ''
-                    new_exthttp = match.group(2) or ''
-                    updated_lines.append(line)
+                    new_vlcopt = (match.group(1) or '')
+                    new_exthttp = (match.group(2) or '')
+                    updated_lines.append(line)  # keep original EXTINF
                     i += 1
-                    # পুরাতন EXT অপশন স্কিপ করে
-                    if i < len(lines) and lines[i].startswith("#EXTVLCOPT:"):
+                    # skip old optional headers in template
+                    while i < len(lines) and (lines[i].startswith("#EXTVLCOPT:") or lines[i].startswith("#EXTHTTP:")):
                         i += 1
-                    if i < len(lines) and lines[i].startswith("#EXTHTTP:"):
-                        i += 1
+                    # write fresh optional headers (if any) — URL লাইন আমরা template থেকে লিখছি না
                     if new_vlcopt:
-                        updated_lines.append(new_vlcopt)
+                        updated_lines.append(new_vlcopt + "\n")
                     if new_exthttp:
-                        updated_lines.append(new_exthttp)
+                        updated_lines.append(new_exthttp + "\n")
+                    # URL: source থেকে নেব না—template-এ URL থাকলে স্কিপ করব
+                    if i < len(lines) and lines[i].startswith("http"):
+                        # পুরনো URL স্কিপ
+                        i += 1
+                    # URL ইনসার্ট (source থেকে)
+                    updated_lines.append(match.group(3) + "\n")
                 else:
                     print(f"{original_channel_name} খুঁজে পাওয়া যায়নি।")
                     updated_lines.append(line)
                     i += 1
             else:
-                # channel name মেলেনি, তাই line 그대로 append করছি
                 updated_lines.append(line)
                 i += 1
         else:
-            # #EXTINF লাইনের বাইরে, line 그대로 রাখি
             updated_lines.append(line)
             i += 1
 
-    with open("template.m3u", "w") as file:
+    with open("template.m3u", "w", encoding="utf-8") as file:
         file.writelines(updated_lines)
 
-# এখানে শুধু নাম অ্যাড করলেই চলবে
-channel_list = [
-    "Cartoon Network", "Pogo",
-    "Discovery Kids", "Cartoon Network HD", "PSL VIP", "TLC HD", "Discovery"
-]
-
-update_channels(channel_list)
-
-# --- Step 2: Fancode Section Update ---
+# --- Step 2: Fancode সেকশন আপডেট ---
 def update_fancode():
-    def hash_list(lines): return hashlib.md5("\n".join(lines).encode()).hexdigest()
+    def hash_list(lines): 
+        return hashlib.md5("\n".join(lines).encode()).hexdigest()
 
     fancode_url = "https://tv.noobon.top/playlist/fancode.php"
-    fancode_data = requests.get(fancode_url).text
-    fancode_lines = []
+    r = requests.get(fancode_url, timeout=HTTP_TIMEOUT)
+    r.raise_for_status()
+    fancode_data = r.text
 
+    fancode_lines = []
     lines = fancode_data.strip().splitlines()
     i = 0
     while i < len(lines):
-        line = lines[i]
+        line = lines[i].strip()
         if line.startswith("#EXTINF:"):
+            # -- keep -1 if present, and inject/replace group-title safely
+            # pattern: #EXTINF:-1 ... ,Name
+            # ensure group-title="Fancode Live"
             if 'group-title="' in line:
                 line = re.sub(r'group-title=".*?"', 'group-title="Fancode Live"', line)
             else:
-                line = line.replace('#EXTINF:', '#EXTINF: group-title="Fancode Live",')
-            fancode_lines.append(line.strip())
+                # insert right after '#EXTINF:-1'
+                line = re.sub(r'^#EXTINF:-?1', '#EXTINF:-1 group-title="Fancode Live"', line)
+            fancode_lines.append(line)
+            # next line URL
             if i + 1 < len(lines) and lines[i + 1].startswith("http"):
                 fancode_lines.append(lines[i + 1].strip())
                 i += 1
         i += 1
 
-    with open("template.m3u", "r") as file:
+    with open("template.m3u", "r", encoding="utf-8") as file:
         template_lines = file.readlines()
 
     other_lines = []
@@ -167,22 +169,29 @@ def update_fancode():
         line = template_lines[i]
         if line.startswith("#EXTINF:") and 'Fancode Live' in line:
             old_fancode.append(line.strip())
-            if i + 1 < len(template_lines) and template_lines[i + 1].startswith("http"):
-                old_fancode.append(template_lines[i + 1].strip())
+            i += 1
+            # collect optional headers if any
+            while i < len(template_lines) and (template_lines[i].startswith("#EXTVLCOPT:") or template_lines[i].startswith("#EXTHTTP:")):
+                old_fancode.append(template_lines[i].strip())
                 i += 1
+            # collect URL
+            if i < len(template_lines) and template_lines[i].startswith("http"):
+                old_fancode.append(template_lines[i].strip())
+                i += 1
+            continue
         else:
-            other_lines.append(line.rstrip())
-        i += 1
+            other_lines.append(line.rstrip("\n"))
+            i += 1
 
     if hash_list(old_fancode) != hash_list(fancode_lines):
-        with open("template.m3u", "w") as f:
-            f.writelines([line + '\n' for line in other_lines])
-            f.write('\n'.join(fancode_lines) + '\n')
+        with open("template.m3u", "w", encoding="utf-8") as f:
+            f.write("\n".join(other_lines).rstrip("\n") + "\n" if other_lines else "")
+            f.write("\n".join(fancode_lines) + "\n")
         print("Fancode আপডেট হয়েছে।")
     else:
         print("Fancode অপরিবর্তিত।")
-        
-# --- Step 3: API Section Update ---
+
+# --- Step 3: API সেকশন আপডেট (আপনার দেওয়া API) ---
 def update_api_channels():
     def fetch_api():
         url = "https://otapp.store/rest-api//v130/all_tv_channel_by_category"
@@ -194,7 +203,7 @@ def update_api_channels():
             "Accept-Encoding": "gzip",
             "User-Agent": "okhttp/4.9.0"
         }
-        res = requests.get(url, headers=headers)
+        res = requests.get(url, headers=headers, timeout=HTTP_TIMEOUT)
         res.raise_for_status()
         return res.json()
 
@@ -203,19 +212,31 @@ def update_api_channels():
         for cat in data:
             group = cat.get('title', 'Unknown')
             for ch in cat.get('channels', []):
-                name = ch.get('tv_name', '').strip()
-                if name.lower() in ignore_names or not ch.get('stream_url', ''):
+                name = (ch.get('tv_name') or '').strip()
+                stream = ch.get('stream_url') or ''
+                if not name or not stream:
                     continue
-                lines.append(f'#EXTINF:-1 tvg-id="{ch.get("live_tv_id")}" tvg-name="{name}" tvg-logo="{ch.get("thumbnail_url")}" group-title="{group}",{name}')
-                lines.append(ch['stream_url'])
+                if name.lower() in ignore_names:
+                    continue
+                tvg_id = ch.get("live_tv_id", "")
+                logo = ch.get("thumbnail_url", "")
+                lines.append(
+                    f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}'
+                )
+                # --- Always keep UA line for API channels ---
+                lines.append(f'#EXTVLCOPT:http-user-agent={UA_STR}')
+                # চাইলে EXTHTTP-ও দিতে পারেন:
+                # lines.append(f'#EXTHTTP:{{"User-Agent":"{UA_STR}"}}')
+                lines.append(stream)
         return lines
 
-    def hash_list(lines): return hashlib.md5("\n".join(lines).encode()).hexdigest()
+    def hash_list(lines): 
+        return hashlib.md5("\n".join(lines).encode()).hexdigest()
 
     api_data = fetch_api()
     new_api_lines = generate_lines(api_data)
 
-    with open("template.m3u", "r") as f:
+    with open("template.m3u", "r", encoding="utf-8") as f:
         template_lines = f.readlines()
 
     other_lines = []
@@ -223,24 +244,36 @@ def update_api_channels():
     i = 0
     while i < len(template_lines):
         line = template_lines[i]
-        is_api = False
+        is_api_block = False
+
         if line.startswith("#EXTINF:") and 'group-title=' in line and 'Fancode Live' not in line:
-            name = re.search(r',(.+)', line)
-            if name and name.group(1).strip().lower() not in ignore_names:
-                is_api = True
-        if is_api:
+            # read channel name from EXTINF
+            name_m = re.search(r',\s*(.+?)\s*$', line.strip())
+            ch_name = name_m.group(1).strip() if name_m else ""
+            if ch_name and ch_name.lower() not in ignore_names:
+                is_api_block = True
+
+        if is_api_block:
+            # collect the whole block: EXTINF, optional EXTVLCOPT/EXTHTTP, and URL
             old_api.append(line.strip())
-            if i + 1 < len(template_lines) and template_lines[i + 1].startswith("http"):
-                old_api.append(template_lines[i + 1].strip())
+            i += 1
+            while i < len(template_lines) and (template_lines[i].startswith("#EXTVLCOPT:") or template_lines[i].startswith("#EXTHTTP:")):
+                old_api.append(template_lines[i].strip())
                 i += 1
+            if i < len(template_lines) and template_lines[i].startswith("http"):
+                old_api.append(template_lines[i].strip())
+                i += 1
+            # consumed; don't add to other_lines
+            continue
         else:
-            other_lines.append(line.rstrip())
-        i += 1
+            other_lines.append(line.rstrip("\n"))
+            i += 1
 
     if hash_list(old_api) != hash_list(new_api_lines):
-        with open("template.m3u", "w") as f:
-            f.writelines([l + '\n' for l in other_lines])
-            f.write('\n'.join(new_api_lines) + '\n')
+        with open("template.m3u", "w", encoding="utf-8") as f:
+            if other_lines:
+                f.write("\n".join(other_lines).rstrip("\n") + "\n")
+            f.write("\n".join(new_api_lines) + "\n")
         print("API চ্যানেল আপডেট হয়েছে।")
     else:
         print("API চ্যানেল অপরিবর্তিত।")
@@ -249,9 +282,15 @@ def update_api_channels():
 def generate_final_file():
     input_file = 'template.m3u'
     output_file = 'ottrxs.m3u'
-    bd_time = datetime.utcnow() + timedelta(hours=6)
-    hour = bd_time.hour
 
+    if ZoneInfo:
+        bd_time = datetime.now(ZoneInfo("Asia/Dhaka"))
+    else:
+        # fallback (UTC+6 approx)
+        from datetime import timedelta
+        bd_time = datetime.utcnow() + timedelta(hours=6)
+
+    hour = bd_time.hour
     if 5 <= hour < 12:
         msg = "🥱Good morning☀️👉Vip Ip Tv By Reyad Hossain🇧🇩"
     elif 12 <= hour < 18:
@@ -259,7 +298,7 @@ def generate_final_file():
     else:
         msg = "🌙Good Night👉Vip Ip Tv By Reyad Hossain🇧🇩"
 
-    with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
+    with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
         for i, line in enumerate(infile):
             if i == 0 and line.startswith("#EXTM3U"):
                 outfile.write(f'#EXTM3U billed-msg="{msg}"\n')
@@ -267,8 +306,13 @@ def generate_final_file():
                 outfile.write(line)
 
 # --- Run All Tasks ---
-safe_run("Cartoon Network HD", lambda: update_channels(["Cartoon Network", "Pogo",
-    "Discovery Kids", "Cartoon Network HD", "PSL VIP", "TLC HD", "Discovery"]))
-safe_run("Fancode", update_fancode)
-safe_run("API", update_api_channels)
-safe_run("Final Output", generate_final_file)
+if __name__ == "__main__":
+    # যেসব চ্যানেল সোর্স ফাইল থেকে টেনে আনবেন:
+    channel_list = [
+        "Cartoon Network", "Pogo", "Discovery Kids", "Cartoon Network HD", "PSL VIP", "TLC HD", "Discovery"
+    ]
+
+    safe_run("Cartoon Network HD", lambda: update_channels(channel_list))
+    safe_run("Fancode", update_fancode)
+    safe_run("API", update_api_channels)
+    safe_run("Final Output", generate_final_file)
