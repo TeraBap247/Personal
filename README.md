@@ -1,4 +1,4 @@
 ## LINK 👇
 ```
-https://rb.gy/8nelpm
+https://shorturl.at/eIvic
 ```
