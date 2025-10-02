@@ -1024,6 +1024,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -1032,16 +1036,16 @@ https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/238.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/04cb8cb9a7/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/04cb8cb9a7/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="34" tvg-name="Zee Classic" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-classic.png" group-title="Movie Channel",Zee Classic
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-176
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/f3311c7bbe/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/f3311c7bbe/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="Movie Channel",Zee Bollywood
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/3547925ef0/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/3547925ef0/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="248" tvg-name="SRK TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="BD Channel-(বাংলা চ্যানেল)",SRK TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
@@ -1062,7 +1066,7 @@ https://bd.mindfulreviewbangla.workers.dev/vstream.m3u8?id=addb7014-1d2e-41d8-98
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="53" tvg-name="Zing" tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="Music Channel",Zing
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/da99628d15/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/da99628d15/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-348
@@ -1095,7 +1099,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/animax/master.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/b45f637d05/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/b45f637d05/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="186" tvg-name="Hungama TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Hungama TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
@@ -1134,10 +1138,10 @@ https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-channel_2105335046
 https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeetalkies
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Cafe HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/f914787389/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/f914787389/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="11" tvg-name="Zee Anmol" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Anmol
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://hd.mindfulreviewbangla.workers.dev/api/cf342d11fc/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/cf342d11fc/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="9" tvg-name="Zee Yuva" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-yuva.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Yuva
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeeyuva
