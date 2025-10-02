@@ -1032,6 +1032,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -1151,7 +1155,7 @@ https://ottbanglacdn.konikah799.workers.dev/api/cf342d11fc/playlist.m3u8
 https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeeyuva
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-tvhd_0
+https://iptv.dongobd247.workers.dev/stream.m3u8?id=221253
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="221" tvg-name="T Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="Sports-খেলা",T Sports 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
