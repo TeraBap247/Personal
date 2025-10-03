@@ -1388,6 +1388,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -1445,6 +1449,9 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/143.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=JALSHA-MOVIES
+#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="254" tvg-name="Live Match" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",Live Match
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://stream.mux.com/b3rp6PmY335QPV5YhsInevPBTtkkdJ41NnRonj55XKc.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="253" tvg-name="ICC Women's Cricket World Cup 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/icc-womens-cricket-world-cup-2025.png" group-title="Event Channel",ICC Women's Cricket World Cup 2025
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/ad72e5ade8/playlist.m3u8
