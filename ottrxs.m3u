@@ -2210,12 +2210,16 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/238.m3u8
+https://jio.aminmuaz636.workers.dev/live.php?id=65d8f6
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/04cb8cb9a7/playlist.m3u8
@@ -2266,7 +2270,7 @@ https://jalsha.aminmuaz636.workers.dev/mono.ts.m3u8
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/143.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=JALSHA-MOVIES
+https://jio.aminmuaz636.workers.dev/live.php?id=d03d92
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="254" tvg-name="Live Match" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",Live Match
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=T-SPORTS
