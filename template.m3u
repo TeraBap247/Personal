@@ -2262,6 +2262,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -2324,7 +2328,7 @@ https://jio.aminmuaz636.workers.dev/live.php?id=31eaf7
 https://jio.aminmuaz636.workers.dev/live.php?id=d03d92
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="254" tvg-name="Live Match" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",Live Match
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=T-SPORTS
+https://customer-xzutz8x5zz7h9d1e.cloudflarestream.com/c5774cbfec1ab5fcf357537672a247bb/manifest/video.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="253" tvg-name="ICC Women's Cricket World Cup 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/icc-womens-cricket-world-cup-2025.png" group-title="Event Channel",ICC Women's Cricket World Cup 2025
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/ad72e5ade8/playlist.m3u8
