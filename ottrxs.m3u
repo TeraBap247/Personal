@@ -2222,6 +2222,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -2353,5 +2357,11 @@ https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeeyuva
 https://iptv.dongobd247.workers.dev/stream.m3u8?id=221253
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="98" tvg-name="Sky Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png" group-title="Sports-খেলা",Sky Sports
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=a3b44c1f-3086-4f46-a533-c34a55a30eb9
+https://proxy.dongobd247.workers.dev/master.m3u8?cid=skyscric
+#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="92" tvg-name="TNT Sport 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-2.png" group-title="Sports-খেলা",TNT Sport 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://proxy.dongobd247.workers.dev/master.m3u8?cid=bbtsp2
+#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="91" tvg-name="TNT  Sport 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png" group-title="Sports-খেলা",TNT  Sport 1
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://proxy.dongobd247.workers.dev/master.m3u8?cid=bbtsp1
 # --- END API (managed) ---
