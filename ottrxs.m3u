@@ -2170,6 +2170,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -2253,7 +2257,7 @@ https://ottbanglacdn.konikah799.workers.dev/api/b45f637d05/playlist.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://iptv.riyakahn418.workers.dev/71.m3u8
+http://iptv.riyakahn418.workers.dev/71.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="77" tvg-name="Chumbak TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/chumbak-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Chumbak TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/30779.m3u8
