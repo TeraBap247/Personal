@@ -6058,6 +6058,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -6108,7 +6112,7 @@ https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-348
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=74524e79-5f3a-4824-8202-b9e346acb9a4
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://iptv.dongobd247.workers.dev/stream.m3u8?id=245900
+https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=JALSHA-MOVIES
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb
@@ -6120,16 +6124,19 @@ https://jio.aminmuaz636.workers.dev/live.php?id=31eaf7
 https://jio.aminmuaz636.workers.dev/live.php?id=d03d92
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="254" tvg-name="Live Match" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",Live Match
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://customer-xzutz8x5zz7h9d1e.cloudflarestream.com/c5774cbfec1ab5fcf357537672a247bb/manifest/video.m3u8
+https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=1LIVE
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="253" tvg-name="ICC Women's Cricket World Cup 2025" tvg-logo="https://otapp.store/uploads/tv_image/sm/icc-womens-cricket-world-cup-2025.png" group-title="Event Channel",ICC Women's Cricket World Cup 2025
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/ad72e5ade8/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="252" tvg-name="BIG BOSS 247" tvg-logo="https://otapp.store/uploads/tv_image/sm/asia-cup-2.png" group-title="Event Channel",BIG BOSS 247
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://iptv.dongobd247.workers.dev/stream.m3u8?id=356533
+#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="250" tvg-name="EPL channel 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/epl-channel-2.png" group-title="Event Channel",EPL channel 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=LIVE-FOOTBALL
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="249" tvg-name="EPL channel 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/epl-channel-1.png" group-title="Event Channel",EPL channel 1
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://proxy.dongobd247.workers.dev/master.m3u8?cid=skysprem
+https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=Sky-Sports-premier-League
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="236" tvg-name="Super Hungama" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Super Hungama
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
@@ -6168,7 +6175,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=3aa4d27d-91e1-4afe-a6b5-de35beefae4f
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="212" tvg-name="Star Movies Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies-select.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Movies Select
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=STAR-MOVIES-SELECT
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="36" tvg-name="Sony Marathi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-marathi.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony Marathi
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259
