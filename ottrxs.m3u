@@ -7554,6 +7554,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://tablet.mindfulreviewbangla.workers.dev/stream.m3u8?id=STAR-MOVIE
@@ -7565,7 +7569,7 @@ https://jio.aminmuaz636.workers.dev/live.php?id=65d8f6
 https://ottbanglacdn.konikah799.workers.dev/api/04cb8cb9a7/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="34" tvg-name="Zee Classic" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-classic.png" group-title="Movie Channel",Zee Classic
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-176
+https://zee.kahbhira.workers.dev/stream.m3u8?id=0-9-176
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/f3311c7bbe/playlist.m3u8
@@ -7598,7 +7602,7 @@ https://ottbanglacdn.konikah799.workers.dev/api/da99628d15/playlist.m3u8
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f79543b0-41ab-433f-8bfc-53d6bba16399
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="128" tvg-name="Zee Zest HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png" group-title="Others Channel",Zee Zest HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-348
+https://zee.kahbhira.workers.dev/stream.m3u8?id=0-9-348
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=74524e79-5f3a-4824-8202-b9e346acb9a4
@@ -7676,7 +7680,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259
 https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-channel_2105335046
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="21" tvg-name="Zee Talkies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-talkies.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Talkies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeetalkies
+https://zee.kahbhira.workers.dev/stream.m3u8?id=0-9-zeetalkies
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="15" tvg-name="Zee Cafe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Cafe HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/f914787389/playlist.m3u8
@@ -7685,10 +7689,10 @@ https://ottbanglacdn.konikah799.workers.dev/api/f914787389/playlist.m3u8
 https://ottbanglacdn.konikah799.workers.dev/api/cf342d11fc/playlist.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="9" tvg-name="Zee Yuva" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-yuva.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee Yuva
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://proxy.bdiptv.store/kesto/stream.m3u8?id=0-9-zeeyuva
+https://zee.kahbhira.workers.dev/stream.m3u8?id=0-9-zeeyuva
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://iptv.dongobd247.workers.dev/stream.m3u8?id=221253
+https://zee.kahbhira.workers.dev/stream.m3u8?id=0-9-tvhd_0
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="221" tvg-name="T Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="Sports-খেলা",T Sports 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
