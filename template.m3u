@@ -13686,6 +13686,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 # --- BEGIN FANCODE (managed) ---
 # --- END FANCODE (managed) ---
 # --- BEGIN API (managed) ---
+# --- END API (managed) ---
+# --- BEGIN FANCODE (managed) ---
+# --- END FANCODE (managed) ---
+# --- BEGIN API (managed) ---
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://iptv.dongobd247.workers.dev/stream.m3u8?id=66213
@@ -13736,7 +13740,7 @@ https://zee.kahbhira.workers.dev/stream.m3u8?id=0-9-348
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=74524e79-5f3a-4824-8202-b9e346acb9a4
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=JALSHA-MOVIES
+http://iptv.riyakahn418.workers.dev/81.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb
@@ -13746,9 +13750,12 @@ https://jio.aminmuaz636.workers.dev/live.php?id=31eaf7
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://jio.aminmuaz636.workers.dev/live.php?id=d03d92
-#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="254" tvg-name="Live Match" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",Live Match
+#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="255" tvg-name="NPL" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",NPL
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-https://iptvidn.rumiislamrumi500.workers.dev/stream.m3u8?id=1LIVE
+https://bd-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8
+#EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="254" tvg-name="T-10" tvg-logo="https://otapp.store/uploads/default_image/tv_thumbnail.jpg" group-title="Event Channel",T-10
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
+https://bd-mc-fdlive.fancode.com/mumbai/138208_english_hls_930f3be5cd44322_1ta-di_h264/index.m3u8
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="253" tvg-name="BD VS Ireland" tvg-logo="https://otapp.store/uploads/tv_image/sm/bd-vs-ireland.png" group-title="Event Channel",BD VS Ireland
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 https://ottbanglacdn.konikah799.workers.dev/api/e931134b85/playlist.m3u8
